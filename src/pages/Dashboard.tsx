@@ -7,6 +7,7 @@ import TrendChart from "@/components/dashboard/TrendChart";
 import HypeReplay from "@/components/dashboard/HypeReplay";
 import InfluenceRadar from "@/components/dashboard/InfluenceRadar";
 import AlertPanel from "@/components/dashboard/AlertPanel";
+import TrendingCoins from "@/components/dashboard/TrendingCoins";
 
 const Dashboard = () => {
   const [sidebarCollapsed, setSidebarCollapsed] = useState(false);
@@ -33,6 +34,10 @@ const Dashboard = () => {
 
           <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.1 }}>
             <TrendChart />
+          </motion.div>
+
+          <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.15 }}>
+            <TrendingCoins />
           </motion.div>
 
           <div className="grid lg:grid-cols-2 gap-6">

@@ -35,7 +35,7 @@ const Navbar = () => {
             <Zap className="w-4 h-4 text-foreground" />
           </div>
           <span className="text-lg font-bold text-foreground tracking-tight">
-            TrustScore <span className="gradient-text">AI</span>
+            Hypex <span className="gradient-text">AI</span>
           </span>
         </Link>
 

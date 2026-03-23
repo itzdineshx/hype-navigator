@@ -32,7 +32,7 @@ const CTASection = () => (
           <span className="gradient-text text-glow">intelligence?</span>
         </h2>
         <p className="text-lg text-muted-foreground mb-10 max-w-xl mx-auto">
-          Join thousands of traders who use TrustScore AI to navigate the meme coin market with confidence.
+          Join thousands of traders who use Hypex AI to navigate the meme coin market with confidence.
         </p>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">

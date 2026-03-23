@@ -1,0 +1,501 @@
+source,post_id,author,context,text,coin_symbol,influencer_handle,engagement_score,sentiment_compound,created_at
+twitter,tw_2403_0001,CryptoKing,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE watch exchange inflow risk.,PEPE,CryptoKing,597,-0.389,2026-03-24T00:03:00
+twitter,tw_2403_0002,DegenDesk,social spike watch,SHIB momentum still healthy despite volatility.,SHIB,DegenDesk,1037,0.45,2026-03-24T00:06:00
+twitter,tw_2403_0003,AltcoinNora,social spike watch,SHIB rotation into meme basket continues.,SHIB,AltcoinNora,621,-0.339,2026-03-24T00:09:00
+twitter,tw_2403_0004,WifSignals,social spike watch,SHIB buyers defending support aggressively.,SHIB,WifSignals,1203,-0.03,2026-03-24T00:12:00
+twitter,tw_2403_0005,FrogCycle,social spike watch,DOGE volume confirms trend continuation.,DOGE,FrogCycle,448,0.151,2026-03-24T00:15:00
+twitter,tw_2403_0006,WifSignals,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE momentum still healthy despite volatility.,DOGE,WifSignals,482,0.358,2026-03-24T00:18:00
+twitter,tw_2403_0007,DegenDesk,social spike watch,DOGE range chop with selective strength.,DOGE,DegenDesk,1284,-0.14,2026-03-24T00:21:00
+twitter,tw_2403_0008,MemePulse,meme momentum,BONK rotation into meme basket continues.,BONK,MemePulse,598,0.751,2026-03-24T00:24:00
+twitter,tw_2403_0009,AltcoinNora,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF watch exchange inflow risk.,WIF,AltcoinNora,1167,0.147,2026-03-24T00:27:00
+twitter,tw_2403_0010,AltcoinNora,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB rotation into meme basket continues.,SHIB,AltcoinNora,672,-0.102,2026-03-24T00:30:00
+twitter,tw_2403_0011,FrogCycle,meme momentum,SHIB volume confirms trend continuation.,SHIB,FrogCycle,921,-0.409,2026-03-24T00:33:00
+twitter,tw_2403_0012,FrogCycle,meme momentum,DOGE sentiment cooling after leverage spike.,DOGE,FrogCycle,513,-0.086,2026-03-24T00:36:00
+twitter,tw_2403_0013,MemeRiskLab,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE sentiment cooling after leverage spike.,PEPE,MemeRiskLab,1468,0.293,2026-03-24T00:39:00
+twitter,tw_2403_0014,CryptoKing,social spike watch,PEPE momentum still healthy despite volatility.,PEPE,CryptoKing,1059,-0.031,2026-03-24T00:42:00
+twitter,tw_2403_0015,CryptoKing,social spike watch,WIF momentum still healthy despite volatility.,WIF,CryptoKing,823,-0.341,2026-03-24T00:45:00
+twitter,tw_2403_0016,WhaleScope,meme momentum,DOGE new wave of retail mentions.,DOGE,WhaleScope,657,0.525,2026-03-24T00:48:00
+twitter,tw_2403_0017,FrogCycle,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE range chop with selective strength.,PEPE,FrogCycle,557,-0.151,2026-03-24T00:51:00
+twitter,tw_2403_0018,MemePulse,social spike watch,SHIB strong breakout with heavy engagement.,SHIB,MemePulse,1338,0.032,2026-03-24T00:54:00
+twitter,tw_2403_0019,ShibIntel,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE rotation into meme basket continues.,DOGE,ShibIntel,1157,0.669,2026-03-24T00:57:00
+twitter,tw_2403_0020,WifSignals,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK rotation into meme basket continues.,BONK,WifSignals,737,0.326,2026-03-24T01:00:00
+twitter,tw_2403_0021,BonkRadar,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE momentum still healthy despite volatility.,DOGE,BonkRadar,358,0.063,2026-03-24T01:03:00
+twitter,tw_2403_0022,MemeRiskLab,social spike watch,WIF rotation into meme basket continues.,WIF,MemeRiskLab,1494,0.378,2026-03-24T01:06:00
+twitter,tw_2403_0023,MacroMeme,meme momentum,DOGE momentum still healthy despite volatility.,DOGE,MacroMeme,582,0.813,2026-03-24T01:09:00
+twitter,tw_2403_0024,ShibIntel,social spike watch,WIF new wave of retail mentions.,WIF,ShibIntel,829,0.241,2026-03-24T01:12:00
+twitter,tw_2403_0025,MacroMeme,social spike watch,BONK sentiment cooling after leverage spike.,BONK,MacroMeme,526,-0.066,2026-03-24T01:15:00
+twitter,tw_2403_0026,FrogCycle,social spike watch,BONK watch exchange inflow risk.,BONK,FrogCycle,737,0.08,2026-03-24T01:18:00
+twitter,tw_2403_0027,MemeRiskLab,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE volume confirms trend continuation.,DOGE,MemeRiskLab,468,0.172,2026-03-24T01:21:00
+twitter,tw_2403_0028,WifSignals,social spike watch,PEPE strong breakout with heavy engagement.,PEPE,WifSignals,1017,-0.665,2026-03-24T01:24:00
+twitter,tw_2403_0029,DegenDesk,meme momentum,SHIB rotation into meme basket continues.,SHIB,DegenDesk,784,0.305,2026-03-24T01:27:00
+twitter,tw_2403_0030,WifSignals,meme momentum,WIF strong breakout with heavy engagement.,WIF,WifSignals,833,0.223,2026-03-24T01:30:00
+twitter,tw_2403_0031,DegenDesk,meme momentum,BONK rotation into meme basket continues.,BONK,DegenDesk,556,-0.015,2026-03-24T01:33:00
+twitter,tw_2403_0032,MemePulse,social spike watch,BONK range chop with selective strength.,BONK,MemePulse,1204,0.125,2026-03-24T01:36:00
+twitter,tw_2403_0033,ShibIntel,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK momentum still healthy despite volatility.,BONK,ShibIntel,987,0.845,2026-03-24T01:39:00
+twitter,tw_2403_0034,CryptoKing,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE watch exchange inflow risk.,DOGE,CryptoKing,835,0.208,2026-03-24T01:42:00
+twitter,tw_2403_0035,MacroMeme,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE watch exchange inflow risk.,DOGE,MacroMeme,949,-0.446,2026-03-24T01:45:00
+twitter,tw_2403_0036,MemeRiskLab,social spike watch,DOGE new wave of retail mentions.,DOGE,MemeRiskLab,509,0.367,2026-03-24T01:48:00
+twitter,tw_2403_0037,CryptoKing,meme momentum,WIF rotation into meme basket continues.,WIF,CryptoKing,319,-0.303,2026-03-24T01:51:00
+twitter,tw_2403_0038,CryptoKing,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB buyers defending support aggressively.,SHIB,CryptoKing,876,-0.053,2026-03-24T01:54:00
+twitter,tw_2403_0039,CryptoKing,social spike watch,PEPE range chop with selective strength.,PEPE,CryptoKing,912,0.273,2026-03-24T01:57:00
+twitter,tw_2403_0040,MacroMeme,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE range chop with selective strength.,DOGE,MacroMeme,859,0.465,2026-03-24T02:00:00
+twitter,tw_2403_0041,BonkRadar,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE strong breakout with heavy engagement.,PEPE,BonkRadar,371,-0.04,2026-03-24T02:03:00
+twitter,tw_2403_0042,MemePulse,meme momentum,SHIB volume confirms trend continuation.,SHIB,MemePulse,1067,-0.609,2026-03-24T02:06:00
+twitter,tw_2403_0043,ShibIntel,meme momentum,SHIB community activity accelerating.,SHIB,ShibIntel,1033,-0.184,2026-03-24T02:09:00
+twitter,tw_2403_0044,BonkRadar,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK sentiment cooling after leverage spike.,BONK,BonkRadar,496,0.081,2026-03-24T02:12:00
+twitter,tw_2403_0045,ChainAlpha,meme momentum,SHIB sentiment cooling after leverage spike.,SHIB,ChainAlpha,953,-0.121,2026-03-24T02:15:00
+twitter,tw_2403_0046,MemePulse,social spike watch,SHIB watch exchange inflow risk.,SHIB,MemePulse,631,0.033,2026-03-24T02:18:00
+twitter,tw_2403_0047,ShibIntel,meme momentum,PEPE volume confirms trend continuation.,PEPE,ShibIntel,1271,-0.006,2026-03-24T02:21:00
+twitter,tw_2403_0048,BonkRadar,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB momentum still healthy despite volatility.,SHIB,BonkRadar,762,-0.622,2026-03-24T02:24:00
+twitter,tw_2403_0049,BonkRadar,meme momentum,BONK community activity accelerating.,BONK,BonkRadar,696,0.483,2026-03-24T02:27:00
+twitter,tw_2403_0050,BonkRadar,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE community activity accelerating.,PEPE,BonkRadar,770,0.408,2026-03-24T02:30:00
+twitter,tw_2403_0051,ChainAlpha,social spike watch,BONK momentum still healthy despite volatility.,BONK,ChainAlpha,913,0.061,2026-03-24T02:33:00
+twitter,tw_2403_0052,WhaleScope,social spike watch,SHIB range chop with selective strength.,SHIB,WhaleScope,1045,-0.668,2026-03-24T02:36:00
+twitter,tw_2403_0053,FrogCycle,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE sentiment cooling after leverage spike.,PEPE,FrogCycle,684,0.138,2026-03-24T02:39:00
+twitter,tw_2403_0054,MemePulse,social spike watch,DOGE rotation into meme basket continues.,DOGE,MemePulse,1208,0.236,2026-03-24T02:42:00
+twitter,tw_2403_0055,FrogCycle,meme momentum,PEPE strong breakout with heavy engagement.,PEPE,FrogCycle,868,-0.215,2026-03-24T02:45:00
+twitter,tw_2403_0056,BonkRadar,meme momentum,DOGE volume confirms trend continuation.,DOGE,BonkRadar,1214,-0.146,2026-03-24T02:48:00
+twitter,tw_2403_0057,MacroMeme,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE new wave of retail mentions.,DOGE,MacroMeme,554,0.077,2026-03-24T02:51:00
+twitter,tw_2403_0058,DegenDesk,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE buyers defending support aggressively.,PEPE,DegenDesk,1177,-0.054,2026-03-24T02:54:00
+twitter,tw_2403_0059,AltcoinNora,meme momentum,WIF community activity accelerating.,WIF,AltcoinNora,773,0.088,2026-03-24T02:57:00
+twitter,tw_2403_0060,MemePulse,meme momentum,WIF new wave of retail mentions.,WIF,MemePulse,1034,0.162,2026-03-24T03:00:00
+twitter,tw_2403_0061,ShibIntel,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF new wave of retail mentions.,WIF,ShibIntel,617,0.296,2026-03-24T03:03:00
+twitter,tw_2403_0062,DegenDesk,meme momentum,BONK momentum still healthy despite volatility.,BONK,DegenDesk,440,-0.068,2026-03-24T03:06:00
+twitter,tw_2403_0063,MacroMeme,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF buyers defending support aggressively.,WIF,MacroMeme,924,0.474,2026-03-24T03:09:00
+twitter,tw_2403_0064,MemeRiskLab,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB community activity accelerating.,SHIB,MemeRiskLab,1431,0.373,2026-03-24T03:12:00
+twitter,tw_2403_0065,WhaleScope,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE momentum still healthy despite volatility.,PEPE,WhaleScope,1172,0.636,2026-03-24T03:15:00
+twitter,tw_2403_0066,MacroMeme,social spike watch,SHIB buyers defending support aggressively.,SHIB,MacroMeme,1117,0.503,2026-03-24T03:18:00
+twitter,tw_2403_0067,WifSignals,meme momentum,BONK range chop with selective strength.,BONK,WifSignals,137,-0.117,2026-03-24T03:21:00
+twitter,tw_2403_0068,WifSignals,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE momentum still healthy despite volatility.,PEPE,WifSignals,635,0.289,2026-03-24T03:24:00
+twitter,tw_2403_0069,MemeRiskLab,meme momentum,SHIB momentum still healthy despite volatility.,SHIB,MemeRiskLab,328,0.305,2026-03-24T03:27:00
+twitter,tw_2403_0070,WifSignals,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE volume confirms trend continuation.,DOGE,WifSignals,838,-0.057,2026-03-24T03:30:00
+twitter,tw_2403_0071,DegenDesk,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE rotation into meme basket continues.,PEPE,DegenDesk,920,0.178,2026-03-24T03:33:00
+twitter,tw_2403_0072,BonkRadar,social spike watch,DOGE new wave of retail mentions.,DOGE,BonkRadar,611,0.174,2026-03-24T03:36:00
+twitter,tw_2403_0073,ChainAlpha,meme momentum,DOGE volume confirms trend continuation.,DOGE,ChainAlpha,710,-0.157,2026-03-24T03:39:00
+twitter,tw_2403_0074,BonkRadar,meme momentum,BONK rotation into meme basket continues.,BONK,BonkRadar,1056,0.26,2026-03-24T03:42:00
+twitter,tw_2403_0075,ChainAlpha,social spike watch,DOGE momentum still healthy despite volatility.,DOGE,ChainAlpha,752,-0.117,2026-03-24T03:45:00
+twitter,tw_2403_0076,DegenDesk,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE rotation into meme basket continues.,DOGE,DegenDesk,691,-0.404,2026-03-24T03:48:00
+twitter,tw_2403_0077,ChainAlpha,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE sentiment cooling after leverage spike.,PEPE,ChainAlpha,597,0.446,2026-03-24T03:51:00
+twitter,tw_2403_0078,ChainAlpha,meme momentum,WIF watch exchange inflow risk.,WIF,ChainAlpha,1056,-0.534,2026-03-24T03:54:00
+twitter,tw_2403_0079,ChainAlpha,social spike watch,WIF range chop with selective strength.,WIF,ChainAlpha,769,0.05,2026-03-24T03:57:00
+twitter,tw_2403_0080,DegenDesk,meme momentum,BONK watch exchange inflow risk.,BONK,DegenDesk,609,0.126,2026-03-24T04:00:00
+twitter,tw_2403_0081,AltcoinNora,social spike watch,PEPE momentum still healthy despite volatility.,PEPE,AltcoinNora,683,0.31,2026-03-24T04:03:00
+twitter,tw_2403_0082,AltcoinNora,social spike watch,DOGE sentiment cooling after leverage spike.,DOGE,AltcoinNora,1432,-0.175,2026-03-24T04:06:00
+twitter,tw_2403_0083,ShibIntel,meme momentum,PEPE momentum still healthy despite volatility.,PEPE,ShibIntel,472,0.316,2026-03-24T04:09:00
+twitter,tw_2403_0084,WifSignals,meme momentum,DOGE community activity accelerating.,DOGE,WifSignals,630,0.266,2026-03-24T04:12:00
+twitter,tw_2403_0085,WifSignals,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE community activity accelerating.,PEPE,WifSignals,749,-0.321,2026-03-24T04:15:00
+twitter,tw_2403_0086,MemeRiskLab,social spike watch,SHIB new wave of retail mentions.,SHIB,MemeRiskLab,812,0.372,2026-03-24T04:18:00
+twitter,tw_2403_0087,MacroMeme,social spike watch,DOGE momentum still healthy despite volatility.,DOGE,MacroMeme,923,-0.006,2026-03-24T04:21:00
+twitter,tw_2403_0088,MemePulse,social spike watch,SHIB range chop with selective strength.,SHIB,MemePulse,599,-0.184,2026-03-24T04:24:00
+twitter,tw_2403_0089,WhaleScope,social spike watch,SHIB rotation into meme basket continues.,SHIB,WhaleScope,334,0.738,2026-03-24T04:27:00
+twitter,tw_2403_0090,CryptoKing,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE momentum still healthy despite volatility.,PEPE,CryptoKing,633,-0.104,2026-03-24T04:30:00
+twitter,tw_2403_0091,BonkRadar,meme momentum,BONK range chop with selective strength.,BONK,BonkRadar,1014,0.63,2026-03-24T04:33:00
+twitter,tw_2403_0092,MemePulse,meme momentum,DOGE momentum still healthy despite volatility.,DOGE,MemePulse,1393,0.618,2026-03-24T04:36:00
+twitter,tw_2403_0093,AltcoinNora,meme momentum,BONK new wave of retail mentions.,BONK,AltcoinNora,898,0.104,2026-03-24T04:39:00
+twitter,tw_2403_0094,DegenDesk,meme momentum,SHIB community activity accelerating.,SHIB,DegenDesk,1035,-0.731,2026-03-24T04:42:00
+twitter,tw_2403_0095,CryptoKing,meme momentum,BONK range chop with selective strength.,BONK,CryptoKing,625,0.899,2026-03-24T04:45:00
+twitter,tw_2403_0096,MacroMeme,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE rotation into meme basket continues.,PEPE,MacroMeme,890,-0.144,2026-03-24T04:48:00
+twitter,tw_2403_0097,MemePulse,social spike watch,SHIB volume confirms trend continuation.,SHIB,MemePulse,1153,0.261,2026-03-24T04:51:00
+twitter,tw_2403_0098,AltcoinNora,social spike watch,BONK sentiment cooling after leverage spike.,BONK,AltcoinNora,956,0.667,2026-03-24T04:54:00
+twitter,tw_2403_0099,ChainAlpha,meme momentum,BONK range chop with selective strength.,BONK,ChainAlpha,455,0.209,2026-03-24T04:57:00
+twitter,tw_2403_0100,FrogCycle,meme momentum,BONK rotation into meme basket continues.,BONK,FrogCycle,757,0.292,2026-03-24T05:00:00
+twitter,tw_2403_0101,CryptoKing,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE community activity accelerating.,PEPE,CryptoKing,872,0.307,2026-03-24T05:03:00
+twitter,tw_2403_0102,WifSignals,social spike watch,DOGE sentiment cooling after leverage spike.,DOGE,WifSignals,788,0.095,2026-03-24T05:06:00
+twitter,tw_2403_0103,ChainAlpha,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE volume confirms trend continuation.,DOGE,ChainAlpha,896,-0.12,2026-03-24T05:09:00
+twitter,tw_2403_0104,MemePulse,meme momentum,DOGE momentum still healthy despite volatility.,DOGE,MemePulse,1115,0.1,2026-03-24T05:12:00
+twitter,tw_2403_0105,MacroMeme,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB range chop with selective strength.,SHIB,MacroMeme,1205,-0.231,2026-03-24T05:15:00
+twitter,tw_2403_0106,MemePulse,meme momentum,BONK watch exchange inflow risk.,BONK,MemePulse,630,0.687,2026-03-24T05:18:00
+twitter,tw_2403_0107,AltcoinNora,social spike watch,BONK range chop with selective strength.,BONK,AltcoinNora,843,0.074,2026-03-24T05:21:00
+twitter,tw_2403_0108,MemePulse,social spike watch,SHIB sentiment cooling after leverage spike.,SHIB,MemePulse,781,0.544,2026-03-24T05:24:00
+twitter,tw_2403_0109,MacroMeme,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE community activity accelerating.,PEPE,MacroMeme,525,0.185,2026-03-24T05:27:00
+twitter,tw_2403_0110,FrogCycle,meme momentum,PEPE community activity accelerating.,PEPE,FrogCycle,1029,-0.675,2026-03-24T05:30:00
+twitter,tw_2403_0111,BonkRadar,meme momentum,DOGE range chop with selective strength.,DOGE,BonkRadar,654,-0.041,2026-03-24T05:33:00
+twitter,tw_2403_0112,MacroMeme,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK community activity accelerating.,BONK,MacroMeme,980,0.144,2026-03-24T05:36:00
+twitter,tw_2403_0113,DegenDesk,meme momentum,SHIB rotation into meme basket continues.,SHIB,DegenDesk,683,-0.156,2026-03-24T05:39:00
+twitter,tw_2403_0114,CryptoKing,social spike watch,DOGE sentiment cooling after leverage spike.,DOGE,CryptoKing,451,0.231,2026-03-24T05:42:00
+twitter,tw_2403_0115,ChainAlpha,meme momentum,SHIB watch exchange inflow risk.,SHIB,ChainAlpha,791,0.011,2026-03-24T05:45:00
+twitter,tw_2403_0116,FrogCycle,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE sentiment cooling after leverage spike.,DOGE,FrogCycle,378,0.229,2026-03-24T05:48:00
+twitter,tw_2403_0117,CryptoKing,meme momentum,PEPE community activity accelerating.,PEPE,CryptoKing,369,0.23,2026-03-24T05:51:00
+twitter,tw_2403_0118,BonkRadar,social spike watch,PEPE range chop with selective strength.,PEPE,BonkRadar,698,0.331,2026-03-24T05:54:00
+twitter,tw_2403_0119,WhaleScope,social spike watch,WIF volume confirms trend continuation.,WIF,WhaleScope,1228,0.133,2026-03-24T05:57:00
+twitter,tw_2403_0120,DegenDesk,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB sentiment cooling after leverage spike.,SHIB,DegenDesk,897,0.16,2026-03-24T06:00:00
+twitter,tw_2403_0121,WhaleScope,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF range chop with selective strength.,WIF,WhaleScope,540,0.076,2026-03-24T06:03:00
+twitter,tw_2403_0122,MemePulse,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF rotation into meme basket continues.,WIF,MemePulse,567,0.078,2026-03-24T06:06:00
+twitter,tw_2403_0123,DegenDesk,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF rotation into meme basket continues.,WIF,DegenDesk,865,-0.181,2026-03-24T06:09:00
+twitter,tw_2403_0124,ShibIntel,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK new wave of retail mentions.,BONK,ShibIntel,1035,0.087,2026-03-24T06:12:00
+twitter,tw_2403_0125,CryptoKing,meme momentum,BONK momentum still healthy despite volatility.,BONK,CryptoKing,836,0.121,2026-03-24T06:15:00
+twitter,tw_2403_0126,FrogCycle,meme momentum,BONK sentiment cooling after leverage spike.,BONK,FrogCycle,494,0.899,2026-03-24T06:18:00
+twitter,tw_2403_0127,FrogCycle,meme momentum,WIF sentiment cooling after leverage spike.,WIF,FrogCycle,858,-0.133,2026-03-24T06:21:00
+twitter,tw_2403_0128,ShibIntel,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF new wave of retail mentions.,WIF,ShibIntel,1151,-0.44,2026-03-24T06:24:00
+twitter,tw_2403_0129,AltcoinNora,social spike watch,DOGE momentum still healthy despite volatility.,DOGE,AltcoinNora,993,-0.541,2026-03-24T06:27:00
+twitter,tw_2403_0130,MemeRiskLab,meme momentum,WIF watch exchange inflow risk.,WIF,MemeRiskLab,855,-0.362,2026-03-24T06:30:00
+twitter,tw_2403_0131,MemeRiskLab,social spike watch,SHIB strong breakout with heavy engagement.,SHIB,MemeRiskLab,584,-0.161,2026-03-24T06:33:00
+twitter,tw_2403_0132,MemeRiskLab,social spike watch,BONK sentiment cooling after leverage spike.,BONK,MemeRiskLab,1043,0.95,2026-03-24T06:36:00
+twitter,tw_2403_0133,FrogCycle,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB rotation into meme basket continues.,SHIB,FrogCycle,809,-0.052,2026-03-24T06:39:00
+twitter,tw_2403_0134,MemeRiskLab,meme momentum,SHIB sentiment cooling after leverage spike.,SHIB,MemeRiskLab,1333,-0.105,2026-03-24T06:42:00
+twitter,tw_2403_0135,MemePulse,social spike watch,BONK momentum still healthy despite volatility.,BONK,MemePulse,750,-0.35,2026-03-24T06:45:00
+twitter,tw_2403_0136,WhaleScope,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK community activity accelerating.,BONK,WhaleScope,960,-0.072,2026-03-24T06:48:00
+twitter,tw_2403_0137,DegenDesk,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE buyers defending support aggressively.,PEPE,DegenDesk,774,0.261,2026-03-24T06:51:00
+twitter,tw_2403_0138,ShibIntel,social spike watch,WIF watch exchange inflow risk.,WIF,ShibIntel,809,-0.092,2026-03-24T06:54:00
+twitter,tw_2403_0139,DegenDesk,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB momentum still healthy despite volatility.,SHIB,DegenDesk,523,0.317,2026-03-24T06:57:00
+twitter,tw_2403_0140,CryptoKing,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE momentum still healthy despite volatility.,DOGE,CryptoKing,963,0.661,2026-03-24T07:00:00
+twitter,tw_2403_0141,AltcoinNora,meme momentum,PEPE community activity accelerating.,PEPE,AltcoinNora,1297,-0.185,2026-03-24T07:03:00
+twitter,tw_2403_0142,BonkRadar,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB rotation into meme basket continues.,SHIB,BonkRadar,614,-0.262,2026-03-24T07:06:00
+twitter,tw_2403_0143,CryptoKing,social spike watch,SHIB new wave of retail mentions.,SHIB,CryptoKing,654,-0.293,2026-03-24T07:09:00
+twitter,tw_2403_0144,WifSignals,social spike watch,DOGE watch exchange inflow risk.,DOGE,WifSignals,984,0.1,2026-03-24T07:12:00
+twitter,tw_2403_0145,ChainAlpha,meme momentum,WIF strong breakout with heavy engagement.,WIF,ChainAlpha,530,0.334,2026-03-24T07:15:00
+twitter,tw_2403_0146,ShibIntel,meme momentum,DOGE watch exchange inflow risk.,DOGE,ShibIntel,1284,0.21,2026-03-24T07:18:00
+twitter,tw_2403_0147,ShibIntel,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF watch exchange inflow risk.,WIF,ShibIntel,772,0.371,2026-03-24T07:21:00
+twitter,tw_2403_0148,ChainAlpha,meme momentum,SHIB watch exchange inflow risk.,SHIB,ChainAlpha,575,0.312,2026-03-24T07:24:00
+twitter,tw_2403_0149,DegenDesk,social spike watch,DOGE buyers defending support aggressively.,DOGE,DegenDesk,1101,0.268,2026-03-24T07:27:00
+twitter,tw_2403_0150,DegenDesk,meme momentum,BONK new wave of retail mentions.,BONK,DegenDesk,965,0.11,2026-03-24T07:30:00
+twitter,tw_2403_0151,ChainAlpha,meme momentum,SHIB sentiment cooling after leverage spike.,SHIB,ChainAlpha,881,-0.322,2026-03-24T07:33:00
+twitter,tw_2403_0152,WifSignals,social spike watch,SHIB volume confirms trend continuation.,SHIB,WifSignals,653,0.332,2026-03-24T07:36:00
+twitter,tw_2403_0153,ChainAlpha,social spike watch,WIF community activity accelerating.,WIF,ChainAlpha,521,-0.391,2026-03-24T07:39:00
+twitter,tw_2403_0154,CryptoKing,meme momentum,SHIB range chop with selective strength.,SHIB,CryptoKing,710,-0.597,2026-03-24T07:42:00
+twitter,tw_2403_0155,AltcoinNora,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE momentum still healthy despite volatility.,PEPE,AltcoinNora,913,0.233,2026-03-24T07:45:00
+twitter,tw_2403_0156,DegenDesk,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE community activity accelerating.,DOGE,DegenDesk,728,-0.165,2026-03-24T07:48:00
+twitter,tw_2403_0157,DegenDesk,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK buyers defending support aggressively.,BONK,DegenDesk,790,0.439,2026-03-24T07:51:00
+twitter,tw_2403_0158,FrogCycle,meme momentum,WIF sentiment cooling after leverage spike.,WIF,FrogCycle,744,-0.165,2026-03-24T07:54:00
+twitter,tw_2403_0159,WhaleScope,social spike watch,PEPE momentum still healthy despite volatility.,PEPE,WhaleScope,888,-0.178,2026-03-24T07:57:00
+twitter,tw_2403_0160,CryptoKing,social spike watch,PEPE strong breakout with heavy engagement.,PEPE,CryptoKing,1342,0.302,2026-03-24T08:00:00
+twitter,tw_2403_0161,MemeRiskLab,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF momentum still healthy despite volatility.,WIF,MemeRiskLab,571,-0.601,2026-03-24T08:03:00
+twitter,tw_2403_0162,MemeRiskLab,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE sentiment cooling after leverage spike.,DOGE,MemeRiskLab,830,-0.095,2026-03-24T08:06:00
+twitter,tw_2403_0163,ChainAlpha,social spike watch,SHIB momentum still healthy despite volatility.,SHIB,ChainAlpha,608,0.285,2026-03-24T08:09:00
+twitter,tw_2403_0164,MacroMeme,meme momentum,SHIB strong breakout with heavy engagement.,SHIB,MacroMeme,694,0.451,2026-03-24T08:12:00
+twitter,tw_2403_0165,MemeRiskLab,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF community activity accelerating.,WIF,MemeRiskLab,1063,-0.438,2026-03-24T08:15:00
+twitter,tw_2403_0166,BonkRadar,social spike watch,SHIB strong breakout with heavy engagement.,SHIB,BonkRadar,1003,0.408,2026-03-24T08:18:00
+twitter,tw_2403_0167,AltcoinNora,social spike watch,BONK rotation into meme basket continues.,BONK,AltcoinNora,1383,0.006,2026-03-24T08:21:00
+twitter,tw_2403_0168,WifSignals,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF watch exchange inflow risk.,WIF,WifSignals,956,-0.245,2026-03-24T08:24:00
+twitter,tw_2403_0169,ShibIntel,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE sentiment cooling after leverage spike.,PEPE,ShibIntel,628,-0.074,2026-03-24T08:27:00
+twitter,tw_2403_0170,WhaleScope,meme momentum,DOGE community activity accelerating.,DOGE,WhaleScope,363,0.29,2026-03-24T08:30:00
+twitter,tw_2403_0171,WhaleScope,social spike watch,BONK volume confirms trend continuation.,BONK,WhaleScope,1164,0.145,2026-03-24T08:33:00
+twitter,tw_2403_0172,MemeRiskLab,meme momentum,BONK new wave of retail mentions.,BONK,MemeRiskLab,827,-0.533,2026-03-24T08:36:00
+twitter,tw_2403_0173,WifSignals,meme momentum,SHIB volume confirms trend continuation.,SHIB,WifSignals,548,0.401,2026-03-24T08:39:00
+twitter,tw_2403_0174,MacroMeme,social spike watch,SHIB volume confirms trend continuation.,SHIB,MacroMeme,552,0.155,2026-03-24T08:42:00
+twitter,tw_2403_0175,MemeRiskLab,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF community activity accelerating.,WIF,MemeRiskLab,692,-0.028,2026-03-24T08:45:00
+twitter,tw_2403_0176,WhaleScope,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK volume confirms trend continuation.,BONK,WhaleScope,1020,-0.234,2026-03-24T08:48:00
+twitter,tw_2403_0177,AltcoinNora,social spike watch,BONK momentum still healthy despite volatility.,BONK,AltcoinNora,529,0.566,2026-03-24T08:51:00
+twitter,tw_2403_0178,DegenDesk,social spike watch,BONK range chop with selective strength.,BONK,DegenDesk,869,0.051,2026-03-24T08:54:00
+twitter,tw_2403_0179,ShibIntel,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB volume confirms trend continuation.,SHIB,ShibIntel,1066,-0.343,2026-03-24T08:57:00
+twitter,tw_2403_0180,FrogCycle,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE rotation into meme basket continues.,DOGE,FrogCycle,723,-0.867,2026-03-24T09:00:00
+twitter,tw_2403_0181,WhaleScope,social spike watch,DOGE watch exchange inflow risk.,DOGE,WhaleScope,913,-0.614,2026-03-24T09:03:00
+twitter,tw_2403_0182,AltcoinNora,social spike watch,DOGE watch exchange inflow risk.,DOGE,AltcoinNora,1132,0.95,2026-03-24T09:06:00
+twitter,tw_2403_0183,WhaleScope,meme momentum,DOGE rotation into meme basket continues.,DOGE,WhaleScope,567,0.168,2026-03-24T09:09:00
+twitter,tw_2403_0184,WifSignals,meme momentum,PEPE watch exchange inflow risk.,PEPE,WifSignals,1410,0.334,2026-03-24T09:12:00
+twitter,tw_2403_0185,FrogCycle,social spike watch,SHIB community activity accelerating.,SHIB,FrogCycle,815,-0.261,2026-03-24T09:15:00
+twitter,tw_2403_0186,AltcoinNora,meme momentum,PEPE buyers defending support aggressively.,PEPE,AltcoinNora,1048,-0.041,2026-03-24T09:18:00
+twitter,tw_2403_0187,ShibIntel,meme momentum,BONK community activity accelerating.,BONK,ShibIntel,808,0.55,2026-03-24T09:21:00
+twitter,tw_2403_0188,CryptoKing,meme momentum,WIF range chop with selective strength.,WIF,CryptoKing,1013,0.257,2026-03-24T09:24:00
+twitter,tw_2403_0189,FrogCycle,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE volume confirms trend continuation.,PEPE,FrogCycle,526,0.549,2026-03-24T09:27:00
+twitter,tw_2403_0190,FrogCycle,meme momentum,SHIB volume confirms trend continuation.,SHIB,FrogCycle,683,-0.756,2026-03-24T09:30:00
+twitter,tw_2403_0191,MacroMeme,meme momentum,DOGE community activity accelerating.,DOGE,MacroMeme,939,-0.13,2026-03-24T09:33:00
+twitter,tw_2403_0192,CryptoKing,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB range chop with selective strength.,SHIB,CryptoKing,834,-0.244,2026-03-24T09:36:00
+twitter,tw_2403_0193,MemePulse,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK rotation into meme basket continues.,BONK,MemePulse,845,0.193,2026-03-24T09:39:00
+twitter,tw_2403_0194,BonkRadar,social spike watch,SHIB strong breakout with heavy engagement.,SHIB,BonkRadar,726,0.05,2026-03-24T09:42:00
+twitter,tw_2403_0195,MacroMeme,social spike watch,BONK sentiment cooling after leverage spike.,BONK,MacroMeme,847,-0.594,2026-03-24T09:45:00
+twitter,tw_2403_0196,AltcoinNora,meme momentum,BONK range chop with selective strength.,BONK,AltcoinNora,573,0.146,2026-03-24T09:48:00
+twitter,tw_2403_0197,ShibIntel,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF strong breakout with heavy engagement.,WIF,ShibIntel,604,-0.222,2026-03-24T09:51:00
+twitter,tw_2403_0198,ChainAlpha,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE range chop with selective strength.,PEPE,ChainAlpha,996,-0.282,2026-03-24T09:54:00
+twitter,tw_2403_0199,WhaleScope,social spike watch,SHIB range chop with selective strength.,SHIB,WhaleScope,887,-0.389,2026-03-24T09:57:00
+twitter,tw_2403_0200,BonkRadar,meme momentum,SHIB strong breakout with heavy engagement.,SHIB,BonkRadar,803,-0.851,2026-03-24T10:00:00
+twitter,tw_2403_0201,MemeRiskLab,meme momentum,BONK volume confirms trend continuation.,BONK,MemeRiskLab,326,0.109,2026-03-24T10:03:00
+twitter,tw_2403_0202,DegenDesk,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB rotation into meme basket continues.,SHIB,DegenDesk,332,-0.212,2026-03-24T10:06:00
+twitter,tw_2403_0203,CryptoKing,social spike watch,PEPE community activity accelerating.,PEPE,CryptoKing,975,-0.214,2026-03-24T10:09:00
+twitter,tw_2403_0204,WhaleScope,social spike watch,WIF range chop with selective strength.,WIF,WhaleScope,508,-0.293,2026-03-24T10:12:00
+twitter,tw_2403_0205,MacroMeme,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK range chop with selective strength.,BONK,MacroMeme,596,0.104,2026-03-24T10:15:00
+twitter,tw_2403_0206,FrogCycle,social spike watch,WIF community activity accelerating.,WIF,FrogCycle,827,-0.019,2026-03-24T10:18:00
+twitter,tw_2403_0207,MemePulse,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF community activity accelerating.,WIF,MemePulse,890,0.193,2026-03-24T10:21:00
+twitter,tw_2403_0208,ShibIntel,meme momentum,PEPE sentiment cooling after leverage spike.,PEPE,ShibIntel,825,-0.03,2026-03-24T10:24:00
+twitter,tw_2403_0209,MemeRiskLab,social spike watch,BONK community activity accelerating.,BONK,MemeRiskLab,349,-0.539,2026-03-24T10:27:00
+twitter,tw_2403_0210,CryptoKing,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB strong breakout with heavy engagement.,SHIB,CryptoKing,659,-0.406,2026-03-24T10:30:00
+twitter,tw_2403_0211,WhaleScope,social spike watch,PEPE rotation into meme basket continues.,PEPE,WhaleScope,942,0.023,2026-03-24T10:33:00
+twitter,tw_2403_0212,MacroMeme,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF sentiment cooling after leverage spike.,WIF,MacroMeme,1190,0.288,2026-03-24T10:36:00
+twitter,tw_2403_0213,DegenDesk,meme momentum,PEPE community activity accelerating.,PEPE,DegenDesk,1146,-0.316,2026-03-24T10:39:00
+twitter,tw_2403_0214,FrogCycle,meme momentum,DOGE watch exchange inflow risk.,DOGE,FrogCycle,1091,0.299,2026-03-24T10:42:00
+twitter,tw_2403_0215,MemeRiskLab,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB watch exchange inflow risk.,SHIB,MemeRiskLab,965,-0.215,2026-03-24T10:45:00
+twitter,tw_2403_0216,MemePulse,meme momentum,PEPE community activity accelerating.,PEPE,MemePulse,914,0.529,2026-03-24T10:48:00
+twitter,tw_2403_0217,MacroMeme,social spike watch,SHIB strong breakout with heavy engagement.,SHIB,MacroMeme,916,0.066,2026-03-24T10:51:00
+twitter,tw_2403_0218,FrogCycle,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE volume confirms trend continuation.,PEPE,FrogCycle,895,-0.062,2026-03-24T10:54:00
+twitter,tw_2403_0219,CryptoKing,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE sentiment cooling after leverage spike.,DOGE,CryptoKing,889,-0.14,2026-03-24T10:57:00
+twitter,tw_2403_0220,AltcoinNora,meme momentum,BONK sentiment cooling after leverage spike.,BONK,AltcoinNora,865,0.353,2026-03-24T11:00:00
+twitter,tw_2403_0221,MacroMeme,social spike watch,SHIB range chop with selective strength.,SHIB,MacroMeme,834,0.189,2026-03-24T11:03:00
+twitter,tw_2403_0222,MacroMeme,social spike watch,PEPE rotation into meme basket continues.,PEPE,MacroMeme,1687,-0.595,2026-03-24T11:06:00
+twitter,tw_2403_0223,CryptoKing,social spike watch,DOGE momentum still healthy despite volatility.,DOGE,CryptoKing,1042,0.011,2026-03-24T11:09:00
+twitter,tw_2403_0224,DegenDesk,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB momentum still healthy despite volatility.,SHIB,DegenDesk,1394,-0.255,2026-03-24T11:12:00
+twitter,tw_2403_0225,ChainAlpha,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK buyers defending support aggressively.,BONK,ChainAlpha,1012,0.274,2026-03-24T11:15:00
+twitter,tw_2403_0226,DegenDesk,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE watch exchange inflow risk.,DOGE,DegenDesk,721,0.326,2026-03-24T11:18:00
+twitter,tw_2403_0227,CryptoKing,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE rotation into meme basket continues.,PEPE,CryptoKing,920,-0.279,2026-03-24T11:21:00
+twitter,tw_2403_0228,WhaleScope,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE momentum still healthy despite volatility.,PEPE,WhaleScope,619,-0.224,2026-03-24T11:24:00
+twitter,tw_2403_0229,CryptoKing,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE strong breakout with heavy engagement.,DOGE,CryptoKing,683,-0.323,2026-03-24T11:27:00
+twitter,tw_2403_0230,FrogCycle,social spike watch,DOGE new wave of retail mentions.,DOGE,FrogCycle,1021,0.419,2026-03-24T11:30:00
+twitter,tw_2403_0231,FrogCycle,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF buyers defending support aggressively.,WIF,FrogCycle,1096,-0.061,2026-03-24T11:33:00
+twitter,tw_2403_0232,BonkRadar,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB sentiment cooling after leverage spike.,SHIB,BonkRadar,842,0.628,2026-03-24T11:36:00
+twitter,tw_2403_0233,MacroMeme,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB range chop with selective strength.,SHIB,MacroMeme,939,0.407,2026-03-24T11:39:00
+twitter,tw_2403_0234,CryptoKing,meme momentum,WIF sentiment cooling after leverage spike.,WIF,CryptoKing,475,-0.023,2026-03-24T11:42:00
+twitter,tw_2403_0235,CryptoKing,social spike watch,BONK buyers defending support aggressively.,BONK,CryptoKing,649,0.388,2026-03-24T11:45:00
+twitter,tw_2403_0236,FrogCycle,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB rotation into meme basket continues.,SHIB,FrogCycle,490,-0.066,2026-03-24T11:48:00
+twitter,tw_2403_0237,MemePulse,meme momentum,SHIB rotation into meme basket continues.,SHIB,MemePulse,784,-0.285,2026-03-24T11:51:00
+twitter,tw_2403_0238,WifSignals,social spike watch,DOGE rotation into meme basket continues.,DOGE,WifSignals,859,-0.058,2026-03-24T11:54:00
+twitter,tw_2403_0239,AltcoinNora,social spike watch,PEPE watch exchange inflow risk.,PEPE,AltcoinNora,661,-0.081,2026-03-24T11:57:00
+twitter,tw_2403_0240,MacroMeme,social spike watch,BONK range chop with selective strength.,BONK,MacroMeme,972,0.476,2026-03-24T12:00:00
+twitter,tw_2403_0241,MacroMeme,social spike watch,DOGE rotation into meme basket continues.,DOGE,MacroMeme,1338,-0.119,2026-03-24T12:03:00
+twitter,tw_2403_0242,ChainAlpha,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE community activity accelerating.,PEPE,ChainAlpha,1254,-0.104,2026-03-24T12:06:00
+twitter,tw_2403_0243,AltcoinNora,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK range chop with selective strength.,BONK,AltcoinNora,682,-0.04,2026-03-24T12:09:00
+twitter,tw_2403_0244,MacroMeme,social spike watch,BONK momentum still healthy despite volatility.,BONK,MacroMeme,985,0.16,2026-03-24T12:12:00
+twitter,tw_2403_0245,WifSignals,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK new wave of retail mentions.,BONK,WifSignals,900,-0.13,2026-03-24T12:15:00
+twitter,tw_2403_0246,WhaleScope,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE sentiment cooling after leverage spike.,PEPE,WhaleScope,897,-0.304,2026-03-24T12:18:00
+twitter,tw_2403_0247,AltcoinNora,meme momentum,DOGE range chop with selective strength.,DOGE,AltcoinNora,381,0.264,2026-03-24T12:21:00
+twitter,tw_2403_0248,WhaleScope,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF momentum still healthy despite volatility.,WIF,WhaleScope,751,-0.443,2026-03-24T12:24:00
+twitter,tw_2403_0249,CryptoKing,social spike watch,PEPE community activity accelerating.,PEPE,CryptoKing,509,0.248,2026-03-24T12:27:00
+twitter,tw_2403_0250,CryptoKing,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE momentum still healthy despite volatility.,PEPE,CryptoKing,908,0.195,2026-03-24T12:30:00
+twitter,tw_2403_0251,MacroMeme,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK momentum still healthy despite volatility.,BONK,MacroMeme,973,0.235,2026-03-24T12:33:00
+twitter,tw_2403_0252,CryptoKing,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE buyers defending support aggressively.,DOGE,CryptoKing,1096,-0.035,2026-03-24T12:36:00
+twitter,tw_2403_0253,MacroMeme,meme momentum,WIF sentiment cooling after leverage spike.,WIF,MacroMeme,833,-0.322,2026-03-24T12:39:00
+twitter,tw_2403_0254,ChainAlpha,meme momentum,WIF watch exchange inflow risk.,WIF,ChainAlpha,1608,0.493,2026-03-24T12:42:00
+twitter,tw_2403_0255,MemeRiskLab,meme momentum,SHIB rotation into meme basket continues.,SHIB,MemeRiskLab,675,0.128,2026-03-24T12:45:00
+twitter,tw_2403_0256,DegenDesk,social spike watch,PEPE sentiment cooling after leverage spike.,PEPE,DegenDesk,1060,0.156,2026-03-24T12:48:00
+twitter,tw_2403_0257,DegenDesk,social spike watch,SHIB sentiment cooling after leverage spike.,SHIB,DegenDesk,1284,0.691,2026-03-24T12:51:00
+twitter,tw_2403_0258,MemePulse,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE range chop with selective strength.,DOGE,MemePulse,742,0.081,2026-03-24T12:54:00
+twitter,tw_2403_0259,AltcoinNora,social spike watch,PEPE community activity accelerating.,PEPE,AltcoinNora,642,0.067,2026-03-24T12:57:00
+twitter,tw_2403_0260,BonkRadar,social spike watch,DOGE buyers defending support aggressively.,DOGE,BonkRadar,723,0.342,2026-03-24T13:00:00
+twitter,tw_2403_0261,ShibIntel,social spike watch,PEPE range chop with selective strength.,PEPE,ShibIntel,971,-0.703,2026-03-24T13:03:00
+twitter,tw_2403_0262,CryptoKing,social spike watch,PEPE momentum still healthy despite volatility.,PEPE,CryptoKing,600,-0.063,2026-03-24T13:06:00
+twitter,tw_2403_0263,WifSignals,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE momentum still healthy despite volatility.,PEPE,WifSignals,729,0.638,2026-03-24T13:09:00
+twitter,tw_2403_0264,DegenDesk,social spike watch,SHIB rotation into meme basket continues.,SHIB,DegenDesk,1101,0.001,2026-03-24T13:12:00
+twitter,tw_2403_0265,FrogCycle,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE watch exchange inflow risk.,PEPE,FrogCycle,1042,0.013,2026-03-24T13:15:00
+twitter,tw_2403_0266,AltcoinNora,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF rotation into meme basket continues.,WIF,AltcoinNora,1109,0.152,2026-03-24T13:18:00
+twitter,tw_2403_0267,ShibIntel,meme momentum,WIF new wave of retail mentions.,WIF,ShibIntel,727,0.512,2026-03-24T13:21:00
+twitter,tw_2403_0268,DegenDesk,social spike watch,BONK range chop with selective strength.,BONK,DegenDesk,1260,0.13,2026-03-24T13:24:00
+twitter,tw_2403_0269,AltcoinNora,social spike watch,WIF watch exchange inflow risk.,WIF,AltcoinNora,977,-0.036,2026-03-24T13:27:00
+twitter,tw_2403_0270,MemePulse,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB rotation into meme basket continues.,SHIB,MemePulse,1211,0.137,2026-03-24T13:30:00
+twitter,tw_2403_0271,ChainAlpha,social spike watch,BONK strong breakout with heavy engagement.,BONK,ChainAlpha,565,0.088,2026-03-24T13:33:00
+twitter,tw_2403_0272,ChainAlpha,meme momentum,PEPE watch exchange inflow risk.,PEPE,ChainAlpha,782,-0.188,2026-03-24T13:36:00
+twitter,tw_2403_0273,CryptoKing,meme momentum,WIF watch exchange inflow risk.,WIF,CryptoKing,489,0.543,2026-03-24T13:39:00
+twitter,tw_2403_0274,MemeRiskLab,meme momentum,WIF rotation into meme basket continues.,WIF,MemeRiskLab,904,0.156,2026-03-24T13:42:00
+twitter,tw_2403_0275,BonkRadar,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE strong breakout with heavy engagement.,PEPE,BonkRadar,547,0.525,2026-03-24T13:45:00
+twitter,tw_2403_0276,BonkRadar,social spike watch,SHIB strong breakout with heavy engagement.,SHIB,BonkRadar,424,0.268,2026-03-24T13:48:00
+twitter,tw_2403_0277,MacroMeme,social spike watch,DOGE volume confirms trend continuation.,DOGE,MacroMeme,1010,0.083,2026-03-24T13:51:00
+twitter,tw_2403_0278,ShibIntel,meme momentum,DOGE rotation into meme basket continues.,DOGE,ShibIntel,1285,0.221,2026-03-24T13:54:00
+twitter,tw_2403_0279,WifSignals,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK watch exchange inflow risk.,BONK,WifSignals,1210,0.043,2026-03-24T13:57:00
+twitter,tw_2403_0280,AltcoinNora,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF range chop with selective strength.,WIF,AltcoinNora,763,0.798,2026-03-24T14:00:00
+twitter,tw_2403_0281,FrogCycle,social spike watch,SHIB range chop with selective strength.,SHIB,FrogCycle,335,-0.174,2026-03-24T14:03:00
+twitter,tw_2403_0282,FrogCycle,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK momentum still healthy despite volatility.,BONK,FrogCycle,464,0.133,2026-03-24T14:06:00
+twitter,tw_2403_0283,MemePulse,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK range chop with selective strength.,BONK,MemePulse,258,0.11,2026-03-24T14:09:00
+twitter,tw_2403_0284,BonkRadar,meme momentum,BONK watch exchange inflow risk.,BONK,BonkRadar,892,0.084,2026-03-24T14:12:00
+twitter,tw_2403_0285,ChainAlpha,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF watch exchange inflow risk.,WIF,ChainAlpha,845,0.37,2026-03-24T14:15:00
+twitter,tw_2403_0286,AltcoinNora,meme momentum,PEPE watch exchange inflow risk.,PEPE,AltcoinNora,877,0.112,2026-03-24T14:18:00
+twitter,tw_2403_0287,MacroMeme,meme momentum,BONK range chop with selective strength.,BONK,MacroMeme,648,-0.075,2026-03-24T14:21:00
+twitter,tw_2403_0288,CryptoKing,social spike watch,DOGE strong breakout with heavy engagement.,DOGE,CryptoKing,20,0.481,2026-03-24T14:24:00
+twitter,tw_2403_0289,DegenDesk,meme momentum,DOGE new wave of retail mentions.,DOGE,DegenDesk,1079,0.903,2026-03-24T14:27:00
+twitter,tw_2403_0290,WifSignals,meme momentum,WIF range chop with selective strength.,WIF,WifSignals,760,0.393,2026-03-24T14:30:00
+twitter,tw_2403_0291,ShibIntel,meme momentum,BONK momentum still healthy despite volatility.,BONK,ShibIntel,535,-0.051,2026-03-24T14:33:00
+twitter,tw_2403_0292,ShibIntel,meme momentum,WIF rotation into meme basket continues.,WIF,ShibIntel,1428,0.375,2026-03-24T14:36:00
+twitter,tw_2403_0293,FrogCycle,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK watch exchange inflow risk.,BONK,FrogCycle,286,0.176,2026-03-24T14:39:00
+twitter,tw_2403_0294,WifSignals,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK range chop with selective strength.,BONK,WifSignals,1172,0.499,2026-03-24T14:42:00
+twitter,tw_2403_0295,WifSignals,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK sentiment cooling after leverage spike.,BONK,WifSignals,151,0.537,2026-03-24T14:45:00
+twitter,tw_2403_0296,DegenDesk,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE range chop with selective strength.,PEPE,DegenDesk,753,0.29,2026-03-24T14:48:00
+twitter,tw_2403_0297,MemePulse,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE community activity accelerating.,PEPE,MemePulse,738,0.041,2026-03-24T14:51:00
+twitter,tw_2403_0298,FrogCycle,meme momentum,SHIB buyers defending support aggressively.,SHIB,FrogCycle,489,0.538,2026-03-24T14:54:00
+twitter,tw_2403_0299,WhaleScope,meme momentum,WIF community activity accelerating.,WIF,WhaleScope,842,0.564,2026-03-24T14:57:00
+twitter,tw_2403_0300,ChainAlpha,meme momentum,DOGE strong breakout with heavy engagement.,DOGE,ChainAlpha,1266,0.827,2026-03-24T15:00:00
+twitter,tw_2403_0301,MemePulse,social spike watch,BONK strong breakout with heavy engagement.,BONK,MemePulse,874,0.183,2026-03-24T15:03:00
+twitter,tw_2403_0302,WhaleScope,social spike watch,SHIB rotation into meme basket continues.,SHIB,WhaleScope,897,0.312,2026-03-24T15:06:00
+twitter,tw_2403_0303,ChainAlpha,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE buyers defending support aggressively.,DOGE,ChainAlpha,840,-0.425,2026-03-24T15:09:00
+twitter,tw_2403_0304,MacroMeme,social spike watch,BONK community activity accelerating.,BONK,MacroMeme,384,0.329,2026-03-24T15:12:00
+twitter,tw_2403_0305,BonkRadar,social spike watch,WIF watch exchange inflow risk.,WIF,BonkRadar,1006,-0.204,2026-03-24T15:15:00
+twitter,tw_2403_0306,BonkRadar,meme momentum,BONK watch exchange inflow risk.,BONK,BonkRadar,1254,0.002,2026-03-24T15:18:00
+twitter,tw_2403_0307,WhaleScope,meme momentum,SHIB rotation into meme basket continues.,SHIB,WhaleScope,764,-0.094,2026-03-24T15:21:00
+twitter,tw_2403_0308,MemePulse,meme momentum,DOGE range chop with selective strength.,DOGE,MemePulse,327,0.089,2026-03-24T15:24:00
+twitter,tw_2403_0309,MemePulse,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK watch exchange inflow risk.,BONK,MemePulse,623,0.173,2026-03-24T15:27:00
+twitter,tw_2403_0310,WhaleScope,meme momentum,SHIB community activity accelerating.,SHIB,WhaleScope,1090,-0.318,2026-03-24T15:30:00
+twitter,tw_2403_0311,MemePulse,meme momentum,PEPE range chop with selective strength.,PEPE,MemePulse,233,0.373,2026-03-24T15:33:00
+twitter,tw_2403_0312,ShibIntel,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF watch exchange inflow risk.,WIF,ShibIntel,1033,0.253,2026-03-24T15:36:00
+twitter,tw_2403_0313,DegenDesk,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE buyers defending support aggressively.,DOGE,DegenDesk,804,-0.445,2026-03-24T15:39:00
+twitter,tw_2403_0314,DegenDesk,social spike watch,WIF buyers defending support aggressively.,WIF,DegenDesk,1107,0.296,2026-03-24T15:42:00
+twitter,tw_2403_0315,MemePulse,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK strong breakout with heavy engagement.,BONK,MemePulse,419,-0.243,2026-03-24T15:45:00
+twitter,tw_2403_0316,BonkRadar,social spike watch,SHIB watch exchange inflow risk.,SHIB,BonkRadar,677,-0.013,2026-03-24T15:48:00
+twitter,tw_2403_0317,MemeRiskLab,social spike watch,SHIB new wave of retail mentions.,SHIB,MemeRiskLab,848,-0.111,2026-03-24T15:51:00
+twitter,tw_2403_0318,WifSignals,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE range chop with selective strength.,PEPE,WifSignals,1561,0.669,2026-03-24T15:54:00
+twitter,tw_2403_0319,FrogCycle,meme momentum,DOGE rotation into meme basket continues.,DOGE,FrogCycle,1155,0.245,2026-03-24T15:57:00
+twitter,tw_2403_0320,WifSignals,social spike watch,BONK range chop with selective strength.,BONK,WifSignals,1287,-0.054,2026-03-24T16:00:00
+twitter,tw_2403_0321,AltcoinNora,social spike watch,BONK range chop with selective strength.,BONK,AltcoinNora,683,-0.352,2026-03-24T16:03:00
+twitter,tw_2403_0322,AltcoinNora,meme momentum,DOGE watch exchange inflow risk.,DOGE,AltcoinNora,1290,-0.197,2026-03-24T16:06:00
+twitter,tw_2403_0323,DegenDesk,social spike watch,SHIB momentum still healthy despite volatility.,SHIB,DegenDesk,899,0.51,2026-03-24T16:09:00
+twitter,tw_2403_0324,MemePulse,meme momentum,BONK buyers defending support aggressively.,BONK,MemePulse,1125,0.357,2026-03-24T16:12:00
+twitter,tw_2403_0325,MemeRiskLab,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF sentiment cooling after leverage spike.,WIF,MemeRiskLab,955,0.057,2026-03-24T16:15:00
+twitter,tw_2403_0326,MemeRiskLab,meme momentum,PEPE momentum still healthy despite volatility.,PEPE,MemeRiskLab,472,0.045,2026-03-24T16:18:00
+twitter,tw_2403_0327,ShibIntel,social spike watch,PEPE rotation into meme basket continues.,PEPE,ShibIntel,1010,-0.134,2026-03-24T16:21:00
+twitter,tw_2403_0328,DegenDesk,meme momentum,PEPE sentiment cooling after leverage spike.,PEPE,DegenDesk,1250,0.075,2026-03-24T16:24:00
+twitter,tw_2403_0329,MemeRiskLab,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK range chop with selective strength.,BONK,MemeRiskLab,981,0.193,2026-03-24T16:27:00
+twitter,tw_2403_0330,DegenDesk,meme momentum,BONK community activity accelerating.,BONK,DegenDesk,546,0.08,2026-03-24T16:30:00
+twitter,tw_2403_0331,ShibIntel,social spike watch,WIF buyers defending support aggressively.,WIF,ShibIntel,405,0.2,2026-03-24T16:33:00
+twitter,tw_2403_0332,WifSignals,social spike watch,WIF sentiment cooling after leverage spike.,WIF,WifSignals,864,-0.129,2026-03-24T16:36:00
+twitter,tw_2403_0333,MacroMeme,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB strong breakout with heavy engagement.,SHIB,MacroMeme,833,0.032,2026-03-24T16:39:00
+twitter,tw_2403_0334,AltcoinNora,social spike watch,DOGE sentiment cooling after leverage spike.,DOGE,AltcoinNora,1776,-0.044,2026-03-24T16:42:00
+twitter,tw_2403_0335,ChainAlpha,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK strong breakout with heavy engagement.,BONK,ChainAlpha,1094,0.071,2026-03-24T16:45:00
+twitter,tw_2403_0336,WifSignals,social spike watch,WIF watch exchange inflow risk.,WIF,WifSignals,540,0.64,2026-03-24T16:48:00
+twitter,tw_2403_0337,DegenDesk,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF range chop with selective strength.,WIF,DegenDesk,532,0.083,2026-03-24T16:51:00
+twitter,tw_2403_0338,ChainAlpha,meme momentum,DOGE buyers defending support aggressively.,DOGE,ChainAlpha,1039,-0.642,2026-03-24T16:54:00
+twitter,tw_2403_0339,MemeRiskLab,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE sentiment cooling after leverage spike.,PEPE,MemeRiskLab,1292,0.133,2026-03-24T16:57:00
+twitter,tw_2403_0340,ChainAlpha,meme momentum,WIF volume confirms trend continuation.,WIF,ChainAlpha,814,0.434,2026-03-24T17:00:00
+twitter,tw_2403_0341,WifSignals,meme momentum,DOGE momentum still healthy despite volatility.,DOGE,WifSignals,698,0.028,2026-03-24T17:03:00
+twitter,tw_2403_0342,MacroMeme,meme momentum,DOGE buyers defending support aggressively.,DOGE,MacroMeme,623,-0.133,2026-03-24T17:06:00
+twitter,tw_2403_0343,BonkRadar,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB new wave of retail mentions.,SHIB,BonkRadar,1190,0.165,2026-03-24T17:09:00
+twitter,tw_2403_0344,DegenDesk,social spike watch,PEPE community activity accelerating.,PEPE,DegenDesk,1167,0.857,2026-03-24T17:12:00
+twitter,tw_2403_0345,AltcoinNora,meme momentum,PEPE rotation into meme basket continues.,PEPE,AltcoinNora,840,-0.565,2026-03-24T17:15:00
+twitter,tw_2403_0346,CryptoKing,meme momentum,DOGE community activity accelerating.,DOGE,CryptoKing,1505,0.108,2026-03-24T17:18:00
+twitter,tw_2403_0347,DegenDesk,social spike watch,SHIB volume confirms trend continuation.,SHIB,DegenDesk,1055,-0.227,2026-03-24T17:21:00
+twitter,tw_2403_0348,ChainAlpha,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK watch exchange inflow risk.,BONK,ChainAlpha,1042,-0.165,2026-03-24T17:24:00
+twitter,tw_2403_0349,BonkRadar,social spike watch,WIF buyers defending support aggressively.,WIF,BonkRadar,927,0.302,2026-03-24T17:27:00
+twitter,tw_2403_0350,MemeRiskLab,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK buyers defending support aggressively.,BONK,MemeRiskLab,965,0.298,2026-03-24T17:30:00
+twitter,tw_2403_0351,WifSignals,meme momentum,BONK new wave of retail mentions.,BONK,WifSignals,1408,0.253,2026-03-24T17:33:00
+twitter,tw_2403_0352,WhaleScope,social spike watch,PEPE buyers defending support aggressively.,PEPE,WhaleScope,410,0.002,2026-03-24T17:36:00
+twitter,tw_2403_0353,MacroMeme,social spike watch,WIF range chop with selective strength.,WIF,MacroMeme,795,0.165,2026-03-24T17:39:00
+twitter,tw_2403_0354,CryptoKing,social spike watch,BONK buyers defending support aggressively.,BONK,CryptoKing,826,0.143,2026-03-24T17:42:00
+twitter,tw_2403_0355,MacroMeme,meme momentum,SHIB volume confirms trend continuation.,SHIB,MacroMeme,1029,0.099,2026-03-24T17:45:00
+twitter,tw_2403_0356,ShibIntel,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB range chop with selective strength.,SHIB,ShibIntel,1445,-0.305,2026-03-24T17:48:00
+twitter,tw_2403_0357,CryptoKing,meme momentum,DOGE momentum still healthy despite volatility.,DOGE,CryptoKing,728,0.348,2026-03-24T17:51:00
+twitter,tw_2403_0358,FrogCycle,meme momentum,DOGE rotation into meme basket continues.,DOGE,FrogCycle,805,0.111,2026-03-24T17:54:00
+twitter,tw_2403_0359,AltcoinNora,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE volume confirms trend continuation.,DOGE,AltcoinNora,1147,0.397,2026-03-24T17:57:00
+twitter,tw_2403_0360,MemeRiskLab,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE strong breakout with heavy engagement.,DOGE,MemeRiskLab,1222,0.709,2026-03-24T18:00:00
+twitter,tw_2403_0361,MacroMeme,meme momentum,DOGE strong breakout with heavy engagement.,DOGE,MacroMeme,811,-0.002,2026-03-24T18:03:00
+twitter,tw_2403_0362,AltcoinNora,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK rotation into meme basket continues.,BONK,AltcoinNora,976,-0.123,2026-03-24T18:06:00
+twitter,tw_2403_0363,FrogCycle,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK community activity accelerating.,BONK,FrogCycle,882,0.135,2026-03-24T18:09:00
+twitter,tw_2403_0364,FrogCycle,social spike watch,DOGE strong breakout with heavy engagement.,DOGE,FrogCycle,875,0.185,2026-03-24T18:12:00
+twitter,tw_2403_0365,MemeRiskLab,meme momentum,DOGE sentiment cooling after leverage spike.,DOGE,MemeRiskLab,1157,0.23,2026-03-24T18:15:00
+twitter,tw_2403_0366,ChainAlpha,meme momentum,WIF sentiment cooling after leverage spike.,WIF,ChainAlpha,565,0.377,2026-03-24T18:18:00
+twitter,tw_2403_0367,MemeRiskLab,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB volume confirms trend continuation.,SHIB,MemeRiskLab,914,0.395,2026-03-24T18:21:00
+twitter,tw_2403_0368,ShibIntel,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE sentiment cooling after leverage spike.,PEPE,ShibIntel,762,-0.135,2026-03-24T18:24:00
+twitter,tw_2403_0369,WifSignals,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF sentiment cooling after leverage spike.,WIF,WifSignals,1148,-0.272,2026-03-24T18:27:00
+twitter,tw_2403_0370,FrogCycle,social spike watch,PEPE buyers defending support aggressively.,PEPE,FrogCycle,831,0.463,2026-03-24T18:30:00
+twitter,tw_2403_0371,ShibIntel,social spike watch,BONK volume confirms trend continuation.,BONK,ShibIntel,654,-0.197,2026-03-24T18:33:00
+twitter,tw_2403_0372,MacroMeme,social spike watch,PEPE volume confirms trend continuation.,PEPE,MacroMeme,768,0.826,2026-03-24T18:36:00
+twitter,tw_2403_0373,ChainAlpha,meme momentum,WIF community activity accelerating.,WIF,ChainAlpha,760,-0.318,2026-03-24T18:39:00
+twitter,tw_2403_0374,MemeRiskLab,meme momentum,WIF rotation into meme basket continues.,WIF,MemeRiskLab,602,0.391,2026-03-24T18:42:00
+twitter,tw_2403_0375,FrogCycle,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE momentum still healthy despite volatility.,PEPE,FrogCycle,1090,-0.31,2026-03-24T18:45:00
+twitter,tw_2403_0376,MemePulse,meme momentum,BONK buyers defending support aggressively.,BONK,MemePulse,1116,0.83,2026-03-24T18:48:00
+twitter,tw_2403_0377,DegenDesk,meme momentum,PEPE volume confirms trend continuation.,PEPE,DegenDesk,477,0.539,2026-03-24T18:51:00
+twitter,tw_2403_0378,AltcoinNora,meme momentum,DOGE sentiment cooling after leverage spike.,DOGE,AltcoinNora,655,0.409,2026-03-24T18:54:00
+twitter,tw_2403_0379,DegenDesk,social spike watch,BONK watch exchange inflow risk.,BONK,DegenDesk,732,0.258,2026-03-24T18:57:00
+twitter,tw_2403_0380,MemePulse,meme momentum,SHIB new wave of retail mentions.,SHIB,MemePulse,452,0.098,2026-03-24T19:00:00
+twitter,tw_2403_0381,DegenDesk,meme momentum,SHIB buyers defending support aggressively.,SHIB,DegenDesk,1115,0.245,2026-03-24T19:03:00
+twitter,tw_2403_0382,ChainAlpha,meme momentum,DOGE buyers defending support aggressively.,DOGE,ChainAlpha,862,0.026,2026-03-24T19:06:00
+twitter,tw_2403_0383,AltcoinNora,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB community activity accelerating.,SHIB,AltcoinNora,753,0.192,2026-03-24T19:09:00
+twitter,tw_2403_0384,BonkRadar,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB volume confirms trend continuation.,SHIB,BonkRadar,561,0.155,2026-03-24T19:12:00
+twitter,tw_2403_0385,AltcoinNora,meme momentum,WIF community activity accelerating.,WIF,AltcoinNora,959,-0.053,2026-03-24T19:15:00
+twitter,tw_2403_0386,MemeRiskLab,meme momentum,SHIB community activity accelerating.,SHIB,MemeRiskLab,811,0.207,2026-03-24T19:18:00
+twitter,tw_2403_0387,WhaleScope,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE range chop with selective strength.,DOGE,WhaleScope,847,-0.532,2026-03-24T19:21:00
+twitter,tw_2403_0388,ChainAlpha,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK volume confirms trend continuation.,BONK,ChainAlpha,1519,-0.116,2026-03-24T19:24:00
+twitter,tw_2403_0389,DegenDesk,social spike watch,PEPE buyers defending support aggressively.,PEPE,DegenDesk,993,-0.613,2026-03-24T19:27:00
+twitter,tw_2403_0390,MacroMeme,social spike watch,WIF watch exchange inflow risk.,WIF,MacroMeme,289,0.212,2026-03-24T19:30:00
+twitter,tw_2403_0391,MemePulse,social spike watch,WIF rotation into meme basket continues.,WIF,MemePulse,768,-0.153,2026-03-24T19:33:00
+twitter,tw_2403_0392,ChainAlpha,social spike watch,BONK momentum still healthy despite volatility.,BONK,ChainAlpha,881,0.289,2026-03-24T19:36:00
+twitter,tw_2403_0393,FrogCycle,social spike watch,SHIB momentum still healthy despite volatility.,SHIB,FrogCycle,1125,-0.159,2026-03-24T19:39:00
+twitter,tw_2403_0394,ChainAlpha,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB buyers defending support aggressively.,SHIB,ChainAlpha,609,-0.104,2026-03-24T19:42:00
+twitter,tw_2403_0395,WifSignals,meme momentum,WIF range chop with selective strength.,WIF,WifSignals,835,-0.273,2026-03-24T19:45:00
+twitter,tw_2403_0396,WhaleScope,social spike watch,DOGE strong breakout with heavy engagement.,DOGE,WhaleScope,689,-0.307,2026-03-24T19:48:00
+twitter,tw_2403_0397,WifSignals,social spike watch,SHIB community activity accelerating.,SHIB,WifSignals,1050,-0.429,2026-03-24T19:51:00
+twitter,tw_2403_0398,MacroMeme,social spike watch,WIF sentiment cooling after leverage spike.,WIF,MacroMeme,1220,-0.17,2026-03-24T19:54:00
+twitter,tw_2403_0399,DegenDesk,social spike watch,SHIB momentum still healthy despite volatility.,SHIB,DegenDesk,1048,-0.097,2026-03-24T19:57:00
+twitter,tw_2403_0400,BonkRadar,social spike watch,BONK volume confirms trend continuation.,BONK,BonkRadar,1090,-0.298,2026-03-24T20:00:00
+twitter,tw_2403_0401,WifSignals,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB sentiment cooling after leverage spike.,SHIB,WifSignals,631,-0.007,2026-03-24T20:03:00
+twitter,tw_2403_0402,MemeRiskLab,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK momentum still healthy despite volatility.,BONK,MemeRiskLab,724,0.188,2026-03-24T20:06:00
+twitter,tw_2403_0403,FrogCycle,meme momentum,SHIB community activity accelerating.,SHIB,FrogCycle,1187,0.242,2026-03-24T20:09:00
+twitter,tw_2403_0404,MemeRiskLab,meme momentum,PEPE sentiment cooling after leverage spike.,PEPE,MemeRiskLab,840,-0.172,2026-03-24T20:12:00
+twitter,tw_2403_0405,DegenDesk,social spike watch,WIF community activity accelerating.,WIF,DegenDesk,716,0.581,2026-03-24T20:15:00
+twitter,tw_2403_0406,BonkRadar,social spike watch,DOGE rotation into meme basket continues.,DOGE,BonkRadar,1063,0.535,2026-03-24T20:18:00
+twitter,tw_2403_0407,FrogCycle,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK new wave of retail mentions.,BONK,FrogCycle,909,0.074,2026-03-24T20:21:00
+twitter,tw_2403_0408,WifSignals,meme momentum,WIF buyers defending support aggressively.,WIF,WifSignals,1222,0.044,2026-03-24T20:24:00
+twitter,tw_2403_0409,AltcoinNora,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK buyers defending support aggressively.,BONK,AltcoinNora,846,-0.054,2026-03-24T20:27:00
+twitter,tw_2403_0410,WifSignals,meme momentum,DOGE rotation into meme basket continues.,DOGE,WifSignals,594,-0.067,2026-03-24T20:30:00
+twitter,tw_2403_0411,CryptoKing,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE volume confirms trend continuation.,PEPE,CryptoKing,244,0.493,2026-03-24T20:33:00
+twitter,tw_2403_0412,MacroMeme,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE strong breakout with heavy engagement.,DOGE,MacroMeme,1052,0.111,2026-03-24T20:36:00
+twitter,tw_2403_0413,MemePulse,social spike watch,PEPE new wave of retail mentions.,PEPE,MemePulse,870,-0.155,2026-03-24T20:39:00
+twitter,tw_2403_0414,DegenDesk,social spike watch,PEPE strong breakout with heavy engagement.,PEPE,DegenDesk,517,0.693,2026-03-24T20:42:00
+twitter,tw_2403_0415,FrogCycle,meme momentum,WIF new wave of retail mentions.,WIF,FrogCycle,834,-0.267,2026-03-24T20:45:00
+twitter,tw_2403_0416,MemeRiskLab,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE new wave of retail mentions.,DOGE,MemeRiskLab,821,0.459,2026-03-24T20:48:00
+twitter,tw_2403_0417,CryptoKing,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF rotation into meme basket continues.,WIF,CryptoKing,997,-0.679,2026-03-24T20:51:00
+twitter,tw_2403_0418,ChainAlpha,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE volume confirms trend continuation.,DOGE,ChainAlpha,972,0.084,2026-03-24T20:54:00
+twitter,tw_2403_0419,ChainAlpha,meme momentum,PEPE new wave of retail mentions.,PEPE,ChainAlpha,1222,0.084,2026-03-24T20:57:00
+twitter,tw_2403_0420,CryptoKing,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB rotation into meme basket continues.,SHIB,CryptoKing,541,0.1,2026-03-24T21:00:00
+twitter,tw_2403_0421,CryptoKing,social spike watch,BONK watch exchange inflow risk.,BONK,CryptoKing,856,0.768,2026-03-24T21:03:00
+twitter,tw_2403_0422,ShibIntel,social spike watch,DOGE buyers defending support aggressively.,DOGE,ShibIntel,1267,0.264,2026-03-24T21:06:00
+twitter,tw_2403_0423,FrogCycle,meme momentum,SHIB volume confirms trend continuation.,SHIB,FrogCycle,851,0.608,2026-03-24T21:09:00
+twitter,tw_2403_0424,MemePulse,social spike watch,PEPE momentum still healthy despite volatility.,PEPE,MemePulse,1438,-0.173,2026-03-24T21:12:00
+twitter,tw_2403_0425,MemePulse,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB new wave of retail mentions.,SHIB,MemePulse,1153,0.815,2026-03-24T21:15:00
+twitter,tw_2403_0426,ChainAlpha,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK momentum still healthy despite volatility.,BONK,ChainAlpha,583,0.073,2026-03-24T21:18:00
+twitter,tw_2403_0427,WifSignals,social spike watch,SHIB volume confirms trend continuation.,SHIB,WifSignals,1078,-0.454,2026-03-24T21:21:00
+twitter,tw_2403_0428,ShibIntel,meme momentum,WIF community activity accelerating.,WIF,ShibIntel,547,0.557,2026-03-24T21:24:00
+twitter,tw_2403_0429,MemeRiskLab,social spike watch,SHIB momentum still healthy despite volatility.,SHIB,MemeRiskLab,703,-0.172,2026-03-24T21:27:00
+twitter,tw_2403_0430,CryptoKing,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE new wave of retail mentions.,PEPE,CryptoKing,1110,-0.149,2026-03-24T21:30:00
+twitter,tw_2403_0431,WifSignals,meme momentum,BONK strong breakout with heavy engagement.,BONK,WifSignals,863,0.127,2026-03-24T21:33:00
+twitter,tw_2403_0432,FrogCycle,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE new wave of retail mentions.,PEPE,FrogCycle,485,0.109,2026-03-24T21:36:00
+twitter,tw_2403_0433,CryptoKing,social spike watch,SHIB new wave of retail mentions.,SHIB,CryptoKing,435,-0.493,2026-03-24T21:39:00
+twitter,tw_2403_0434,WhaleScope,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF rotation into meme basket continues.,WIF,WhaleScope,563,-0.502,2026-03-24T21:42:00
+twitter,tw_2403_0435,AltcoinNora,social spike watch,DOGE strong breakout with heavy engagement.,DOGE,AltcoinNora,783,0.443,2026-03-24T21:45:00
+twitter,tw_2403_0436,MemeRiskLab,social spike watch,PEPE new wave of retail mentions.,PEPE,MemeRiskLab,771,0.355,2026-03-24T21:48:00
+twitter,tw_2403_0437,DegenDesk,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF watch exchange inflow risk.,WIF,DegenDesk,757,-0.091,2026-03-24T21:51:00
+twitter,tw_2403_0438,BonkRadar,meme momentum,SHIB rotation into meme basket continues.,SHIB,BonkRadar,526,0.388,2026-03-24T21:54:00
+twitter,tw_2403_0439,AltcoinNora,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK strong breakout with heavy engagement.,BONK,AltcoinNora,775,0.628,2026-03-24T21:57:00
+twitter,tw_2403_0440,AltcoinNora,meme momentum,DOGE watch exchange inflow risk.,DOGE,AltcoinNora,949,-0.129,2026-03-24T22:00:00
+twitter,tw_2403_0441,MemePulse,social spike watch,SHIB watch exchange inflow risk.,SHIB,MemePulse,668,-0.313,2026-03-24T22:03:00
+twitter,tw_2403_0442,CryptoKing,meme momentum,SHIB community activity accelerating.,SHIB,CryptoKing,715,0.529,2026-03-24T22:06:00
+twitter,tw_2403_0443,AltcoinNora,social spike watch,DOGE sentiment cooling after leverage spike.,DOGE,AltcoinNora,790,0.486,2026-03-24T22:09:00
+twitter,tw_2403_0444,DegenDesk,social spike watch,WIF watch exchange inflow risk.,WIF,DegenDesk,895,0.291,2026-03-24T22:12:00
+twitter,tw_2403_0445,FrogCycle,meme momentum,BONK community activity accelerating.,BONK,FrogCycle,884,-0.566,2026-03-24T22:15:00
+twitter,tw_2403_0446,WhaleScope,social spike watch,DOGE strong breakout with heavy engagement.,DOGE,WhaleScope,1212,-0.084,2026-03-24T22:18:00
+twitter,tw_2403_0447,BonkRadar,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE rotation into meme basket continues.,DOGE,BonkRadar,563,-0.461,2026-03-24T22:21:00
+twitter,tw_2403_0448,AltcoinNora,meme momentum,WIF rotation into meme basket continues.,WIF,AltcoinNora,838,0.32,2026-03-24T22:24:00
+twitter,tw_2403_0449,MacroMeme,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE buyers defending support aggressively.,DOGE,MacroMeme,1036,0.28,2026-03-24T22:27:00
+twitter,tw_2403_0450,AltcoinNora,social spike watch,BONK range chop with selective strength.,BONK,AltcoinNora,1152,-0.039,2026-03-24T22:30:00
+twitter,tw_2403_0451,MacroMeme,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE buyers defending support aggressively.,DOGE,MacroMeme,1031,-0.087,2026-03-24T22:33:00
+twitter,tw_2403_0452,MemeRiskLab,meme momentum,SHIB volume confirms trend continuation.,SHIB,MemeRiskLab,761,0.731,2026-03-24T22:36:00
+twitter,tw_2403_0453,MemeRiskLab,meme momentum,SHIB range chop with selective strength.,SHIB,MemeRiskLab,712,-0.111,2026-03-24T22:39:00
+twitter,tw_2403_0454,FrogCycle,social spike watch,BONK rotation into meme basket continues.,BONK,FrogCycle,711,0.178,2026-03-24T22:42:00
+twitter,tw_2403_0455,MemeRiskLab,meme momentum,BONK watch exchange inflow risk.,BONK,MemeRiskLab,271,0.329,2026-03-24T22:45:00
+twitter,tw_2403_0456,ShibIntel,social spike watch,DOGE momentum still healthy despite volatility.,DOGE,ShibIntel,878,-0.17,2026-03-24T22:48:00
+twitter,tw_2403_0457,BonkRadar,social spike watch,SHIB sentiment cooling after leverage spike.,SHIB,BonkRadar,1126,0.166,2026-03-24T22:51:00
+twitter,tw_2403_0458,MemePulse,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE volume confirms trend continuation.,PEPE,MemePulse,827,0.346,2026-03-24T22:54:00
+twitter,tw_2403_0459,FrogCycle,social spike watch,PEPE range chop with selective strength.,PEPE,FrogCycle,802,-0.348,2026-03-24T22:57:00
+twitter,tw_2403_0460,BonkRadar,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB rotation into meme basket continues.,SHIB,BonkRadar,888,0.0,2026-03-24T23:00:00
+twitter,tw_2403_0461,CryptoKing,meme momentum,DOGE watch exchange inflow risk.,DOGE,CryptoKing,866,0.2,2026-03-24T23:03:00
+twitter,tw_2403_0462,AltcoinNora,meme momentum,DOGE watch exchange inflow risk.,DOGE,AltcoinNora,612,-0.63,2026-03-24T23:06:00
+twitter,tw_2403_0463,DegenDesk,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE sentiment cooling after leverage spike.,DOGE,DegenDesk,282,0.489,2026-03-24T23:09:00
+twitter,tw_2403_0464,WifSignals,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK community activity accelerating.,BONK,WifSignals,1178,0.592,2026-03-24T23:12:00
+twitter,tw_2403_0465,MemePulse,social spike watch,BONK community activity accelerating.,BONK,MemePulse,20,0.539,2026-03-24T23:15:00
+twitter,tw_2403_0466,WifSignals,meme momentum,BONK new wave of retail mentions.,BONK,WifSignals,1101,-0.132,2026-03-24T23:18:00
+twitter,tw_2403_0467,WifSignals,social spike watch,PEPE volume confirms trend continuation.,PEPE,WifSignals,972,-0.443,2026-03-24T23:21:00
+twitter,tw_2403_0468,DegenDesk,meme momentum,WIF watch exchange inflow risk.,WIF,DegenDesk,997,-0.058,2026-03-24T23:24:00
+twitter,tw_2403_0469,CryptoKing,social spike watch,WIF sentiment cooling after leverage spike.,WIF,CryptoKing,1203,0.391,2026-03-24T23:27:00
+twitter,tw_2403_0470,MemeRiskLab,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB buyers defending support aggressively.,SHIB,MemeRiskLab,640,-0.045,2026-03-24T23:30:00
+twitter,tw_2403_0471,MemePulse,social spike watch,BONK momentum still healthy despite volatility.,BONK,MemePulse,865,0.716,2026-03-24T23:33:00
+twitter,tw_2403_0472,ChainAlpha,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB watch exchange inflow risk.,SHIB,ChainAlpha,935,0.005,2026-03-24T23:36:00
+twitter,tw_2403_0473,BonkRadar,social spike watch,DOGE strong breakout with heavy engagement.,DOGE,BonkRadar,451,-0.234,2026-03-24T23:39:00
+twitter,tw_2403_0474,MemePulse,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE community activity accelerating.,PEPE,MemePulse,1051,-0.588,2026-03-24T23:42:00
+twitter,tw_2403_0475,AltcoinNora,social spike watch,BONK sentiment cooling after leverage spike.,BONK,AltcoinNora,1200,-0.104,2026-03-24T23:45:00
+twitter,tw_2403_0476,ShibIntel,meme momentum,DOGE rotation into meme basket continues.,DOGE,ShibIntel,1084,-0.059,2026-03-24T23:48:00
+twitter,tw_2403_0477,MemeRiskLab,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB community activity accelerating.,SHIB,MemeRiskLab,888,-0.301,2026-03-24T23:51:00
+twitter,tw_2403_0478,DegenDesk,(doge OR pepe OR shib OR bonk OR wif) lang:en,DOGE momentum still healthy despite volatility.,DOGE,DegenDesk,495,0.118,2026-03-24T23:54:00
+twitter,tw_2403_0479,AltcoinNora,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB community activity accelerating.,SHIB,AltcoinNora,855,0.065,2026-03-24T23:57:00
+twitter,tw_2403_0480,MacroMeme,social spike watch,DOGE new wave of retail mentions.,DOGE,MacroMeme,211,0.142,2026-03-25T00:00:00
+twitter,tw_2403_0481,FrogCycle,social spike watch,PEPE buyers defending support aggressively.,PEPE,FrogCycle,932,-0.442,2026-03-25T00:03:00
+twitter,tw_2403_0482,DegenDesk,social spike watch,PEPE buyers defending support aggressively.,PEPE,DegenDesk,600,-0.156,2026-03-25T00:06:00
+twitter,tw_2403_0483,ChainAlpha,meme momentum,WIF sentiment cooling after leverage spike.,WIF,ChainAlpha,717,0.371,2026-03-25T00:09:00
+twitter,tw_2403_0484,MemePulse,meme momentum,PEPE volume confirms trend continuation.,PEPE,MemePulse,239,0.154,2026-03-25T00:12:00
+twitter,tw_2403_0485,CryptoKing,social spike watch,WIF buyers defending support aggressively.,WIF,CryptoKing,334,0.373,2026-03-25T00:15:00
+twitter,tw_2403_0486,MemePulse,(doge OR pepe OR shib OR bonk OR wif) lang:en,WIF momentum still healthy despite volatility.,WIF,MemePulse,1218,0.476,2026-03-25T00:18:00
+twitter,tw_2403_0487,AltcoinNora,social spike watch,WIF range chop with selective strength.,WIF,AltcoinNora,1185,0.535,2026-03-25T00:21:00
+twitter,tw_2403_0488,WhaleScope,meme momentum,SHIB rotation into meme basket continues.,SHIB,WhaleScope,1061,-0.283,2026-03-25T00:24:00
+twitter,tw_2403_0489,BonkRadar,social spike watch,BONK momentum still healthy despite volatility.,BONK,BonkRadar,1216,0.455,2026-03-25T00:27:00
+twitter,tw_2403_0490,FrogCycle,social spike watch,DOGE momentum still healthy despite volatility.,DOGE,FrogCycle,568,-0.481,2026-03-25T00:30:00
+twitter,tw_2403_0491,CryptoKing,meme momentum,DOGE volume confirms trend continuation.,DOGE,CryptoKing,983,0.037,2026-03-25T00:33:00
+twitter,tw_2403_0492,CryptoKing,meme momentum,PEPE watch exchange inflow risk.,PEPE,CryptoKing,955,0.057,2026-03-25T00:36:00
+twitter,tw_2403_0493,AltcoinNora,social spike watch,WIF range chop with selective strength.,WIF,AltcoinNora,855,-0.419,2026-03-25T00:39:00
+twitter,tw_2403_0494,MemeRiskLab,(doge OR pepe OR shib OR bonk OR wif) lang:en,BONK buyers defending support aggressively.,BONK,MemeRiskLab,470,0.259,2026-03-25T00:42:00
+twitter,tw_2403_0495,MemePulse,social spike watch,WIF sentiment cooling after leverage spike.,WIF,MemePulse,819,-0.334,2026-03-25T00:45:00
+twitter,tw_2403_0496,MemeRiskLab,social spike watch,BONK momentum still healthy despite volatility.,BONK,MemeRiskLab,932,-0.04,2026-03-25T00:48:00
+twitter,tw_2403_0497,BonkRadar,meme momentum,SHIB volume confirms trend continuation.,SHIB,BonkRadar,810,0.934,2026-03-25T00:51:00
+twitter,tw_2403_0498,WhaleScope,(doge OR pepe OR shib OR bonk OR wif) lang:en,PEPE rotation into meme basket continues.,PEPE,WhaleScope,826,0.254,2026-03-25T00:54:00
+twitter,tw_2403_0499,DegenDesk,(doge OR pepe OR shib OR bonk OR wif) lang:en,SHIB sentiment cooling after leverage spike.,SHIB,DegenDesk,812,-0.209,2026-03-25T00:57:00
+twitter,tw_2403_0500,MacroMeme,meme momentum,WIF volume confirms trend continuation.,WIF,MacroMeme,680,0.371,2026-03-25T01:00:00

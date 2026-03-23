@@ -11,7 +11,7 @@ const Footer = () => (
             <div className="w-7 h-7 rounded-lg gradient-primary flex items-center justify-center">
               <Zap className="w-3.5 h-3.5 text-foreground" />
             </div>
-            <span className="text-sm font-bold text-foreground">TrustScore AI</span>
+            <span className="text-sm font-bold text-foreground">Hypex AI</span>
           </div>
           <p className="text-xs text-muted-foreground leading-relaxed">
             AI-powered crypto intelligence for smarter trading decisions.
@@ -62,7 +62,7 @@ const Footer = () => (
       </div>
 
       <div className="border-t border-border pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
-        <p className="text-xs text-muted-foreground">© 2026 TrustScore AI. All rights reserved.</p>
+        <p className="text-xs text-muted-foreground">© 2026 Hypex AI. All rights reserved.</p>
         <div className="flex items-center gap-6">
           {["Twitter", "Discord", "GitHub"].map((s) => (
             <a key={s} href="#" className="text-xs text-muted-foreground hover:text-foreground transition-colors">{s}</a>

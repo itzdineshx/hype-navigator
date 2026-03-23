@@ -5,8 +5,8 @@ from sqlalchemy.orm import Session
 
 from app.db.session import get_db
 from app.models.entities import Alert, Coin, Influencer
-from app.schemas import AlertOut, CoinDetailOut, CoinOut, DexPairOut, InfluencerOut
-from app.services import fetch_top_pair_for_symbol
+from app.schemas import AlertOut, CoinDetailOut, CoinOut, CoinRealtimeOut, DexPairOut, DexTokenProfileOut, InfluencerOut
+from app.services.dexscreener import fetch_realtime_coin_snapshot, market_mood_emoji
 
 router = APIRouter()
 
@@ -33,8 +33,16 @@ def get_coin(symbol: str, db: Session = Depends(get_db)) -> CoinDetailOut:
     if not coin:
         raise HTTPException(status_code=404, detail=f"Coin '{symbol}' not found")
 
-    pair_payload = fetch_top_pair_for_symbol(symbol=coin.symbol)
+    snapshot = fetch_realtime_coin_snapshot(symbol=coin.symbol)
+    pair_payload = snapshot.get("dex_pair")
+    profile_payload = snapshot.get("dex_profile")
     dex_pair = DexPairOut(**pair_payload) if pair_payload else None
+    dex_profile = DexTokenProfileOut(**profile_payload) if profile_payload else None
+
+    price_change = (
+        dex_pair.price_change_h24 if dex_pair and dex_pair.price_change_h24 is not None else coin.change_24h
+    )
+    mood_emoji = market_mood_emoji(price_change, coin.trust_score, coin.hype_score)
 
     return CoinDetailOut(
         symbol=coin.symbol,
@@ -42,9 +50,7 @@ def get_coin(symbol: str, db: Session = Depends(get_db)) -> CoinDetailOut:
         price=dex_pair.price_usd if dex_pair and dex_pair.price_usd is not None else coin.price,
         market_cap=dex_pair.market_cap if dex_pair and dex_pair.market_cap is not None else coin.market_cap,
         volume_24h=dex_pair.volume_h24 if dex_pair and dex_pair.volume_h24 is not None else coin.volume_24h,
-        change_24h=dex_pair.price_change_h24
-        if dex_pair and dex_pair.price_change_h24 is not None
-        else coin.change_24h,
+        change_24h=price_change,
         hype_score=coin.hype_score,
         trust_score=coin.trust_score,
         sentiment_score=coin.sentiment_score,
@@ -52,6 +58,52 @@ def get_coin(symbol: str, db: Session = Depends(get_db)) -> CoinDetailOut:
         prediction_confidence=coin.prediction_confidence,
         risk_level=coin.risk_level,
         dex_pair=dex_pair,
+        dex_profile=dex_profile,
+        emoji=snapshot.get("emoji") or "\U0001FA99",
+        market_emoji=mood_emoji,
+        price_source="dexscreener" if dex_pair else "local_db",
+        last_updated=datetime.utcnow(),
+    )
+
+
+@router.get("/{symbol}/realtime", response_model=CoinRealtimeOut)
+def get_coin_realtime(symbol: str, db: Session = Depends(get_db)) -> CoinRealtimeOut:
+    coin = db.query(Coin).filter(Coin.symbol == symbol.upper()).first()
+    if not coin:
+        raise HTTPException(status_code=404, detail=f"Coin '{symbol}' not found")
+
+    snapshot = fetch_realtime_coin_snapshot(symbol=coin.symbol)
+    pair_payload = snapshot.get("dex_pair")
+    profile_payload = snapshot.get("dex_profile")
+    top_pairs_payload = snapshot.get("top_pairs") or []
+
+    dex_pair = DexPairOut(**pair_payload) if pair_payload else None
+    dex_profile = DexTokenProfileOut(**profile_payload) if profile_payload else None
+    top_pairs = [DexPairOut(**pair) for pair in top_pairs_payload]
+
+    price_change = (
+        dex_pair.price_change_h24 if dex_pair and dex_pair.price_change_h24 is not None else coin.change_24h
+    )
+    mood_emoji = market_mood_emoji(price_change, coin.trust_score, coin.hype_score)
+
+    return CoinRealtimeOut(
+        symbol=coin.symbol,
+        name=coin.name,
+        price=dex_pair.price_usd if dex_pair and dex_pair.price_usd is not None else coin.price,
+        market_cap=dex_pair.market_cap if dex_pair and dex_pair.market_cap is not None else coin.market_cap,
+        volume_24h=dex_pair.volume_h24 if dex_pair and dex_pair.volume_h24 is not None else coin.volume_24h,
+        change_24h=price_change,
+        hype_score=coin.hype_score,
+        trust_score=coin.trust_score,
+        sentiment_score=coin.sentiment_score,
+        prediction=coin.prediction,
+        prediction_confidence=coin.prediction_confidence,
+        risk_level=coin.risk_level,
+        dex_pair=dex_pair,
+        dex_profile=dex_profile,
+        top_pairs=top_pairs,
+        emoji=snapshot.get("emoji") or "\U0001FA99",
+        market_emoji=mood_emoji,
         price_source="dexscreener" if dex_pair else "local_db",
         last_updated=datetime.utcnow(),
     )

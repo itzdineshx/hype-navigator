@@ -1,5 +1,5 @@
 import { Link, useLocation } from "react-router-dom";
-import { LayoutDashboard, TrendingUp, Bell, History, Radio, Zap, ChevronLeft } from "lucide-react";
+import { LayoutDashboard, TrendingUp, Bell, History, Radio, FileText, FlaskConical, Zap, ChevronLeft } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 const navItems = [
@@ -8,6 +8,8 @@ const navItems = [
   { icon: Bell, label: "Alerts", path: "/alerts" },
   { icon: History, label: "Replay", path: "/replay" },
   { icon: Radio, label: "Influence", path: "/influence" },
+  { icon: FlaskConical, label: "Playground", path: "/playground" },
+  { icon: FileText, label: "Report", path: "/report" },
 ];
 
 interface Props {
@@ -32,7 +34,7 @@ const DashboardSidebar = ({ collapsed, onToggle }: Props) => {
             <Zap className="w-4 h-4 text-foreground" />
           </div>
           {!collapsed && (
-            <span className="text-sm font-bold text-foreground whitespace-nowrap">TrustScore AI</span>
+            <span className="text-sm font-bold text-foreground whitespace-nowrap">Hypex AI</span>
           )}
         </Link>
       </div>

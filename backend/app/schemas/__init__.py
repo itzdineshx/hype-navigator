@@ -5,12 +5,22 @@ from app.schemas.dashboard import (
     CoinDetailOut,
     AlertStatusUpdate,
     CoinOut,
+    CoinRealtimeOut,
     DashboardSummary,
+    DexLinkOut,
     DexPairOut,
+    DexTokenProfileOut,
     InfluenceMetricOut,
     InfluencerOut,
     ReplayEventOut,
     TrendPointOut,
+)
+from app.schemas.social import SocialFetchRequest, SocialFetchResponse, SocialPostOut
+from app.schemas.playground import (
+    PlaygroundSimulationRequest,
+    PlaygroundSimulationResponse,
+    PlaygroundSimulationPoint,
+    PlaygroundSourceShare,
 )
 
 __all__ = [
@@ -21,10 +31,20 @@ __all__ = [
     "AlertStatusUpdate",
     "CoinDetailOut",
     "CoinOut",
+    "CoinRealtimeOut",
     "DashboardSummary",
+    "DexLinkOut",
     "DexPairOut",
+    "DexTokenProfileOut",
     "InfluenceMetricOut",
     "InfluencerOut",
     "ReplayEventOut",
     "TrendPointOut",
+    "SocialFetchRequest",
+    "SocialFetchResponse",
+    "SocialPostOut",
+    "PlaygroundSimulationRequest",
+    "PlaygroundSimulationResponse",
+    "PlaygroundSimulationPoint",
+    "PlaygroundSourceShare",
 ]

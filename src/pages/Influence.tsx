@@ -1,26 +1,10 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid, RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, Radar } from "recharts";
-import { Users, Zap, TrendingUp, Eye, ExternalLink } from "lucide-react";
+import { Users, Zap, TrendingUp, Eye } from "lucide-react";
 import DashboardSidebar from "@/components/dashboard/DashboardSidebar";
 import TopBar from "@/components/dashboard/TopBar";
-
-const nodes = [
-  { id: 1, x: 50, y: 42, size: 38, label: "CryptoKing", score: 94, posts: 142, followers: "2.4M", trust: 88, category: "whale" },
-  { id: 2, x: 20, y: 22, size: 26, label: "DegenTrader", score: 72, posts: 89, followers: "890K", trust: 65, category: "trader" },
-  { id: 3, x: 80, y: 18, size: 30, label: "WhaleAlert", score: 88, posts: 201, followers: "1.8M", trust: 82, category: "analytics" },
-  { id: 4, x: 15, y: 70, size: 20, label: "MemeHunter", score: 65, posts: 56, followers: "340K", trust: 48, category: "meme" },
-  { id: 5, x: 82, y: 65, size: 28, label: "AlphaLeaks", score: 81, posts: 167, followers: "1.2M", trust: 77, category: "alpha" },
-  { id: 6, x: 52, y: 15, size: 16, label: "ShibArmy", score: 45, posts: 34, followers: "560K", trust: 32, category: "community" },
-  { id: 7, x: 33, y: 52, size: 18, label: "NFTGuru", score: 58, posts: 78, followers: "420K", trust: 55, category: "nft" },
-  { id: 8, x: 68, y: 78, size: 22, label: "PumpBot", score: 32, posts: 245, followers: "120K", trust: 12, category: "bot" },
-  { id: 9, x: 40, y: 82, size: 20, label: "CryptoNews", score: 71, posts: 312, followers: "3.1M", trust: 79, category: "media" },
-  { id: 10, x: 70, y: 40, size: 24, label: "DeFiDegen", score: 76, posts: 128, followers: "780K", trust: 68, category: "defi" },
-];
-
-const edges = [
-  [1, 2], [1, 3], [1, 5], [1, 7], [1, 10], [2, 4], [3, 6], [5, 8], [7, 4], [3, 5], [9, 1], [9, 3], [10, 5], [8, 4], [6, 7],
-];
+import InfluenceRadar from "@/components/dashboard/InfluenceRadar";
 
 const topInfluencers = [
   { name: "CryptoKing", score: 94, posts: 142, reach: "2.4M", trust: 88, impact: "Very High" },
@@ -45,18 +29,6 @@ const activityData = [
   { hour: "12", posts: 56 }, { hour: "16", posts: 48 }, { hour: "20", posts: 38 },
 ];
 
-const categoryColors: Record<string, string> = {
-  whale: "bg-primary/20 text-primary",
-  trader: "bg-warning/20 text-warning",
-  analytics: "bg-success/20 text-success",
-  meme: "bg-secondary/20 text-secondary",
-  alpha: "bg-primary/20 text-primary",
-  community: "bg-success/20 text-success",
-  nft: "bg-secondary/20 text-secondary",
-  bot: "bg-destructive/20 text-destructive",
-  media: "bg-warning/20 text-warning",
-  defi: "bg-primary/20 text-primary",
-};
 
 const CustomTooltip = ({ active, payload, label }: any) => {
   if (!active || !payload) return null;
@@ -74,10 +46,6 @@ const Influence = () => {
   const [sidebarCollapsed, setSidebarCollapsed] = useState(false);
   const [timeFilter, setTimeFilter] = useState("24h");
   const [search, setSearch] = useState("");
-  const [hovered, setHovered] = useState<number | null>(null);
-  const [selectedNode, setSelectedNode] = useState<number | null>(null);
-
-  const selected = selectedNode ? nodes.find(n => n.id === selectedNode) : null;
 
   return (
     <div className="min-h-screen bg-background flex">
@@ -101,95 +69,10 @@ const Influence = () => {
             ))}
           </motion.div>
 
-          {/* Network graph + detail panel */}
-          <div className="grid lg:grid-cols-3 gap-6">
-            <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.1 }} className="lg:col-span-2 glass rounded-2xl p-6 glow-border-secondary">
-              <h3 className="text-sm font-semibold text-foreground mb-1">📡 Influence Network</h3>
-              <p className="text-xs text-muted-foreground mb-5">Click a node to view details</p>
-              <div className="relative h-80">
-                <svg className="absolute inset-0 w-full h-full" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid meet">
-                  {edges.map(([a, b], i) => {
-                    const na = nodes.find((n) => n.id === a)!;
-                    const nb = nodes.find((n) => n.id === b)!;
-                    const isActive = hovered === a || hovered === b || selectedNode === a || selectedNode === b;
-                    return (
-                      <line key={i} x1={na.x} y1={na.y} x2={nb.x} y2={nb.y}
-                        stroke={isActive ? "hsl(270, 70%, 60%)" : "hsl(228, 12%, 20%)"}
-                        strokeWidth={isActive ? "0.6" : "0.3"} strokeOpacity={isActive ? 0.8 : 0.4}
-                        className="transition-all duration-300"
-                      />
-                    );
-                  })}
-                </svg>
-                {nodes.map((n) => (
-                  <div
-                    key={n.id}
-                    className="absolute cursor-pointer group"
-                    style={{ left: `${n.x}%`, top: `${n.y}%`, transform: "translate(-50%, -50%)" }}
-                    onMouseEnter={() => setHovered(n.id)}
-                    onMouseLeave={() => setHovered(null)}
-                    onClick={() => setSelectedNode(selectedNode === n.id ? null : n.id)}
-                  >
-                    <div
-                      className={`rounded-full flex items-center justify-center text-[9px] font-bold text-foreground transition-all duration-300 ${
-                        (hovered === n.id || selectedNode === n.id) ? "scale-150 glow-secondary" : ""
-                      }`}
-                      style={{ width: n.size, height: n.size, background: n.trust > 60 ? "linear-gradient(135deg, hsl(217, 91%, 60%), hsl(270, 70%, 60%))" : "linear-gradient(135deg, hsl(0, 72%, 51%), hsl(38, 92%, 50%))" }}
-                    >
-                      {n.score}
-                    </div>
-                    {hovered === n.id && (
-                      <div className="absolute top-full mt-2 left-1/2 -translate-x-1/2 glass-strong rounded-lg px-3 py-2 whitespace-nowrap z-20 animate-fade-in">
-                        <div className="text-xs font-semibold text-foreground">@{n.label}</div>
-                        <div className="text-[10px] text-muted-foreground">{n.followers} followers</div>
-                        <div className="text-[10px] text-muted-foreground">Trust: {n.trust}/100</div>
-                      </div>
-                    )}
-                  </div>
-                ))}
-              </div>
-            </motion.div>
-
-            {/* Detail panel */}
-            <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.15 }} className="glass rounded-2xl p-6 glow-border">
-              <h3 className="text-sm font-semibold text-foreground mb-4">👤 Influencer Detail</h3>
-              {selected ? (
-                <div className="space-y-4">
-                  <div className="flex items-center gap-3">
-                    <div className="w-12 h-12 rounded-full gradient-primary flex items-center justify-center text-sm font-bold text-foreground glow-primary">
-                      {selected.label[0]}
-                    </div>
-                    <div>
-                      <div className="text-sm font-semibold text-foreground">@{selected.label}</div>
-                      <span className={`px-2 py-0.5 rounded text-[10px] font-semibold ${categoryColors[selected.category]}`}>{selected.category}</span>
-                    </div>
-                  </div>
-                  {[
-                    { label: "Impact Score", value: `${selected.score}/100` },
-                    { label: "Trust Level", value: `${selected.trust}/100` },
-                    { label: "Posts", value: selected.posts.toString() },
-                    { label: "Followers", value: selected.followers },
-                  ].map((item) => (
-                    <div key={item.label} className="flex items-center justify-between py-2 border-b border-border/50">
-                      <span className="text-xs text-muted-foreground">{item.label}</span>
-                      <span className="text-xs font-mono text-foreground">{item.value}</span>
-                    </div>
-                  ))}
-                  <div>
-                    <div className="text-xs text-muted-foreground mb-2">Trust Score</div>
-                    <div className="w-full h-2 rounded-full bg-muted overflow-hidden">
-                      <div className={`h-full rounded-full transition-all duration-500 ${selected.trust > 60 ? 'bg-success' : selected.trust > 35 ? 'bg-warning' : 'bg-destructive'}`} style={{ width: `${selected.trust}%` }} />
-                    </div>
-                  </div>
-                </div>
-              ) : (
-                <div className="flex flex-col items-center justify-center h-48 text-center">
-                  <Users className="w-8 h-8 text-muted-foreground mb-3" />
-                  <p className="text-xs text-muted-foreground">Click a node in the network to view details</p>
-                </div>
-              )}
-            </motion.div>
-          </div>
+          {/* Network graph */}
+          <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.1 }}>
+            <InfluenceRadar />
+          </motion.div>
 
           <div className="grid lg:grid-cols-2 gap-6">
             {/* Radar comparison */}

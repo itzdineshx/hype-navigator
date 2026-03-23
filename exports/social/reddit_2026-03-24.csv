@@ -1,0 +1,501 @@
+source,post_id,author,context,text,coin_symbol,influencer_handle,engagement_score,sentiment_compound,created_at
+reddit,re_2403_0001,u/degendesk,CryptoMarkets,DOGE community activity accelerating.,DOGE,DegenDesk,317,-0.002,2026-03-24T00:04:00
+reddit,re_2403_0002,u/cryptoking,SatoshiStreetBets,SHIB sentiment cooling after leverage spike.,SHIB,CryptoKing,158,-0.245,2026-03-24T00:07:00
+reddit,re_2403_0003,u/memepulse,SatoshiStreetBets,BONK buyers defending support aggressively.,BONK,MemePulse,288,0.09,2026-03-24T00:10:00
+reddit,re_2403_0004,u/memepulse,CryptoCurrency,PEPE strong breakout with heavy engagement.,PEPE,MemePulse,403,0.274,2026-03-24T00:13:00
+reddit,re_2403_0005,u/altcoinnora,memecoins,PEPE rotation into meme basket continues.,PEPE,AltcoinNora,187,0.377,2026-03-24T00:16:00
+reddit,re_2403_0006,u/degendesk,memecoins,PEPE watch exchange inflow risk.,PEPE,DegenDesk,286,-0.189,2026-03-24T00:19:00
+reddit,re_2403_0007,u/macromeme,memecoins,DOGE range chop with selective strength.,DOGE,MacroMeme,140,-0.032,2026-03-24T00:22:00
+reddit,re_2403_0008,u/bonkradar,SatoshiStreetBets,WIF new wave of retail mentions.,WIF,BonkRadar,197,0.067,2026-03-24T00:25:00
+reddit,re_2403_0009,u/frogcycle,memecoins,BONK buyers defending support aggressively.,BONK,FrogCycle,68,0.02,2026-03-24T00:28:00
+reddit,re_2403_0010,u/whalescope,CryptoCurrency,WIF volume confirms trend continuation.,WIF,WhaleScope,260,-0.078,2026-03-24T00:31:00
+reddit,re_2403_0011,u/memepulse,CryptoMarkets,BONK sentiment cooling after leverage spike.,BONK,MemePulse,203,0.266,2026-03-24T00:34:00
+reddit,re_2403_0012,u/shibintel,CryptoCurrency,SHIB volume confirms trend continuation.,SHIB,ShibIntel,211,0.454,2026-03-24T00:37:00
+reddit,re_2403_0013,u/memerisklab,SatoshiStreetBets,PEPE range chop with selective strength.,PEPE,MemeRiskLab,82,-0.187,2026-03-24T00:40:00
+reddit,re_2403_0014,u/frogcycle,CryptoMarkets,SHIB range chop with selective strength.,SHIB,FrogCycle,250,0.198,2026-03-24T00:43:00
+reddit,re_2403_0015,u/chainalpha,CryptoMarkets,WIF watch exchange inflow risk.,WIF,ChainAlpha,327,0.27,2026-03-24T00:46:00
+reddit,re_2403_0016,u/whalescope,CryptoMarkets,BONK community activity accelerating.,BONK,WhaleScope,187,0.585,2026-03-24T00:49:00
+reddit,re_2403_0017,u/shibintel,memecoins,PEPE momentum still healthy despite volatility.,PEPE,ShibIntel,319,0.115,2026-03-24T00:52:00
+reddit,re_2403_0018,u/altcoinnora,CryptoMarkets,SHIB volume confirms trend continuation.,SHIB,AltcoinNora,313,-0.314,2026-03-24T00:55:00
+reddit,re_2403_0019,u/chainalpha,CryptoMarkets,WIF new wave of retail mentions.,WIF,ChainAlpha,27,0.143,2026-03-24T00:58:00
+reddit,re_2403_0020,u/altcoinnora,SatoshiStreetBets,SHIB community activity accelerating.,SHIB,AltcoinNora,369,-0.039,2026-03-24T01:01:00
+reddit,re_2403_0021,u/chainalpha,memecoins,SHIB community activity accelerating.,SHIB,ChainAlpha,55,0.455,2026-03-24T01:04:00
+reddit,re_2403_0022,u/cryptoking,CryptoMarkets,BONK rotation into meme basket continues.,BONK,CryptoKing,180,-0.401,2026-03-24T01:07:00
+reddit,re_2403_0023,u/degendesk,memecoins,PEPE community activity accelerating.,PEPE,DegenDesk,301,0.115,2026-03-24T01:10:00
+reddit,re_2403_0024,u/bonkradar,memecoins,WIF volume confirms trend continuation.,WIF,BonkRadar,162,0.236,2026-03-24T01:13:00
+reddit,re_2403_0025,u/wifsignals,SatoshiStreetBets,WIF strong breakout with heavy engagement.,WIF,WifSignals,206,0.047,2026-03-24T01:16:00
+reddit,re_2403_0026,u/cryptoking,SatoshiStreetBets,PEPE new wave of retail mentions.,PEPE,CryptoKing,375,0.151,2026-03-24T01:19:00
+reddit,re_2403_0027,u/altcoinnora,CryptoMarkets,PEPE range chop with selective strength.,PEPE,AltcoinNora,306,0.59,2026-03-24T01:22:00
+reddit,re_2403_0028,u/memepulse,CryptoCurrency,BONK new wave of retail mentions.,BONK,MemePulse,223,-0.041,2026-03-24T01:25:00
+reddit,re_2403_0029,u/shibintel,memecoins,SHIB volume confirms trend continuation.,SHIB,ShibIntel,226,-0.2,2026-03-24T01:28:00
+reddit,re_2403_0030,u/whalescope,CryptoMarkets,BONK community activity accelerating.,BONK,WhaleScope,223,-0.279,2026-03-24T01:31:00
+reddit,re_2403_0031,u/macromeme,memecoins,PEPE momentum still healthy despite volatility.,PEPE,MacroMeme,182,0.018,2026-03-24T01:34:00
+reddit,re_2403_0032,u/macromeme,SatoshiStreetBets,SHIB strong breakout with heavy engagement.,SHIB,MacroMeme,300,0.465,2026-03-24T01:37:00
+reddit,re_2403_0033,u/memerisklab,CryptoMarkets,BONK sentiment cooling after leverage spike.,BONK,MemeRiskLab,289,-0.16,2026-03-24T01:40:00
+reddit,re_2403_0034,u/degendesk,CryptoCurrency,SHIB sentiment cooling after leverage spike.,SHIB,DegenDesk,315,-0.18,2026-03-24T01:43:00
+reddit,re_2403_0035,u/whalescope,CryptoMarkets,BONK strong breakout with heavy engagement.,BONK,WhaleScope,177,-0.059,2026-03-24T01:46:00
+reddit,re_2403_0036,u/whalescope,CryptoCurrency,DOGE rotation into meme basket continues.,DOGE,WhaleScope,334,-0.072,2026-03-24T01:49:00
+reddit,re_2403_0037,u/macromeme,CryptoCurrency,DOGE volume confirms trend continuation.,DOGE,MacroMeme,178,0.404,2026-03-24T01:52:00
+reddit,re_2403_0038,u/macromeme,memecoins,SHIB new wave of retail mentions.,SHIB,MacroMeme,84,0.186,2026-03-24T01:55:00
+reddit,re_2403_0039,u/shibintel,SatoshiStreetBets,PEPE buyers defending support aggressively.,PEPE,ShibIntel,353,-0.229,2026-03-24T01:58:00
+reddit,re_2403_0040,u/chainalpha,CryptoMarkets,WIF momentum still healthy despite volatility.,WIF,ChainAlpha,348,0.057,2026-03-24T02:01:00
+reddit,re_2403_0041,u/shibintel,CryptoCurrency,SHIB range chop with selective strength.,SHIB,ShibIntel,348,-0.33,2026-03-24T02:04:00
+reddit,re_2403_0042,u/shibintel,CryptoMarkets,BONK watch exchange inflow risk.,BONK,ShibIntel,233,0.148,2026-03-24T02:07:00
+reddit,re_2403_0043,u/bonkradar,CryptoMarkets,WIF momentum still healthy despite volatility.,WIF,BonkRadar,296,0.258,2026-03-24T02:10:00
+reddit,re_2403_0044,u/cryptoking,memecoins,BONK watch exchange inflow risk.,BONK,CryptoKing,227,-0.42,2026-03-24T02:13:00
+reddit,re_2403_0045,u/chainalpha,CryptoMarkets,SHIB rotation into meme basket continues.,SHIB,ChainAlpha,194,0.047,2026-03-24T02:16:00
+reddit,re_2403_0046,u/macromeme,CryptoCurrency,WIF range chop with selective strength.,WIF,MacroMeme,114,0.294,2026-03-24T02:19:00
+reddit,re_2403_0047,u/cryptoking,CryptoMarkets,WIF community activity accelerating.,WIF,CryptoKing,449,-0.037,2026-03-24T02:22:00
+reddit,re_2403_0048,u/shibintel,memecoins,BONK sentiment cooling after leverage spike.,BONK,ShibIntel,222,-0.367,2026-03-24T02:25:00
+reddit,re_2403_0049,u/bonkradar,memecoins,PEPE sentiment cooling after leverage spike.,PEPE,BonkRadar,231,0.076,2026-03-24T02:28:00
+reddit,re_2403_0050,u/memepulse,CryptoCurrency,WIF sentiment cooling after leverage spike.,WIF,MemePulse,249,-0.314,2026-03-24T02:31:00
+reddit,re_2403_0051,u/memerisklab,memecoins,BONK range chop with selective strength.,BONK,MemeRiskLab,263,-0.036,2026-03-24T02:34:00
+reddit,re_2403_0052,u/chainalpha,CryptoCurrency,DOGE rotation into meme basket continues.,DOGE,ChainAlpha,389,0.692,2026-03-24T02:37:00
+reddit,re_2403_0053,u/altcoinnora,memecoins,BONK rotation into meme basket continues.,BONK,AltcoinNora,180,0.405,2026-03-24T02:40:00
+reddit,re_2403_0054,u/macromeme,SatoshiStreetBets,WIF rotation into meme basket continues.,WIF,MacroMeme,85,0.427,2026-03-24T02:43:00
+reddit,re_2403_0055,u/bonkradar,memecoins,PEPE range chop with selective strength.,PEPE,BonkRadar,256,-0.111,2026-03-24T02:46:00
+reddit,re_2403_0056,u/whalescope,SatoshiStreetBets,WIF range chop with selective strength.,WIF,WhaleScope,243,0.026,2026-03-24T02:49:00
+reddit,re_2403_0057,u/altcoinnora,CryptoMarkets,DOGE volume confirms trend continuation.,DOGE,AltcoinNora,115,0.072,2026-03-24T02:52:00
+reddit,re_2403_0058,u/cryptoking,SatoshiStreetBets,BONK new wave of retail mentions.,BONK,CryptoKing,172,0.209,2026-03-24T02:55:00
+reddit,re_2403_0059,u/whalescope,CryptoCurrency,BONK buyers defending support aggressively.,BONK,WhaleScope,356,0.152,2026-03-24T02:58:00
+reddit,re_2403_0060,u/degendesk,CryptoMarkets,DOGE momentum still healthy despite volatility.,DOGE,DegenDesk,320,0.265,2026-03-24T03:01:00
+reddit,re_2403_0061,u/memerisklab,memecoins,PEPE momentum still healthy despite volatility.,PEPE,MemeRiskLab,319,-0.152,2026-03-24T03:04:00
+reddit,re_2403_0062,u/whalescope,CryptoMarkets,PEPE sentiment cooling after leverage spike.,PEPE,WhaleScope,315,0.148,2026-03-24T03:07:00
+reddit,re_2403_0063,u/wifsignals,CryptoMarkets,WIF strong breakout with heavy engagement.,WIF,WifSignals,321,0.344,2026-03-24T03:10:00
+reddit,re_2403_0064,u/shibintel,SatoshiStreetBets,PEPE rotation into meme basket continues.,PEPE,ShibIntel,182,0.033,2026-03-24T03:13:00
+reddit,re_2403_0065,u/wifsignals,SatoshiStreetBets,SHIB new wave of retail mentions.,SHIB,WifSignals,159,0.248,2026-03-24T03:16:00
+reddit,re_2403_0066,u/memerisklab,SatoshiStreetBets,BONK watch exchange inflow risk.,BONK,MemeRiskLab,284,0.402,2026-03-24T03:19:00
+reddit,re_2403_0067,u/memepulse,CryptoCurrency,BONK new wave of retail mentions.,BONK,MemePulse,19,-0.828,2026-03-24T03:22:00
+reddit,re_2403_0068,u/chainalpha,CryptoCurrency,WIF strong breakout with heavy engagement.,WIF,ChainAlpha,216,0.185,2026-03-24T03:25:00
+reddit,re_2403_0069,u/cryptoking,memecoins,WIF new wave of retail mentions.,WIF,CryptoKing,202,0.351,2026-03-24T03:28:00
+reddit,re_2403_0070,u/bonkradar,CryptoCurrency,SHIB buyers defending support aggressively.,SHIB,BonkRadar,331,-0.287,2026-03-24T03:31:00
+reddit,re_2403_0071,u/shibintel,memecoins,WIF new wave of retail mentions.,WIF,ShibIntel,201,0.702,2026-03-24T03:34:00
+reddit,re_2403_0072,u/memerisklab,SatoshiStreetBets,PEPE volume confirms trend continuation.,PEPE,MemeRiskLab,283,0.364,2026-03-24T03:37:00
+reddit,re_2403_0073,u/cryptoking,memecoins,WIF buyers defending support aggressively.,WIF,CryptoKing,203,0.356,2026-03-24T03:40:00
+reddit,re_2403_0074,u/memepulse,CryptoMarkets,BONK rotation into meme basket continues.,BONK,MemePulse,133,-0.231,2026-03-24T03:43:00
+reddit,re_2403_0075,u/chainalpha,CryptoCurrency,SHIB volume confirms trend continuation.,SHIB,ChainAlpha,187,0.138,2026-03-24T03:46:00
+reddit,re_2403_0076,u/chainalpha,memecoins,WIF buyers defending support aggressively.,WIF,ChainAlpha,47,-0.161,2026-03-24T03:49:00
+reddit,re_2403_0077,u/chainalpha,CryptoMarkets,BONK momentum still healthy despite volatility.,BONK,ChainAlpha,328,-0.02,2026-03-24T03:52:00
+reddit,re_2403_0078,u/altcoinnora,CryptoCurrency,DOGE range chop with selective strength.,DOGE,AltcoinNora,385,0.509,2026-03-24T03:55:00
+reddit,re_2403_0079,u/cryptoking,SatoshiStreetBets,SHIB range chop with selective strength.,SHIB,CryptoKing,121,0.735,2026-03-24T03:58:00
+reddit,re_2403_0080,u/degendesk,memecoins,DOGE watch exchange inflow risk.,DOGE,DegenDesk,337,-0.26,2026-03-24T04:01:00
+reddit,re_2403_0081,u/degendesk,CryptoMarkets,WIF rotation into meme basket continues.,WIF,DegenDesk,375,0.207,2026-03-24T04:04:00
+reddit,re_2403_0082,u/frogcycle,SatoshiStreetBets,DOGE momentum still healthy despite volatility.,DOGE,FrogCycle,260,0.388,2026-03-24T04:07:00
+reddit,re_2403_0083,u/whalescope,memecoins,DOGE range chop with selective strength.,DOGE,WhaleScope,128,0.269,2026-03-24T04:10:00
+reddit,re_2403_0084,u/shibintel,CryptoCurrency,WIF range chop with selective strength.,WIF,ShibIntel,191,0.268,2026-03-24T04:13:00
+reddit,re_2403_0085,u/wifsignals,memecoins,DOGE watch exchange inflow risk.,DOGE,WifSignals,104,0.595,2026-03-24T04:16:00
+reddit,re_2403_0086,u/frogcycle,CryptoMarkets,BONK rotation into meme basket continues.,BONK,FrogCycle,127,0.228,2026-03-24T04:19:00
+reddit,re_2403_0087,u/chainalpha,memecoins,PEPE watch exchange inflow risk.,PEPE,ChainAlpha,309,0.009,2026-03-24T04:22:00
+reddit,re_2403_0088,u/shibintel,CryptoCurrency,WIF watch exchange inflow risk.,WIF,ShibIntel,277,0.109,2026-03-24T04:25:00
+reddit,re_2403_0089,u/memepulse,CryptoMarkets,BONK new wave of retail mentions.,BONK,MemePulse,229,-0.17,2026-03-24T04:28:00
+reddit,re_2403_0090,u/cryptoking,CryptoMarkets,PEPE momentum still healthy despite volatility.,PEPE,CryptoKing,301,0.494,2026-03-24T04:31:00
+reddit,re_2403_0091,u/frogcycle,memecoins,BONK watch exchange inflow risk.,BONK,FrogCycle,122,0.103,2026-03-24T04:34:00
+reddit,re_2403_0092,u/degendesk,SatoshiStreetBets,SHIB range chop with selective strength.,SHIB,DegenDesk,296,-0.532,2026-03-24T04:37:00
+reddit,re_2403_0093,u/macromeme,CryptoMarkets,BONK watch exchange inflow risk.,BONK,MacroMeme,259,0.16,2026-03-24T04:40:00
+reddit,re_2403_0094,u/macromeme,CryptoCurrency,SHIB range chop with selective strength.,SHIB,MacroMeme,272,0.122,2026-03-24T04:43:00
+reddit,re_2403_0095,u/frogcycle,memecoins,DOGE buyers defending support aggressively.,DOGE,FrogCycle,71,0.414,2026-03-24T04:46:00
+reddit,re_2403_0096,u/memerisklab,CryptoCurrency,PEPE buyers defending support aggressively.,PEPE,MemeRiskLab,200,0.275,2026-03-24T04:49:00
+reddit,re_2403_0097,u/chainalpha,CryptoCurrency,BONK watch exchange inflow risk.,BONK,ChainAlpha,287,0.003,2026-03-24T04:52:00
+reddit,re_2403_0098,u/degendesk,SatoshiStreetBets,SHIB momentum still healthy despite volatility.,SHIB,DegenDesk,248,0.029,2026-03-24T04:55:00
+reddit,re_2403_0099,u/macromeme,memecoins,DOGE momentum still healthy despite volatility.,DOGE,MacroMeme,377,-0.072,2026-03-24T04:58:00
+reddit,re_2403_0100,u/frogcycle,memecoins,DOGE range chop with selective strength.,DOGE,FrogCycle,187,0.297,2026-03-24T05:01:00
+reddit,re_2403_0101,u/memerisklab,CryptoMarkets,PEPE watch exchange inflow risk.,PEPE,MemeRiskLab,390,-0.282,2026-03-24T05:04:00
+reddit,re_2403_0102,u/memepulse,CryptoMarkets,DOGE sentiment cooling after leverage spike.,DOGE,MemePulse,150,-0.189,2026-03-24T05:07:00
+reddit,re_2403_0103,u/wifsignals,memecoins,DOGE sentiment cooling after leverage spike.,DOGE,WifSignals,257,0.148,2026-03-24T05:10:00
+reddit,re_2403_0104,u/degendesk,CryptoCurrency,PEPE range chop with selective strength.,PEPE,DegenDesk,217,0.245,2026-03-24T05:13:00
+reddit,re_2403_0105,u/chainalpha,CryptoCurrency,WIF new wave of retail mentions.,WIF,ChainAlpha,337,0.469,2026-03-24T05:16:00
+reddit,re_2403_0106,u/whalescope,memecoins,BONK watch exchange inflow risk.,BONK,WhaleScope,47,0.041,2026-03-24T05:19:00
+reddit,re_2403_0107,u/cryptoking,memecoins,DOGE community activity accelerating.,DOGE,CryptoKing,404,0.601,2026-03-24T05:22:00
+reddit,re_2403_0108,u/whalescope,SatoshiStreetBets,SHIB community activity accelerating.,SHIB,WhaleScope,243,-0.721,2026-03-24T05:25:00
+reddit,re_2403_0109,u/wifsignals,memecoins,PEPE watch exchange inflow risk.,PEPE,WifSignals,311,-0.009,2026-03-24T05:28:00
+reddit,re_2403_0110,u/whalescope,CryptoMarkets,BONK new wave of retail mentions.,BONK,WhaleScope,205,0.226,2026-03-24T05:31:00
+reddit,re_2403_0111,u/wifsignals,SatoshiStreetBets,SHIB range chop with selective strength.,SHIB,WifSignals,210,-0.134,2026-03-24T05:34:00
+reddit,re_2403_0112,u/shibintel,memecoins,BONK range chop with selective strength.,BONK,ShibIntel,222,0.7,2026-03-24T05:37:00
+reddit,re_2403_0113,u/altcoinnora,memecoins,WIF volume confirms trend continuation.,WIF,AltcoinNora,132,0.399,2026-03-24T05:40:00
+reddit,re_2403_0114,u/macromeme,CryptoCurrency,DOGE momentum still healthy despite volatility.,DOGE,MacroMeme,162,-0.065,2026-03-24T05:43:00
+reddit,re_2403_0115,u/bonkradar,memecoins,BONK sentiment cooling after leverage spike.,BONK,BonkRadar,247,0.546,2026-03-24T05:46:00
+reddit,re_2403_0116,u/frogcycle,SatoshiStreetBets,DOGE community activity accelerating.,DOGE,FrogCycle,93,0.192,2026-03-24T05:49:00
+reddit,re_2403_0117,u/wifsignals,memecoins,SHIB sentiment cooling after leverage spike.,SHIB,WifSignals,340,-0.052,2026-03-24T05:52:00
+reddit,re_2403_0118,u/macromeme,memecoins,PEPE community activity accelerating.,PEPE,MacroMeme,272,0.005,2026-03-24T05:55:00
+reddit,re_2403_0119,u/chainalpha,SatoshiStreetBets,SHIB sentiment cooling after leverage spike.,SHIB,ChainAlpha,362,0.397,2026-03-24T05:58:00
+reddit,re_2403_0120,u/whalescope,CryptoMarkets,DOGE rotation into meme basket continues.,DOGE,WhaleScope,57,-0.481,2026-03-24T06:01:00
+reddit,re_2403_0121,u/altcoinnora,CryptoCurrency,WIF strong breakout with heavy engagement.,WIF,AltcoinNora,379,0.26,2026-03-24T06:04:00
+reddit,re_2403_0122,u/cryptoking,CryptoMarkets,SHIB strong breakout with heavy engagement.,SHIB,CryptoKing,255,0.309,2026-03-24T06:07:00
+reddit,re_2403_0123,u/altcoinnora,memecoins,SHIB sentiment cooling after leverage spike.,SHIB,AltcoinNora,244,-0.328,2026-03-24T06:10:00
+reddit,re_2403_0124,u/whalescope,SatoshiStreetBets,PEPE rotation into meme basket continues.,PEPE,WhaleScope,10,0.267,2026-03-24T06:13:00
+reddit,re_2403_0125,u/cryptoking,CryptoMarkets,PEPE rotation into meme basket continues.,PEPE,CryptoKing,228,-0.317,2026-03-24T06:16:00
+reddit,re_2403_0126,u/bonkradar,SatoshiStreetBets,BONK volume confirms trend continuation.,BONK,BonkRadar,223,-0.048,2026-03-24T06:19:00
+reddit,re_2403_0127,u/degendesk,SatoshiStreetBets,WIF volume confirms trend continuation.,WIF,DegenDesk,157,0.171,2026-03-24T06:22:00
+reddit,re_2403_0128,u/memerisklab,memecoins,SHIB watch exchange inflow risk.,SHIB,MemeRiskLab,265,-0.116,2026-03-24T06:25:00
+reddit,re_2403_0129,u/shibintel,CryptoCurrency,SHIB watch exchange inflow risk.,SHIB,ShibIntel,291,-0.314,2026-03-24T06:28:00
+reddit,re_2403_0130,u/shibintel,SatoshiStreetBets,BONK momentum still healthy despite volatility.,BONK,ShibIntel,446,0.568,2026-03-24T06:31:00
+reddit,re_2403_0131,u/shibintel,SatoshiStreetBets,SHIB volume confirms trend continuation.,SHIB,ShibIntel,192,0.284,2026-03-24T06:34:00
+reddit,re_2403_0132,u/macromeme,memecoins,DOGE community activity accelerating.,DOGE,MacroMeme,134,0.169,2026-03-24T06:37:00
+reddit,re_2403_0133,u/chainalpha,SatoshiStreetBets,BONK community activity accelerating.,BONK,ChainAlpha,181,0.025,2026-03-24T06:40:00
+reddit,re_2403_0134,u/macromeme,SatoshiStreetBets,WIF strong breakout with heavy engagement.,WIF,MacroMeme,237,-0.105,2026-03-24T06:43:00
+reddit,re_2403_0135,u/whalescope,SatoshiStreetBets,BONK strong breakout with heavy engagement.,BONK,WhaleScope,157,0.022,2026-03-24T06:46:00
+reddit,re_2403_0136,u/memepulse,CryptoCurrency,PEPE community activity accelerating.,PEPE,MemePulse,230,0.95,2026-03-24T06:49:00
+reddit,re_2403_0137,u/degendesk,memecoins,BONK rotation into meme basket continues.,BONK,DegenDesk,227,-0.949,2026-03-24T06:52:00
+reddit,re_2403_0138,u/macromeme,CryptoMarkets,SHIB rotation into meme basket continues.,SHIB,MacroMeme,234,0.069,2026-03-24T06:55:00
+reddit,re_2403_0139,u/whalescope,CryptoCurrency,BONK community activity accelerating.,BONK,WhaleScope,259,-0.199,2026-03-24T06:58:00
+reddit,re_2403_0140,u/bonkradar,SatoshiStreetBets,PEPE range chop with selective strength.,PEPE,BonkRadar,148,-0.661,2026-03-24T07:01:00
+reddit,re_2403_0141,u/memepulse,memecoins,PEPE new wave of retail mentions.,PEPE,MemePulse,213,0.218,2026-03-24T07:04:00
+reddit,re_2403_0142,u/whalescope,CryptoCurrency,SHIB sentiment cooling after leverage spike.,SHIB,WhaleScope,175,-0.247,2026-03-24T07:07:00
+reddit,re_2403_0143,u/altcoinnora,memecoins,SHIB strong breakout with heavy engagement.,SHIB,AltcoinNora,211,0.515,2026-03-24T07:10:00
+reddit,re_2403_0144,u/degendesk,SatoshiStreetBets,PEPE volume confirms trend continuation.,PEPE,DegenDesk,209,-0.132,2026-03-24T07:13:00
+reddit,re_2403_0145,u/macromeme,CryptoCurrency,DOGE momentum still healthy despite volatility.,DOGE,MacroMeme,241,0.115,2026-03-24T07:16:00
+reddit,re_2403_0146,u/frogcycle,CryptoCurrency,DOGE strong breakout with heavy engagement.,DOGE,FrogCycle,165,0.297,2026-03-24T07:19:00
+reddit,re_2403_0147,u/degendesk,CryptoMarkets,BONK watch exchange inflow risk.,BONK,DegenDesk,130,0.006,2026-03-24T07:22:00
+reddit,re_2403_0148,u/memerisklab,SatoshiStreetBets,WIF momentum still healthy despite volatility.,WIF,MemeRiskLab,255,0.762,2026-03-24T07:25:00
+reddit,re_2403_0149,u/memerisklab,SatoshiStreetBets,DOGE community activity accelerating.,DOGE,MemeRiskLab,66,-0.086,2026-03-24T07:28:00
+reddit,re_2403_0150,u/frogcycle,SatoshiStreetBets,BONK volume confirms trend continuation.,BONK,FrogCycle,23,-0.12,2026-03-24T07:31:00
+reddit,re_2403_0151,u/memerisklab,CryptoCurrency,WIF community activity accelerating.,WIF,MemeRiskLab,265,0.107,2026-03-24T07:34:00
+reddit,re_2403_0152,u/cryptoking,memecoins,DOGE rotation into meme basket continues.,DOGE,CryptoKing,328,0.204,2026-03-24T07:37:00
+reddit,re_2403_0153,u/chainalpha,SatoshiStreetBets,BONK rotation into meme basket continues.,BONK,ChainAlpha,267,0.249,2026-03-24T07:40:00
+reddit,re_2403_0154,u/degendesk,memecoins,PEPE strong breakout with heavy engagement.,PEPE,DegenDesk,368,0.348,2026-03-24T07:43:00
+reddit,re_2403_0155,u/degendesk,SatoshiStreetBets,BONK volume confirms trend continuation.,BONK,DegenDesk,272,0.357,2026-03-24T07:46:00
+reddit,re_2403_0156,u/memerisklab,CryptoMarkets,DOGE sentiment cooling after leverage spike.,DOGE,MemeRiskLab,337,0.698,2026-03-24T07:49:00
+reddit,re_2403_0157,u/cryptoking,CryptoMarkets,PEPE range chop with selective strength.,PEPE,CryptoKing,203,0.102,2026-03-24T07:52:00
+reddit,re_2403_0158,u/memepulse,CryptoMarkets,DOGE rotation into meme basket continues.,DOGE,MemePulse,119,-0.447,2026-03-24T07:55:00
+reddit,re_2403_0159,u/degendesk,CryptoMarkets,PEPE rotation into meme basket continues.,PEPE,DegenDesk,323,-0.058,2026-03-24T07:58:00
+reddit,re_2403_0160,u/frogcycle,CryptoMarkets,WIF range chop with selective strength.,WIF,FrogCycle,286,0.021,2026-03-24T08:01:00
+reddit,re_2403_0161,u/wifsignals,CryptoCurrency,BONK momentum still healthy despite volatility.,BONK,WifSignals,243,-0.257,2026-03-24T08:04:00
+reddit,re_2403_0162,u/bonkradar,CryptoCurrency,WIF rotation into meme basket continues.,WIF,BonkRadar,148,0.645,2026-03-24T08:07:00
+reddit,re_2403_0163,u/altcoinnora,SatoshiStreetBets,BONK range chop with selective strength.,BONK,AltcoinNora,283,-0.288,2026-03-24T08:10:00
+reddit,re_2403_0164,u/macromeme,CryptoMarkets,DOGE volume confirms trend continuation.,DOGE,MacroMeme,289,-0.736,2026-03-24T08:13:00
+reddit,re_2403_0165,u/chainalpha,CryptoMarkets,WIF volume confirms trend continuation.,WIF,ChainAlpha,340,-0.017,2026-03-24T08:16:00
+reddit,re_2403_0166,u/memepulse,CryptoMarkets,WIF buyers defending support aggressively.,WIF,MemePulse,243,0.626,2026-03-24T08:19:00
+reddit,re_2403_0167,u/memepulse,CryptoMarkets,WIF new wave of retail mentions.,WIF,MemePulse,225,-0.258,2026-03-24T08:22:00
+reddit,re_2403_0168,u/wifsignals,CryptoMarkets,DOGE sentiment cooling after leverage spike.,DOGE,WifSignals,242,0.377,2026-03-24T08:25:00
+reddit,re_2403_0169,u/altcoinnora,CryptoCurrency,BONK strong breakout with heavy engagement.,BONK,AltcoinNora,289,0.179,2026-03-24T08:28:00
+reddit,re_2403_0170,u/frogcycle,SatoshiStreetBets,DOGE volume confirms trend continuation.,DOGE,FrogCycle,260,-0.549,2026-03-24T08:31:00
+reddit,re_2403_0171,u/macromeme,CryptoCurrency,PEPE volume confirms trend continuation.,PEPE,MacroMeme,55,-0.33,2026-03-24T08:34:00
+reddit,re_2403_0172,u/shibintel,memecoins,WIF watch exchange inflow risk.,WIF,ShibIntel,312,-0.266,2026-03-24T08:37:00
+reddit,re_2403_0173,u/memerisklab,SatoshiStreetBets,PEPE momentum still healthy despite volatility.,PEPE,MemeRiskLab,290,0.262,2026-03-24T08:40:00
+reddit,re_2403_0174,u/memerisklab,CryptoCurrency,PEPE sentiment cooling after leverage spike.,PEPE,MemeRiskLab,184,0.197,2026-03-24T08:43:00
+reddit,re_2403_0175,u/whalescope,CryptoCurrency,DOGE buyers defending support aggressively.,DOGE,WhaleScope,290,0.518,2026-03-24T08:46:00
+reddit,re_2403_0176,u/shibintel,SatoshiStreetBets,WIF community activity accelerating.,WIF,ShibIntel,320,-0.082,2026-03-24T08:49:00
+reddit,re_2403_0177,u/shibintel,CryptoCurrency,WIF volume confirms trend continuation.,WIF,ShibIntel,249,0.485,2026-03-24T08:52:00
+reddit,re_2403_0178,u/cryptoking,SatoshiStreetBets,DOGE volume confirms trend continuation.,DOGE,CryptoKing,128,0.172,2026-03-24T08:55:00
+reddit,re_2403_0179,u/shibintel,SatoshiStreetBets,SHIB watch exchange inflow risk.,SHIB,ShibIntel,139,0.217,2026-03-24T08:58:00
+reddit,re_2403_0180,u/whalescope,SatoshiStreetBets,BONK volume confirms trend continuation.,BONK,WhaleScope,174,0.084,2026-03-24T09:01:00
+reddit,re_2403_0181,u/wifsignals,CryptoMarkets,DOGE strong breakout with heavy engagement.,DOGE,WifSignals,317,-0.149,2026-03-24T09:04:00
+reddit,re_2403_0182,u/memerisklab,memecoins,WIF rotation into meme basket continues.,WIF,MemeRiskLab,249,-0.149,2026-03-24T09:07:00
+reddit,re_2403_0183,u/memerisklab,memecoins,BONK community activity accelerating.,BONK,MemeRiskLab,337,0.049,2026-03-24T09:10:00
+reddit,re_2403_0184,u/macromeme,SatoshiStreetBets,DOGE watch exchange inflow risk.,DOGE,MacroMeme,192,-0.041,2026-03-24T09:13:00
+reddit,re_2403_0185,u/bonkradar,CryptoCurrency,PEPE range chop with selective strength.,PEPE,BonkRadar,135,-0.024,2026-03-24T09:16:00
+reddit,re_2403_0186,u/bonkradar,CryptoMarkets,SHIB buyers defending support aggressively.,SHIB,BonkRadar,322,0.019,2026-03-24T09:19:00
+reddit,re_2403_0187,u/memerisklab,CryptoMarkets,BONK range chop with selective strength.,BONK,MemeRiskLab,101,0.382,2026-03-24T09:22:00
+reddit,re_2403_0188,u/degendesk,memecoins,WIF volume confirms trend continuation.,WIF,DegenDesk,113,0.135,2026-03-24T09:25:00
+reddit,re_2403_0189,u/macromeme,SatoshiStreetBets,BONK community activity accelerating.,BONK,MacroMeme,139,0.167,2026-03-24T09:28:00
+reddit,re_2403_0190,u/frogcycle,memecoins,BONK new wave of retail mentions.,BONK,FrogCycle,118,0.377,2026-03-24T09:31:00
+reddit,re_2403_0191,u/macromeme,CryptoCurrency,WIF momentum still healthy despite volatility.,WIF,MacroMeme,84,0.437,2026-03-24T09:34:00
+reddit,re_2403_0192,u/degendesk,CryptoCurrency,DOGE strong breakout with heavy engagement.,DOGE,DegenDesk,301,-0.267,2026-03-24T09:37:00
+reddit,re_2403_0193,u/altcoinnora,SatoshiStreetBets,DOGE strong breakout with heavy engagement.,DOGE,AltcoinNora,340,-0.375,2026-03-24T09:40:00
+reddit,re_2403_0194,u/whalescope,CryptoMarkets,DOGE rotation into meme basket continues.,DOGE,WhaleScope,269,0.362,2026-03-24T09:43:00
+reddit,re_2403_0195,u/memerisklab,CryptoCurrency,WIF new wave of retail mentions.,WIF,MemeRiskLab,364,0.111,2026-03-24T09:46:00
+reddit,re_2403_0196,u/cryptoking,memecoins,PEPE volume confirms trend continuation.,PEPE,CryptoKing,228,0.232,2026-03-24T09:49:00
+reddit,re_2403_0197,u/degendesk,CryptoCurrency,PEPE momentum still healthy despite volatility.,PEPE,DegenDesk,170,-0.485,2026-03-24T09:52:00
+reddit,re_2403_0198,u/memerisklab,memecoins,BONK momentum still healthy despite volatility.,BONK,MemeRiskLab,431,0.432,2026-03-24T09:55:00
+reddit,re_2403_0199,u/whalescope,CryptoCurrency,BONK watch exchange inflow risk.,BONK,WhaleScope,176,0.057,2026-03-24T09:58:00
+reddit,re_2403_0200,u/cryptoking,SatoshiStreetBets,BONK range chop with selective strength.,BONK,CryptoKing,336,-0.697,2026-03-24T10:01:00
+reddit,re_2403_0201,u/bonkradar,CryptoMarkets,BONK rotation into meme basket continues.,BONK,BonkRadar,343,-0.238,2026-03-24T10:04:00
+reddit,re_2403_0202,u/memepulse,memecoins,SHIB strong breakout with heavy engagement.,SHIB,MemePulse,240,0.003,2026-03-24T10:07:00
+reddit,re_2403_0203,u/wifsignals,memecoins,SHIB rotation into meme basket continues.,SHIB,WifSignals,336,0.165,2026-03-24T10:10:00
+reddit,re_2403_0204,u/whalescope,SatoshiStreetBets,PEPE range chop with selective strength.,PEPE,WhaleScope,172,0.064,2026-03-24T10:13:00
+reddit,re_2403_0205,u/altcoinnora,SatoshiStreetBets,WIF sentiment cooling after leverage spike.,WIF,AltcoinNora,192,-0.106,2026-03-24T10:16:00
+reddit,re_2403_0206,u/frogcycle,CryptoMarkets,DOGE volume confirms trend continuation.,DOGE,FrogCycle,251,-0.087,2026-03-24T10:19:00
+reddit,re_2403_0207,u/degendesk,CryptoMarkets,SHIB watch exchange inflow risk.,SHIB,DegenDesk,237,0.222,2026-03-24T10:22:00
+reddit,re_2403_0208,u/macromeme,CryptoCurrency,PEPE new wave of retail mentions.,PEPE,MacroMeme,136,-0.807,2026-03-24T10:25:00
+reddit,re_2403_0209,u/shibintel,CryptoCurrency,DOGE strong breakout with heavy engagement.,DOGE,ShibIntel,234,0.105,2026-03-24T10:28:00
+reddit,re_2403_0210,u/altcoinnora,CryptoCurrency,SHIB sentiment cooling after leverage spike.,SHIB,AltcoinNora,250,0.44,2026-03-24T10:31:00
+reddit,re_2403_0211,u/wifsignals,CryptoMarkets,WIF range chop with selective strength.,WIF,WifSignals,157,-0.057,2026-03-24T10:34:00
+reddit,re_2403_0212,u/wifsignals,CryptoCurrency,SHIB momentum still healthy despite volatility.,SHIB,WifSignals,127,0.344,2026-03-24T10:37:00
+reddit,re_2403_0213,u/frogcycle,SatoshiStreetBets,DOGE new wave of retail mentions.,DOGE,FrogCycle,347,0.41,2026-03-24T10:40:00
+reddit,re_2403_0214,u/cryptoking,SatoshiStreetBets,WIF volume confirms trend continuation.,WIF,CryptoKing,396,0.732,2026-03-24T10:43:00
+reddit,re_2403_0215,u/shibintel,CryptoCurrency,BONK new wave of retail mentions.,BONK,ShibIntel,308,0.221,2026-03-24T10:46:00
+reddit,re_2403_0216,u/chainalpha,CryptoCurrency,WIF momentum still healthy despite volatility.,WIF,ChainAlpha,245,0.365,2026-03-24T10:49:00
+reddit,re_2403_0217,u/chainalpha,CryptoMarkets,SHIB community activity accelerating.,SHIB,ChainAlpha,217,0.064,2026-03-24T10:52:00
+reddit,re_2403_0218,u/frogcycle,memecoins,SHIB strong breakout with heavy engagement.,SHIB,FrogCycle,410,0.531,2026-03-24T10:55:00
+reddit,re_2403_0219,u/memepulse,memecoins,PEPE range chop with selective strength.,PEPE,MemePulse,64,-0.28,2026-03-24T10:58:00
+reddit,re_2403_0220,u/bonkradar,CryptoMarkets,DOGE watch exchange inflow risk.,DOGE,BonkRadar,318,0.271,2026-03-24T11:01:00
+reddit,re_2403_0221,u/frogcycle,CryptoCurrency,SHIB buyers defending support aggressively.,SHIB,FrogCycle,260,0.085,2026-03-24T11:04:00
+reddit,re_2403_0222,u/frogcycle,CryptoMarkets,WIF watch exchange inflow risk.,WIF,FrogCycle,206,0.327,2026-03-24T11:07:00
+reddit,re_2403_0223,u/memepulse,SatoshiStreetBets,SHIB watch exchange inflow risk.,SHIB,MemePulse,249,-0.1,2026-03-24T11:10:00
+reddit,re_2403_0224,u/bonkradar,memecoins,WIF buyers defending support aggressively.,WIF,BonkRadar,130,0.187,2026-03-24T11:13:00
+reddit,re_2403_0225,u/chainalpha,memecoins,WIF rotation into meme basket continues.,WIF,ChainAlpha,85,-0.161,2026-03-24T11:16:00
+reddit,re_2403_0226,u/macromeme,CryptoCurrency,DOGE strong breakout with heavy engagement.,DOGE,MacroMeme,417,0.486,2026-03-24T11:19:00
+reddit,re_2403_0227,u/altcoinnora,memecoins,SHIB new wave of retail mentions.,SHIB,AltcoinNora,261,0.367,2026-03-24T11:22:00
+reddit,re_2403_0228,u/bonkradar,memecoins,WIF new wave of retail mentions.,WIF,BonkRadar,242,0.284,2026-03-24T11:25:00
+reddit,re_2403_0229,u/shibintel,SatoshiStreetBets,PEPE rotation into meme basket continues.,PEPE,ShibIntel,166,-0.189,2026-03-24T11:28:00
+reddit,re_2403_0230,u/frogcycle,CryptoCurrency,SHIB rotation into meme basket continues.,SHIB,FrogCycle,322,-0.154,2026-03-24T11:31:00
+reddit,re_2403_0231,u/degendesk,memecoins,SHIB range chop with selective strength.,SHIB,DegenDesk,178,-0.256,2026-03-24T11:34:00
+reddit,re_2403_0232,u/memepulse,SatoshiStreetBets,BONK new wave of retail mentions.,BONK,MemePulse,167,-0.513,2026-03-24T11:37:00
+reddit,re_2403_0233,u/memepulse,SatoshiStreetBets,DOGE momentum still healthy despite volatility.,DOGE,MemePulse,10,0.002,2026-03-24T11:40:00
+reddit,re_2403_0234,u/wifsignals,CryptoMarkets,WIF sentiment cooling after leverage spike.,WIF,WifSignals,255,-0.028,2026-03-24T11:43:00
+reddit,re_2403_0235,u/bonkradar,SatoshiStreetBets,SHIB watch exchange inflow risk.,SHIB,BonkRadar,160,0.07,2026-03-24T11:46:00
+reddit,re_2403_0236,u/memerisklab,SatoshiStreetBets,PEPE range chop with selective strength.,PEPE,MemeRiskLab,159,0.351,2026-03-24T11:49:00
+reddit,re_2403_0237,u/shibintel,CryptoMarkets,BONK momentum still healthy despite volatility.,BONK,ShibIntel,380,-0.226,2026-03-24T11:52:00
+reddit,re_2403_0238,u/bonkradar,SatoshiStreetBets,PEPE range chop with selective strength.,PEPE,BonkRadar,227,0.49,2026-03-24T11:55:00
+reddit,re_2403_0239,u/cryptoking,CryptoMarkets,SHIB buyers defending support aggressively.,SHIB,CryptoKing,333,0.485,2026-03-24T11:58:00
+reddit,re_2403_0240,u/shibintel,memecoins,PEPE strong breakout with heavy engagement.,PEPE,ShibIntel,178,0.599,2026-03-24T12:01:00
+reddit,re_2403_0241,u/altcoinnora,CryptoMarkets,WIF sentiment cooling after leverage spike.,WIF,AltcoinNora,271,-0.1,2026-03-24T12:04:00
+reddit,re_2403_0242,u/cryptoking,CryptoMarkets,WIF range chop with selective strength.,WIF,CryptoKing,58,-0.086,2026-03-24T12:07:00
+reddit,re_2403_0243,u/memerisklab,SatoshiStreetBets,SHIB community activity accelerating.,SHIB,MemeRiskLab,143,0.193,2026-03-24T12:10:00
+reddit,re_2403_0244,u/memepulse,SatoshiStreetBets,WIF buyers defending support aggressively.,WIF,MemePulse,304,0.08,2026-03-24T12:13:00
+reddit,re_2403_0245,u/frogcycle,CryptoCurrency,BONK strong breakout with heavy engagement.,BONK,FrogCycle,232,-0.274,2026-03-24T12:16:00
+reddit,re_2403_0246,u/macromeme,CryptoMarkets,PEPE sentiment cooling after leverage spike.,PEPE,MacroMeme,212,0.021,2026-03-24T12:19:00
+reddit,re_2403_0247,u/memerisklab,CryptoCurrency,WIF buyers defending support aggressively.,WIF,MemeRiskLab,360,0.406,2026-03-24T12:22:00
+reddit,re_2403_0248,u/whalescope,CryptoMarkets,DOGE range chop with selective strength.,DOGE,WhaleScope,283,0.645,2026-03-24T12:25:00
+reddit,re_2403_0249,u/macromeme,CryptoMarkets,WIF rotation into meme basket continues.,WIF,MacroMeme,117,0.063,2026-03-24T12:28:00
+reddit,re_2403_0250,u/macromeme,CryptoMarkets,PEPE buyers defending support aggressively.,PEPE,MacroMeme,425,-0.169,2026-03-24T12:31:00
+reddit,re_2403_0251,u/cryptoking,memecoins,WIF watch exchange inflow risk.,WIF,CryptoKing,321,-0.089,2026-03-24T12:34:00
+reddit,re_2403_0252,u/frogcycle,SatoshiStreetBets,SHIB buyers defending support aggressively.,SHIB,FrogCycle,358,0.342,2026-03-24T12:37:00
+reddit,re_2403_0253,u/memepulse,SatoshiStreetBets,BONK sentiment cooling after leverage spike.,BONK,MemePulse,120,-0.554,2026-03-24T12:40:00
+reddit,re_2403_0254,u/degendesk,CryptoCurrency,DOGE momentum still healthy despite volatility.,DOGE,DegenDesk,196,0.001,2026-03-24T12:43:00
+reddit,re_2403_0255,u/wifsignals,memecoins,SHIB momentum still healthy despite volatility.,SHIB,WifSignals,333,0.038,2026-03-24T12:46:00
+reddit,re_2403_0256,u/degendesk,CryptoMarkets,PEPE rotation into meme basket continues.,PEPE,DegenDesk,265,0.524,2026-03-24T12:49:00
+reddit,re_2403_0257,u/cryptoking,SatoshiStreetBets,WIF watch exchange inflow risk.,WIF,CryptoKing,78,0.31,2026-03-24T12:52:00
+reddit,re_2403_0258,u/altcoinnora,CryptoCurrency,PEPE momentum still healthy despite volatility.,PEPE,AltcoinNora,115,0.119,2026-03-24T12:55:00
+reddit,re_2403_0259,u/chainalpha,CryptoCurrency,WIF community activity accelerating.,WIF,ChainAlpha,241,-0.605,2026-03-24T12:58:00
+reddit,re_2403_0260,u/whalescope,CryptoMarkets,WIF buyers defending support aggressively.,WIF,WhaleScope,226,-0.206,2026-03-24T13:01:00
+reddit,re_2403_0261,u/chainalpha,CryptoMarkets,BONK buyers defending support aggressively.,BONK,ChainAlpha,489,0.031,2026-03-24T13:04:00
+reddit,re_2403_0262,u/memerisklab,CryptoMarkets,SHIB momentum still healthy despite volatility.,SHIB,MemeRiskLab,200,-0.213,2026-03-24T13:07:00
+reddit,re_2403_0263,u/shibintel,memecoins,BONK community activity accelerating.,BONK,ShibIntel,473,-0.095,2026-03-24T13:10:00
+reddit,re_2403_0264,u/cryptoking,SatoshiStreetBets,PEPE buyers defending support aggressively.,PEPE,CryptoKing,224,-0.322,2026-03-24T13:13:00
+reddit,re_2403_0265,u/frogcycle,SatoshiStreetBets,PEPE new wave of retail mentions.,PEPE,FrogCycle,186,0.176,2026-03-24T13:16:00
+reddit,re_2403_0266,u/degendesk,memecoins,WIF sentiment cooling after leverage spike.,WIF,DegenDesk,315,0.081,2026-03-24T13:19:00
+reddit,re_2403_0267,u/macromeme,CryptoCurrency,BONK volume confirms trend continuation.,BONK,MacroMeme,66,-0.338,2026-03-24T13:22:00
+reddit,re_2403_0268,u/frogcycle,SatoshiStreetBets,BONK rotation into meme basket continues.,BONK,FrogCycle,231,0.093,2026-03-24T13:25:00
+reddit,re_2403_0269,u/altcoinnora,memecoins,WIF volume confirms trend continuation.,WIF,AltcoinNora,313,0.463,2026-03-24T13:28:00
+reddit,re_2403_0270,u/shibintel,SatoshiStreetBets,PEPE watch exchange inflow risk.,PEPE,ShibIntel,306,-0.403,2026-03-24T13:31:00
+reddit,re_2403_0271,u/macromeme,CryptoMarkets,DOGE range chop with selective strength.,DOGE,MacroMeme,203,-0.01,2026-03-24T13:34:00
+reddit,re_2403_0272,u/bonkradar,memecoins,WIF community activity accelerating.,WIF,BonkRadar,88,-0.357,2026-03-24T13:37:00
+reddit,re_2403_0273,u/macromeme,CryptoMarkets,DOGE range chop with selective strength.,DOGE,MacroMeme,338,0.006,2026-03-24T13:40:00
+reddit,re_2403_0274,u/wifsignals,CryptoCurrency,DOGE momentum still healthy despite volatility.,DOGE,WifSignals,175,0.675,2026-03-24T13:43:00
+reddit,re_2403_0275,u/wifsignals,CryptoMarkets,SHIB new wave of retail mentions.,SHIB,WifSignals,284,0.034,2026-03-24T13:46:00
+reddit,re_2403_0276,u/degendesk,SatoshiStreetBets,DOGE range chop with selective strength.,DOGE,DegenDesk,368,-0.155,2026-03-24T13:49:00
+reddit,re_2403_0277,u/frogcycle,SatoshiStreetBets,PEPE sentiment cooling after leverage spike.,PEPE,FrogCycle,220,0.191,2026-03-24T13:52:00
+reddit,re_2403_0278,u/wifsignals,memecoins,BONK community activity accelerating.,BONK,WifSignals,341,0.049,2026-03-24T13:55:00
+reddit,re_2403_0279,u/cryptoking,CryptoCurrency,SHIB volume confirms trend continuation.,SHIB,CryptoKing,218,0.725,2026-03-24T13:58:00
+reddit,re_2403_0280,u/memepulse,memecoins,BONK watch exchange inflow risk.,BONK,MemePulse,10,0.112,2026-03-24T14:01:00
+reddit,re_2403_0281,u/wifsignals,SatoshiStreetBets,DOGE volume confirms trend continuation.,DOGE,WifSignals,173,0.367,2026-03-24T14:04:00
+reddit,re_2403_0282,u/wifsignals,memecoins,DOGE community activity accelerating.,DOGE,WifSignals,502,0.075,2026-03-24T14:07:00
+reddit,re_2403_0283,u/chainalpha,memecoins,PEPE buyers defending support aggressively.,PEPE,ChainAlpha,219,0.1,2026-03-24T14:10:00
+reddit,re_2403_0284,u/shibintel,memecoins,PEPE new wave of retail mentions.,PEPE,ShibIntel,153,0.695,2026-03-24T14:13:00
+reddit,re_2403_0285,u/cryptoking,CryptoMarkets,WIF strong breakout with heavy engagement.,WIF,CryptoKing,473,0.208,2026-03-24T14:16:00
+reddit,re_2403_0286,u/cryptoking,SatoshiStreetBets,DOGE buyers defending support aggressively.,DOGE,CryptoKing,228,-0.126,2026-03-24T14:19:00
+reddit,re_2403_0287,u/macromeme,CryptoMarkets,PEPE strong breakout with heavy engagement.,PEPE,MacroMeme,101,0.386,2026-03-24T14:22:00
+reddit,re_2403_0288,u/altcoinnora,CryptoCurrency,WIF community activity accelerating.,WIF,AltcoinNora,229,0.143,2026-03-24T14:25:00
+reddit,re_2403_0289,u/bonkradar,SatoshiStreetBets,PEPE new wave of retail mentions.,PEPE,BonkRadar,206,0.193,2026-03-24T14:28:00
+reddit,re_2403_0290,u/memepulse,CryptoCurrency,DOGE buyers defending support aggressively.,DOGE,MemePulse,102,0.503,2026-03-24T14:31:00
+reddit,re_2403_0291,u/chainalpha,SatoshiStreetBets,WIF momentum still healthy despite volatility.,WIF,ChainAlpha,177,0.06,2026-03-24T14:34:00
+reddit,re_2403_0292,u/shibintel,CryptoMarkets,WIF buyers defending support aggressively.,WIF,ShibIntel,340,0.154,2026-03-24T14:37:00
+reddit,re_2403_0293,u/degendesk,CryptoMarkets,DOGE strong breakout with heavy engagement.,DOGE,DegenDesk,363,0.041,2026-03-24T14:40:00
+reddit,re_2403_0294,u/wifsignals,SatoshiStreetBets,BONK sentiment cooling after leverage spike.,BONK,WifSignals,125,-0.877,2026-03-24T14:43:00
+reddit,re_2403_0295,u/macromeme,CryptoCurrency,DOGE rotation into meme basket continues.,DOGE,MacroMeme,197,-0.085,2026-03-24T14:46:00
+reddit,re_2403_0296,u/frogcycle,SatoshiStreetBets,PEPE rotation into meme basket continues.,PEPE,FrogCycle,261,0.034,2026-03-24T14:49:00
+reddit,re_2403_0297,u/memepulse,SatoshiStreetBets,BONK momentum still healthy despite volatility.,BONK,MemePulse,83,-0.274,2026-03-24T14:52:00
+reddit,re_2403_0298,u/cryptoking,CryptoCurrency,DOGE sentiment cooling after leverage spike.,DOGE,CryptoKing,398,0.607,2026-03-24T14:55:00
+reddit,re_2403_0299,u/altcoinnora,CryptoMarkets,PEPE buyers defending support aggressively.,PEPE,AltcoinNora,260,-0.232,2026-03-24T14:58:00
+reddit,re_2403_0300,u/cryptoking,CryptoCurrency,DOGE community activity accelerating.,DOGE,CryptoKing,463,0.286,2026-03-24T15:01:00
+reddit,re_2403_0301,u/memepulse,CryptoMarkets,DOGE volume confirms trend continuation.,DOGE,MemePulse,326,-0.015,2026-03-24T15:04:00
+reddit,re_2403_0302,u/memepulse,CryptoMarkets,BONK momentum still healthy despite volatility.,BONK,MemePulse,175,-0.389,2026-03-24T15:07:00
+reddit,re_2403_0303,u/altcoinnora,memecoins,SHIB sentiment cooling after leverage spike.,SHIB,AltcoinNora,31,0.211,2026-03-24T15:10:00
+reddit,re_2403_0304,u/chainalpha,CryptoMarkets,WIF range chop with selective strength.,WIF,ChainAlpha,125,0.068,2026-03-24T15:13:00
+reddit,re_2403_0305,u/cryptoking,CryptoMarkets,WIF rotation into meme basket continues.,WIF,CryptoKing,218,-0.262,2026-03-24T15:16:00
+reddit,re_2403_0306,u/chainalpha,CryptoCurrency,SHIB rotation into meme basket continues.,SHIB,ChainAlpha,116,0.162,2026-03-24T15:19:00
+reddit,re_2403_0307,u/altcoinnora,CryptoCurrency,PEPE new wave of retail mentions.,PEPE,AltcoinNora,141,-0.149,2026-03-24T15:22:00
+reddit,re_2403_0308,u/altcoinnora,SatoshiStreetBets,PEPE range chop with selective strength.,PEPE,AltcoinNora,266,0.206,2026-03-24T15:25:00
+reddit,re_2403_0309,u/whalescope,CryptoMarkets,WIF momentum still healthy despite volatility.,WIF,WhaleScope,261,-0.389,2026-03-24T15:28:00
+reddit,re_2403_0310,u/altcoinnora,memecoins,WIF rotation into meme basket continues.,WIF,AltcoinNora,366,0.246,2026-03-24T15:31:00
+reddit,re_2403_0311,u/bonkradar,SatoshiStreetBets,PEPE rotation into meme basket continues.,PEPE,BonkRadar,280,0.177,2026-03-24T15:34:00
+reddit,re_2403_0312,u/memerisklab,CryptoMarkets,DOGE community activity accelerating.,DOGE,MemeRiskLab,106,0.153,2026-03-24T15:37:00
+reddit,re_2403_0313,u/wifsignals,CryptoCurrency,DOGE momentum still healthy despite volatility.,DOGE,WifSignals,428,-0.21,2026-03-24T15:40:00
+reddit,re_2403_0314,u/memepulse,CryptoMarkets,WIF momentum still healthy despite volatility.,WIF,MemePulse,205,-0.181,2026-03-24T15:43:00
+reddit,re_2403_0315,u/degendesk,memecoins,WIF buyers defending support aggressively.,WIF,DegenDesk,184,0.733,2026-03-24T15:46:00
+reddit,re_2403_0316,u/altcoinnora,CryptoCurrency,PEPE buyers defending support aggressively.,PEPE,AltcoinNora,200,-0.213,2026-03-24T15:49:00
+reddit,re_2403_0317,u/bonkradar,CryptoCurrency,WIF momentum still healthy despite volatility.,WIF,BonkRadar,237,0.017,2026-03-24T15:52:00
+reddit,re_2403_0318,u/macromeme,memecoins,DOGE strong breakout with heavy engagement.,DOGE,MacroMeme,253,0.254,2026-03-24T15:55:00
+reddit,re_2403_0319,u/memepulse,SatoshiStreetBets,SHIB watch exchange inflow risk.,SHIB,MemePulse,178,0.368,2026-03-24T15:58:00
+reddit,re_2403_0320,u/memerisklab,CryptoMarkets,WIF volume confirms trend continuation.,WIF,MemeRiskLab,352,0.384,2026-03-24T16:01:00
+reddit,re_2403_0321,u/bonkradar,CryptoCurrency,DOGE buyers defending support aggressively.,DOGE,BonkRadar,178,-0.239,2026-03-24T16:04:00
+reddit,re_2403_0322,u/wifsignals,memecoins,WIF range chop with selective strength.,WIF,WifSignals,172,-0.032,2026-03-24T16:07:00
+reddit,re_2403_0323,u/cryptoking,memecoins,WIF rotation into meme basket continues.,WIF,CryptoKing,354,0.48,2026-03-24T16:10:00
+reddit,re_2403_0324,u/memepulse,CryptoMarkets,SHIB buyers defending support aggressively.,SHIB,MemePulse,198,0.09,2026-03-24T16:13:00
+reddit,re_2403_0325,u/memepulse,CryptoMarkets,WIF volume confirms trend continuation.,WIF,MemePulse,265,-0.36,2026-03-24T16:16:00
+reddit,re_2403_0326,u/altcoinnora,CryptoCurrency,PEPE range chop with selective strength.,PEPE,AltcoinNora,354,0.14,2026-03-24T16:19:00
+reddit,re_2403_0327,u/memerisklab,SatoshiStreetBets,PEPE watch exchange inflow risk.,PEPE,MemeRiskLab,247,-0.2,2026-03-24T16:22:00
+reddit,re_2403_0328,u/degendesk,CryptoCurrency,BONK range chop with selective strength.,BONK,DegenDesk,329,0.215,2026-03-24T16:25:00
+reddit,re_2403_0329,u/frogcycle,memecoins,BONK buyers defending support aggressively.,BONK,FrogCycle,193,0.11,2026-03-24T16:28:00
+reddit,re_2403_0330,u/frogcycle,memecoins,DOGE community activity accelerating.,DOGE,FrogCycle,343,-0.347,2026-03-24T16:31:00
+reddit,re_2403_0331,u/whalescope,memecoins,BONK momentum still healthy despite volatility.,BONK,WhaleScope,387,-0.383,2026-03-24T16:34:00
+reddit,re_2403_0332,u/chainalpha,SatoshiStreetBets,DOGE momentum still healthy despite volatility.,DOGE,ChainAlpha,379,-0.116,2026-03-24T16:37:00
+reddit,re_2403_0333,u/frogcycle,CryptoMarkets,PEPE momentum still healthy despite volatility.,PEPE,FrogCycle,224,-0.045,2026-03-24T16:40:00
+reddit,re_2403_0334,u/chainalpha,CryptoMarkets,SHIB rotation into meme basket continues.,SHIB,ChainAlpha,267,0.253,2026-03-24T16:43:00
+reddit,re_2403_0335,u/altcoinnora,SatoshiStreetBets,SHIB strong breakout with heavy engagement.,SHIB,AltcoinNora,238,0.116,2026-03-24T16:46:00
+reddit,re_2403_0336,u/shibintel,memecoins,BONK watch exchange inflow risk.,BONK,ShibIntel,106,-0.206,2026-03-24T16:49:00
+reddit,re_2403_0337,u/shibintel,CryptoCurrency,PEPE watch exchange inflow risk.,PEPE,ShibIntel,364,-0.629,2026-03-24T16:52:00
+reddit,re_2403_0338,u/bonkradar,SatoshiStreetBets,SHIB momentum still healthy despite volatility.,SHIB,BonkRadar,334,-0.036,2026-03-24T16:55:00
+reddit,re_2403_0339,u/chainalpha,CryptoMarkets,PEPE range chop with selective strength.,PEPE,ChainAlpha,319,-0.341,2026-03-24T16:58:00
+reddit,re_2403_0340,u/shibintel,memecoins,PEPE strong breakout with heavy engagement.,PEPE,ShibIntel,146,0.036,2026-03-24T17:01:00
+reddit,re_2403_0341,u/cryptoking,memecoins,DOGE new wave of retail mentions.,DOGE,CryptoKing,306,0.652,2026-03-24T17:04:00
+reddit,re_2403_0342,u/degendesk,SatoshiStreetBets,WIF community activity accelerating.,WIF,DegenDesk,181,-0.133,2026-03-24T17:07:00
+reddit,re_2403_0343,u/whalescope,CryptoCurrency,SHIB watch exchange inflow risk.,SHIB,WhaleScope,215,0.399,2026-03-24T17:10:00
+reddit,re_2403_0344,u/whalescope,CryptoCurrency,PEPE rotation into meme basket continues.,PEPE,WhaleScope,248,0.345,2026-03-24T17:13:00
+reddit,re_2403_0345,u/altcoinnora,memecoins,SHIB new wave of retail mentions.,SHIB,AltcoinNora,239,-0.068,2026-03-24T17:16:00
+reddit,re_2403_0346,u/altcoinnora,SatoshiStreetBets,SHIB buyers defending support aggressively.,SHIB,AltcoinNora,326,-0.362,2026-03-24T17:19:00
+reddit,re_2403_0347,u/whalescope,memecoins,SHIB rotation into meme basket continues.,SHIB,WhaleScope,304,-0.052,2026-03-24T17:22:00
+reddit,re_2403_0348,u/memepulse,SatoshiStreetBets,BONK volume confirms trend continuation.,BONK,MemePulse,193,0.257,2026-03-24T17:25:00
+reddit,re_2403_0349,u/memerisklab,memecoins,WIF range chop with selective strength.,WIF,MemeRiskLab,149,0.243,2026-03-24T17:28:00
+reddit,re_2403_0350,u/memerisklab,SatoshiStreetBets,DOGE volume confirms trend continuation.,DOGE,MemeRiskLab,233,-0.098,2026-03-24T17:31:00
+reddit,re_2403_0351,u/bonkradar,CryptoMarkets,BONK range chop with selective strength.,BONK,BonkRadar,244,0.294,2026-03-24T17:34:00
+reddit,re_2403_0352,u/memepulse,CryptoMarkets,BONK rotation into meme basket continues.,BONK,MemePulse,269,0.274,2026-03-24T17:37:00
+reddit,re_2403_0353,u/bonkradar,memecoins,DOGE new wave of retail mentions.,DOGE,BonkRadar,210,0.551,2026-03-24T17:40:00
+reddit,re_2403_0354,u/memepulse,SatoshiStreetBets,DOGE strong breakout with heavy engagement.,DOGE,MemePulse,370,0.252,2026-03-24T17:43:00
+reddit,re_2403_0355,u/cryptoking,CryptoCurrency,PEPE rotation into meme basket continues.,PEPE,CryptoKing,211,0.37,2026-03-24T17:46:00
+reddit,re_2403_0356,u/memerisklab,CryptoMarkets,DOGE range chop with selective strength.,DOGE,MemeRiskLab,196,0.317,2026-03-24T17:49:00
+reddit,re_2403_0357,u/memerisklab,memecoins,WIF rotation into meme basket continues.,WIF,MemeRiskLab,94,0.097,2026-03-24T17:52:00
+reddit,re_2403_0358,u/shibintel,CryptoCurrency,WIF sentiment cooling after leverage spike.,WIF,ShibIntel,301,0.157,2026-03-24T17:55:00
+reddit,re_2403_0359,u/memerisklab,CryptoMarkets,DOGE volume confirms trend continuation.,DOGE,MemeRiskLab,365,-0.277,2026-03-24T17:58:00
+reddit,re_2403_0360,u/memepulse,SatoshiStreetBets,PEPE new wave of retail mentions.,PEPE,MemePulse,219,-0.118,2026-03-24T18:01:00
+reddit,re_2403_0361,u/chainalpha,CryptoCurrency,BONK rotation into meme basket continues.,BONK,ChainAlpha,431,0.534,2026-03-24T18:04:00
+reddit,re_2403_0362,u/bonkradar,CryptoCurrency,DOGE sentiment cooling after leverage spike.,DOGE,BonkRadar,454,-0.104,2026-03-24T18:07:00
+reddit,re_2403_0363,u/degendesk,CryptoMarkets,SHIB rotation into meme basket continues.,SHIB,DegenDesk,210,0.179,2026-03-24T18:10:00
+reddit,re_2403_0364,u/macromeme,SatoshiStreetBets,SHIB strong breakout with heavy engagement.,SHIB,MacroMeme,345,0.035,2026-03-24T18:13:00
+reddit,re_2403_0365,u/macromeme,CryptoCurrency,SHIB watch exchange inflow risk.,SHIB,MacroMeme,262,0.303,2026-03-24T18:16:00
+reddit,re_2403_0366,u/macromeme,memecoins,DOGE rotation into meme basket continues.,DOGE,MacroMeme,174,0.247,2026-03-24T18:19:00
+reddit,re_2403_0367,u/frogcycle,CryptoCurrency,WIF momentum still healthy despite volatility.,WIF,FrogCycle,294,0.672,2026-03-24T18:22:00
+reddit,re_2403_0368,u/chainalpha,CryptoCurrency,DOGE sentiment cooling after leverage spike.,DOGE,ChainAlpha,149,0.421,2026-03-24T18:25:00
+reddit,re_2403_0369,u/memepulse,CryptoMarkets,WIF sentiment cooling after leverage spike.,WIF,MemePulse,286,-0.058,2026-03-24T18:28:00
+reddit,re_2403_0370,u/memerisklab,memecoins,DOGE sentiment cooling after leverage spike.,DOGE,MemeRiskLab,329,-0.028,2026-03-24T18:31:00
+reddit,re_2403_0371,u/whalescope,SatoshiStreetBets,WIF sentiment cooling after leverage spike.,WIF,WhaleScope,218,-0.003,2026-03-24T18:34:00
+reddit,re_2403_0372,u/chainalpha,CryptoCurrency,PEPE buyers defending support aggressively.,PEPE,ChainAlpha,191,0.31,2026-03-24T18:37:00
+reddit,re_2403_0373,u/bonkradar,CryptoCurrency,BONK new wave of retail mentions.,BONK,BonkRadar,249,-0.03,2026-03-24T18:40:00
+reddit,re_2403_0374,u/shibintel,SatoshiStreetBets,WIF volume confirms trend continuation.,WIF,ShibIntel,235,0.491,2026-03-24T18:43:00
+reddit,re_2403_0375,u/cryptoking,memecoins,BONK momentum still healthy despite volatility.,BONK,CryptoKing,37,-0.167,2026-03-24T18:46:00
+reddit,re_2403_0376,u/shibintel,SatoshiStreetBets,BONK rotation into meme basket continues.,BONK,ShibIntel,157,0.189,2026-03-24T18:49:00
+reddit,re_2403_0377,u/cryptoking,CryptoCurrency,SHIB new wave of retail mentions.,SHIB,CryptoKing,200,-0.144,2026-03-24T18:52:00
+reddit,re_2403_0378,u/shibintel,CryptoCurrency,BONK sentiment cooling after leverage spike.,BONK,ShibIntel,150,0.097,2026-03-24T18:55:00
+reddit,re_2403_0379,u/altcoinnora,CryptoMarkets,PEPE range chop with selective strength.,PEPE,AltcoinNora,118,-0.169,2026-03-24T18:58:00
+reddit,re_2403_0380,u/altcoinnora,memecoins,WIF watch exchange inflow risk.,WIF,AltcoinNora,252,0.031,2026-03-24T19:01:00
+reddit,re_2403_0381,u/memerisklab,CryptoCurrency,DOGE buyers defending support aggressively.,DOGE,MemeRiskLab,167,0.28,2026-03-24T19:04:00
+reddit,re_2403_0382,u/degendesk,CryptoMarkets,BONK rotation into meme basket continues.,BONK,DegenDesk,352,0.074,2026-03-24T19:07:00
+reddit,re_2403_0383,u/frogcycle,CryptoCurrency,WIF rotation into meme basket continues.,WIF,FrogCycle,382,0.104,2026-03-24T19:10:00
+reddit,re_2403_0384,u/memepulse,CryptoMarkets,BONK rotation into meme basket continues.,BONK,MemePulse,238,-0.337,2026-03-24T19:13:00
+reddit,re_2403_0385,u/bonkradar,SatoshiStreetBets,BONK new wave of retail mentions.,BONK,BonkRadar,274,0.003,2026-03-24T19:16:00
+reddit,re_2403_0386,u/altcoinnora,memecoins,DOGE momentum still healthy despite volatility.,DOGE,AltcoinNora,455,0.549,2026-03-24T19:19:00
+reddit,re_2403_0387,u/wifsignals,CryptoCurrency,PEPE watch exchange inflow risk.,PEPE,WifSignals,108,0.195,2026-03-24T19:22:00
+reddit,re_2403_0388,u/wifsignals,SatoshiStreetBets,PEPE range chop with selective strength.,PEPE,WifSignals,391,-0.208,2026-03-24T19:25:00
+reddit,re_2403_0389,u/memerisklab,CryptoCurrency,PEPE range chop with selective strength.,PEPE,MemeRiskLab,443,0.114,2026-03-24T19:28:00
+reddit,re_2403_0390,u/wifsignals,SatoshiStreetBets,WIF range chop with selective strength.,WIF,WifSignals,126,0.387,2026-03-24T19:31:00
+reddit,re_2403_0391,u/memerisklab,SatoshiStreetBets,BONK range chop with selective strength.,BONK,MemeRiskLab,395,-0.245,2026-03-24T19:34:00
+reddit,re_2403_0392,u/chainalpha,memecoins,DOGE community activity accelerating.,DOGE,ChainAlpha,221,-0.101,2026-03-24T19:37:00
+reddit,re_2403_0393,u/chainalpha,CryptoCurrency,DOGE strong breakout with heavy engagement.,DOGE,ChainAlpha,241,0.042,2026-03-24T19:40:00
+reddit,re_2403_0394,u/shibintel,memecoins,SHIB momentum still healthy despite volatility.,SHIB,ShibIntel,304,-0.186,2026-03-24T19:43:00
+reddit,re_2403_0395,u/chainalpha,CryptoMarkets,BONK watch exchange inflow risk.,BONK,ChainAlpha,318,-0.764,2026-03-24T19:46:00
+reddit,re_2403_0396,u/altcoinnora,memecoins,BONK momentum still healthy despite volatility.,BONK,AltcoinNora,126,-0.12,2026-03-24T19:49:00
+reddit,re_2403_0397,u/macromeme,CryptoCurrency,DOGE volume confirms trend continuation.,DOGE,MacroMeme,237,-0.151,2026-03-24T19:52:00
+reddit,re_2403_0398,u/wifsignals,CryptoMarkets,PEPE volume confirms trend continuation.,PEPE,WifSignals,259,0.661,2026-03-24T19:55:00
+reddit,re_2403_0399,u/chainalpha,memecoins,WIF community activity accelerating.,WIF,ChainAlpha,337,0.352,2026-03-24T19:58:00
+reddit,re_2403_0400,u/whalescope,CryptoCurrency,PEPE range chop with selective strength.,PEPE,WhaleScope,73,0.491,2026-03-24T20:01:00
+reddit,re_2403_0401,u/wifsignals,memecoins,SHIB momentum still healthy despite volatility.,SHIB,WifSignals,249,0.171,2026-03-24T20:04:00
+reddit,re_2403_0402,u/frogcycle,CryptoMarkets,PEPE momentum still healthy despite volatility.,PEPE,FrogCycle,333,0.598,2026-03-24T20:07:00
+reddit,re_2403_0403,u/cryptoking,CryptoMarkets,DOGE buyers defending support aggressively.,DOGE,CryptoKing,260,0.067,2026-03-24T20:10:00
+reddit,re_2403_0404,u/frogcycle,CryptoCurrency,WIF watch exchange inflow risk.,WIF,FrogCycle,284,-0.323,2026-03-24T20:13:00
+reddit,re_2403_0405,u/macromeme,CryptoMarkets,SHIB new wave of retail mentions.,SHIB,MacroMeme,133,-0.338,2026-03-24T20:16:00
+reddit,re_2403_0406,u/chainalpha,CryptoCurrency,SHIB sentiment cooling after leverage spike.,SHIB,ChainAlpha,279,0.129,2026-03-24T20:19:00
+reddit,re_2403_0407,u/whalescope,CryptoCurrency,DOGE strong breakout with heavy engagement.,DOGE,WhaleScope,161,0.138,2026-03-24T20:22:00
+reddit,re_2403_0408,u/cryptoking,SatoshiStreetBets,SHIB community activity accelerating.,SHIB,CryptoKing,293,0.139,2026-03-24T20:25:00
+reddit,re_2403_0409,u/degendesk,CryptoCurrency,PEPE strong breakout with heavy engagement.,PEPE,DegenDesk,158,-0.538,2026-03-24T20:28:00
+reddit,re_2403_0410,u/shibintel,CryptoCurrency,WIF sentiment cooling after leverage spike.,WIF,ShibIntel,227,0.321,2026-03-24T20:31:00
+reddit,re_2403_0411,u/memepulse,CryptoCurrency,BONK sentiment cooling after leverage spike.,BONK,MemePulse,389,-0.03,2026-03-24T20:34:00
+reddit,re_2403_0412,u/altcoinnora,CryptoCurrency,SHIB sentiment cooling after leverage spike.,SHIB,AltcoinNora,178,-0.02,2026-03-24T20:37:00
+reddit,re_2403_0413,u/memepulse,SatoshiStreetBets,WIF new wave of retail mentions.,WIF,MemePulse,277,0.083,2026-03-24T20:40:00
+reddit,re_2403_0414,u/wifsignals,CryptoMarkets,SHIB buyers defending support aggressively.,SHIB,WifSignals,282,-0.09,2026-03-24T20:43:00
+reddit,re_2403_0415,u/degendesk,memecoins,DOGE rotation into meme basket continues.,DOGE,DegenDesk,285,-0.171,2026-03-24T20:46:00
+reddit,re_2403_0416,u/whalescope,CryptoCurrency,SHIB strong breakout with heavy engagement.,SHIB,WhaleScope,323,0.433,2026-03-24T20:49:00
+reddit,re_2403_0417,u/memepulse,SatoshiStreetBets,SHIB range chop with selective strength.,SHIB,MemePulse,174,0.632,2026-03-24T20:52:00
+reddit,re_2403_0418,u/altcoinnora,CryptoCurrency,PEPE rotation into meme basket continues.,PEPE,AltcoinNora,247,0.049,2026-03-24T20:55:00
+reddit,re_2403_0419,u/cryptoking,CryptoMarkets,WIF new wave of retail mentions.,WIF,CryptoKing,283,-0.062,2026-03-24T20:58:00
+reddit,re_2403_0420,u/wifsignals,CryptoCurrency,PEPE volume confirms trend continuation.,PEPE,WifSignals,319,0.523,2026-03-24T21:01:00
+reddit,re_2403_0421,u/bonkradar,CryptoCurrency,SHIB new wave of retail mentions.,SHIB,BonkRadar,152,-0.039,2026-03-24T21:04:00
+reddit,re_2403_0422,u/whalescope,SatoshiStreetBets,PEPE sentiment cooling after leverage spike.,PEPE,WhaleScope,173,0.196,2026-03-24T21:07:00
+reddit,re_2403_0423,u/cryptoking,SatoshiStreetBets,BONK community activity accelerating.,BONK,CryptoKing,282,-0.172,2026-03-24T21:10:00
+reddit,re_2403_0424,u/bonkradar,CryptoMarkets,BONK rotation into meme basket continues.,BONK,BonkRadar,249,0.667,2026-03-24T21:13:00
+reddit,re_2403_0425,u/frogcycle,memecoins,PEPE watch exchange inflow risk.,PEPE,FrogCycle,195,0.545,2026-03-24T21:16:00
+reddit,re_2403_0426,u/macromeme,memecoins,BONK strong breakout with heavy engagement.,BONK,MacroMeme,91,-0.28,2026-03-24T21:19:00
+reddit,re_2403_0427,u/degendesk,memecoins,WIF strong breakout with heavy engagement.,WIF,DegenDesk,186,0.16,2026-03-24T21:22:00
+reddit,re_2403_0428,u/wifsignals,CryptoCurrency,WIF volume confirms trend continuation.,WIF,WifSignals,243,-0.086,2026-03-24T21:25:00
+reddit,re_2403_0429,u/memerisklab,SatoshiStreetBets,BONK volume confirms trend continuation.,BONK,MemeRiskLab,246,-0.438,2026-03-24T21:28:00
+reddit,re_2403_0430,u/chainalpha,CryptoMarkets,WIF momentum still healthy despite volatility.,WIF,ChainAlpha,51,-0.269,2026-03-24T21:31:00
+reddit,re_2403_0431,u/macromeme,CryptoCurrency,DOGE sentiment cooling after leverage spike.,DOGE,MacroMeme,297,-0.451,2026-03-24T21:34:00
+reddit,re_2403_0432,u/memerisklab,CryptoMarkets,SHIB sentiment cooling after leverage spike.,SHIB,MemeRiskLab,487,0.711,2026-03-24T21:37:00
+reddit,re_2403_0433,u/wifsignals,SatoshiStreetBets,BONK rotation into meme basket continues.,BONK,WifSignals,464,0.067,2026-03-24T21:40:00
+reddit,re_2403_0434,u/frogcycle,memecoins,PEPE new wave of retail mentions.,PEPE,FrogCycle,213,0.673,2026-03-24T21:43:00
+reddit,re_2403_0435,u/altcoinnora,CryptoMarkets,BONK momentum still healthy despite volatility.,BONK,AltcoinNora,180,0.182,2026-03-24T21:46:00
+reddit,re_2403_0436,u/bonkradar,CryptoCurrency,SHIB range chop with selective strength.,SHIB,BonkRadar,400,-0.266,2026-03-24T21:49:00
+reddit,re_2403_0437,u/cryptoking,CryptoMarkets,WIF watch exchange inflow risk.,WIF,CryptoKing,185,-0.102,2026-03-24T21:52:00
+reddit,re_2403_0438,u/cryptoking,CryptoCurrency,BONK strong breakout with heavy engagement.,BONK,CryptoKing,144,0.077,2026-03-24T21:55:00
+reddit,re_2403_0439,u/cryptoking,CryptoMarkets,DOGE buyers defending support aggressively.,DOGE,CryptoKing,184,0.413,2026-03-24T21:58:00
+reddit,re_2403_0440,u/degendesk,SatoshiStreetBets,DOGE range chop with selective strength.,DOGE,DegenDesk,334,0.107,2026-03-24T22:01:00
+reddit,re_2403_0441,u/shibintel,CryptoCurrency,SHIB range chop with selective strength.,SHIB,ShibIntel,369,-0.083,2026-03-24T22:04:00
+reddit,re_2403_0442,u/chainalpha,memecoins,WIF strong breakout with heavy engagement.,WIF,ChainAlpha,342,-0.154,2026-03-24T22:07:00
+reddit,re_2403_0443,u/whalescope,memecoins,SHIB strong breakout with heavy engagement.,SHIB,WhaleScope,119,0.195,2026-03-24T22:10:00
+reddit,re_2403_0444,u/altcoinnora,memecoins,DOGE momentum still healthy despite volatility.,DOGE,AltcoinNora,379,0.21,2026-03-24T22:13:00
+reddit,re_2403_0445,u/bonkradar,CryptoMarkets,DOGE volume confirms trend continuation.,DOGE,BonkRadar,260,-0.177,2026-03-24T22:16:00
+reddit,re_2403_0446,u/shibintel,CryptoMarkets,BONK new wave of retail mentions.,BONK,ShibIntel,84,-0.094,2026-03-24T22:19:00
+reddit,re_2403_0447,u/frogcycle,CryptoCurrency,DOGE new wave of retail mentions.,DOGE,FrogCycle,185,-0.074,2026-03-24T22:22:00
+reddit,re_2403_0448,u/macromeme,memecoins,SHIB strong breakout with heavy engagement.,SHIB,MacroMeme,175,0.103,2026-03-24T22:25:00
+reddit,re_2403_0449,u/shibintel,CryptoCurrency,SHIB new wave of retail mentions.,SHIB,ShibIntel,398,0.121,2026-03-24T22:28:00
+reddit,re_2403_0450,u/memepulse,CryptoMarkets,BONK new wave of retail mentions.,BONK,MemePulse,373,0.143,2026-03-24T22:31:00
+reddit,re_2403_0451,u/chainalpha,memecoins,BONK strong breakout with heavy engagement.,BONK,ChainAlpha,271,0.871,2026-03-24T22:34:00
+reddit,re_2403_0452,u/memepulse,memecoins,WIF rotation into meme basket continues.,WIF,MemePulse,281,0.165,2026-03-24T22:37:00
+reddit,re_2403_0453,u/wifsignals,CryptoMarkets,SHIB buyers defending support aggressively.,SHIB,WifSignals,245,0.492,2026-03-24T22:40:00
+reddit,re_2403_0454,u/shibintel,CryptoCurrency,PEPE community activity accelerating.,PEPE,ShibIntel,213,-0.119,2026-03-24T22:43:00
+reddit,re_2403_0455,u/chainalpha,CryptoMarkets,BONK sentiment cooling after leverage spike.,BONK,ChainAlpha,214,0.088,2026-03-24T22:46:00
+reddit,re_2403_0456,u/bonkradar,SatoshiStreetBets,BONK momentum still healthy despite volatility.,BONK,BonkRadar,82,-0.186,2026-03-24T22:49:00
+reddit,re_2403_0457,u/macromeme,memecoins,PEPE momentum still healthy despite volatility.,PEPE,MacroMeme,289,0.619,2026-03-24T22:52:00
+reddit,re_2403_0458,u/chainalpha,CryptoCurrency,SHIB rotation into meme basket continues.,SHIB,ChainAlpha,169,-0.324,2026-03-24T22:55:00
+reddit,re_2403_0459,u/shibintel,memecoins,BONK sentiment cooling after leverage spike.,BONK,ShibIntel,382,-0.172,2026-03-24T22:58:00
+reddit,re_2403_0460,u/whalescope,CryptoMarkets,SHIB strong breakout with heavy engagement.,SHIB,WhaleScope,251,0.555,2026-03-24T23:01:00
+reddit,re_2403_0461,u/macromeme,CryptoCurrency,SHIB watch exchange inflow risk.,SHIB,MacroMeme,286,0.401,2026-03-24T23:04:00
+reddit,re_2403_0462,u/wifsignals,memecoins,SHIB buyers defending support aggressively.,SHIB,WifSignals,326,0.472,2026-03-24T23:07:00
+reddit,re_2403_0463,u/macromeme,CryptoCurrency,BONK rotation into meme basket continues.,BONK,MacroMeme,190,-0.077,2026-03-24T23:10:00
+reddit,re_2403_0464,u/chainalpha,CryptoCurrency,SHIB buyers defending support aggressively.,SHIB,ChainAlpha,373,-0.098,2026-03-24T23:13:00
+reddit,re_2403_0465,u/memepulse,CryptoCurrency,DOGE new wave of retail mentions.,DOGE,MemePulse,179,0.457,2026-03-24T23:16:00
+reddit,re_2403_0466,u/macromeme,SatoshiStreetBets,DOGE community activity accelerating.,DOGE,MacroMeme,208,-0.404,2026-03-24T23:19:00
+reddit,re_2403_0467,u/bonkradar,memecoins,BONK momentum still healthy despite volatility.,BONK,BonkRadar,235,-0.322,2026-03-24T23:22:00
+reddit,re_2403_0468,u/frogcycle,CryptoCurrency,SHIB range chop with selective strength.,SHIB,FrogCycle,100,0.165,2026-03-24T23:25:00
+reddit,re_2403_0469,u/altcoinnora,SatoshiStreetBets,WIF buyers defending support aggressively.,WIF,AltcoinNora,150,-0.133,2026-03-24T23:28:00
+reddit,re_2403_0470,u/chainalpha,CryptoMarkets,DOGE community activity accelerating.,DOGE,ChainAlpha,169,-0.079,2026-03-24T23:31:00
+reddit,re_2403_0471,u/altcoinnora,CryptoMarkets,PEPE volume confirms trend continuation.,PEPE,AltcoinNora,237,0.432,2026-03-24T23:34:00
+reddit,re_2403_0472,u/altcoinnora,CryptoMarkets,BONK momentum still healthy despite volatility.,BONK,AltcoinNora,259,0.025,2026-03-24T23:37:00
+reddit,re_2403_0473,u/frogcycle,memecoins,WIF momentum still healthy despite volatility.,WIF,FrogCycle,389,0.431,2026-03-24T23:40:00
+reddit,re_2403_0474,u/macromeme,memecoins,DOGE buyers defending support aggressively.,DOGE,MacroMeme,389,0.371,2026-03-24T23:43:00
+reddit,re_2403_0475,u/memepulse,SatoshiStreetBets,SHIB buyers defending support aggressively.,SHIB,MemePulse,233,-0.244,2026-03-24T23:46:00
+reddit,re_2403_0476,u/macromeme,CryptoCurrency,PEPE volume confirms trend continuation.,PEPE,MacroMeme,37,-0.461,2026-03-24T23:49:00
+reddit,re_2403_0477,u/cryptoking,memecoins,BONK community activity accelerating.,BONK,CryptoKing,286,-0.327,2026-03-24T23:52:00
+reddit,re_2403_0478,u/bonkradar,CryptoCurrency,BONK range chop with selective strength.,BONK,BonkRadar,207,-0.472,2026-03-24T23:55:00
+reddit,re_2403_0479,u/memerisklab,memecoins,BONK momentum still healthy despite volatility.,BONK,MemeRiskLab,308,-0.288,2026-03-24T23:58:00
+reddit,re_2403_0480,u/degendesk,CryptoMarkets,SHIB buyers defending support aggressively.,SHIB,DegenDesk,204,-0.442,2026-03-25T00:01:00
+reddit,re_2403_0481,u/cryptoking,memecoins,BONK watch exchange inflow risk.,BONK,CryptoKing,340,0.154,2026-03-25T00:04:00
+reddit,re_2403_0482,u/frogcycle,memecoins,PEPE sentiment cooling after leverage spike.,PEPE,FrogCycle,418,0.025,2026-03-25T00:07:00
+reddit,re_2403_0483,u/chainalpha,CryptoCurrency,SHIB new wave of retail mentions.,SHIB,ChainAlpha,281,0.164,2026-03-25T00:10:00
+reddit,re_2403_0484,u/degendesk,CryptoCurrency,SHIB watch exchange inflow risk.,SHIB,DegenDesk,192,0.188,2026-03-25T00:13:00
+reddit,re_2403_0485,u/degendesk,SatoshiStreetBets,SHIB community activity accelerating.,SHIB,DegenDesk,325,0.833,2026-03-25T00:16:00
+reddit,re_2403_0486,u/bonkradar,CryptoCurrency,SHIB volume confirms trend continuation.,SHIB,BonkRadar,329,-0.079,2026-03-25T00:19:00
+reddit,re_2403_0487,u/altcoinnora,SatoshiStreetBets,DOGE range chop with selective strength.,DOGE,AltcoinNora,94,0.014,2026-03-25T00:22:00
+reddit,re_2403_0488,u/shibintel,CryptoMarkets,DOGE rotation into meme basket continues.,DOGE,ShibIntel,366,0.3,2026-03-25T00:25:00
+reddit,re_2403_0489,u/bonkradar,CryptoMarkets,SHIB strong breakout with heavy engagement.,SHIB,BonkRadar,385,-0.278,2026-03-25T00:28:00
+reddit,re_2403_0490,u/altcoinnora,memecoins,WIF sentiment cooling after leverage spike.,WIF,AltcoinNora,321,-0.157,2026-03-25T00:31:00
+reddit,re_2403_0491,u/macromeme,memecoins,DOGE watch exchange inflow risk.,DOGE,MacroMeme,318,-0.019,2026-03-25T00:34:00
+reddit,re_2403_0492,u/memerisklab,CryptoMarkets,BONK sentiment cooling after leverage spike.,BONK,MemeRiskLab,237,0.139,2026-03-25T00:37:00
+reddit,re_2403_0493,u/altcoinnora,CryptoMarkets,PEPE new wave of retail mentions.,PEPE,AltcoinNora,293,-0.312,2026-03-25T00:40:00
+reddit,re_2403_0494,u/degendesk,memecoins,BONK watch exchange inflow risk.,BONK,DegenDesk,187,0.033,2026-03-25T00:43:00
+reddit,re_2403_0495,u/whalescope,CryptoMarkets,WIF sentiment cooling after leverage spike.,WIF,WhaleScope,357,0.468,2026-03-25T00:46:00
+reddit,re_2403_0496,u/frogcycle,memecoins,DOGE momentum still healthy despite volatility.,DOGE,FrogCycle,311,0.206,2026-03-25T00:49:00
+reddit,re_2403_0497,u/cryptoking,SatoshiStreetBets,SHIB volume confirms trend continuation.,SHIB,CryptoKing,290,0.308,2026-03-25T00:52:00
+reddit,re_2403_0498,u/memepulse,CryptoCurrency,SHIB watch exchange inflow risk.,SHIB,MemePulse,384,0.212,2026-03-25T00:55:00
+reddit,re_2403_0499,u/memepulse,SatoshiStreetBets,WIF watch exchange inflow risk.,WIF,MemePulse,293,0.077,2026-03-25T00:58:00
+reddit,re_2403_0500,u/macromeme,CryptoMarkets,WIF range chop with selective strength.,WIF,MacroMeme,353,-0.189,2026-03-25T01:01:00

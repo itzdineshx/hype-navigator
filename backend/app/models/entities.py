@@ -1,6 +1,6 @@
 from datetime import datetime
 
-from sqlalchemy import DateTime, Float, Integer, String, Text
+from sqlalchemy import DateTime, Float, Integer, String, Text, UniqueConstraint
 from sqlalchemy.orm import Mapped, mapped_column
 
 from app.db.base import Base
@@ -79,3 +79,20 @@ class ReplayEvent(Base):
     description: Mapped[str] = mapped_column(Text)
     impact_score: Mapped[int] = mapped_column(Integer)
     occurred_at: Mapped[datetime] = mapped_column(DateTime, index=True)
+
+
+class SocialPost(Base):
+    __tablename__ = "social_posts"
+    __table_args__ = (UniqueConstraint("source", "post_id", name="uq_social_posts_source_post_id"),)
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True, index=True)
+    source: Mapped[str] = mapped_column(String(20), index=True)
+    post_id: Mapped[str] = mapped_column(String(120), index=True)
+    author: Mapped[str] = mapped_column(String(120), index=True)
+    context: Mapped[str] = mapped_column(String(120), default="")
+    text: Mapped[str] = mapped_column(Text)
+    coin_symbol: Mapped[str] = mapped_column(String(20), index=True, default="")
+    influencer_handle: Mapped[str] = mapped_column(String(120), index=True, default="")
+    engagement_score: Mapped[int] = mapped_column(Integer, default=0)
+    sentiment_compound: Mapped[float] = mapped_column(Float, default=0.0)
+    created_at: Mapped[datetime] = mapped_column(DateTime, index=True)

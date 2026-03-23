@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { Quote } from "lucide-react";
 
 const testimonials = [
-  { name: "Alex K.", role: "DeFi Researcher", text: "TrustScore AI spotted a rug pull 3 hours before it happened. Saved my portfolio." },
+  { name: "Alex K.", role: "DeFi Researcher", text: "Hypex AI spotted a rug pull 3 hours before it happened. Saved my portfolio." },
   { name: "Sarah M.", role: "Crypto Fund Manager", text: "The influence radar alone is worth the subscription. No other tool maps hype this well." },
   { name: "James W.", role: "Independent Trader", text: "Finally a platform that cuts through the noise. The trust scores are incredibly accurate." },
 ];
@@ -27,7 +27,7 @@ const About = () => (
           Our Mission
         </motion.span>
         <h2 className="text-3xl md:text-5xl font-bold mb-6">
-          About <span className="gradient-text">TrustScore AI</span>
+          About <span className="gradient-text">Hypex AI</span>
         </h2>
         <p className="text-lg text-muted-foreground leading-relaxed mb-12">
           We transform social media noise into actionable crypto intelligence. Our AI analyzes millions of posts, tracks influencer networks, and delivers trust scores — so you can invest with clarity, not chaos.

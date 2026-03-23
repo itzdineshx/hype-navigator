@@ -1,0 +1,19 @@
+{
+  "artifact": "D:\\Projects\\Hackathon\\hype-navigator\\backend\\ml_artifacts\\influencer_graph_analysis.json",
+  "nodes": 25,
+  "edges": 9,
+  "top_influencers": [
+    {
+      "handle": "CryptoKing",
+      "score": 0.118405
+    },
+    {
+      "handle": "WhaleAlert",
+      "score": 0.113065
+    },
+    {
+      "handle": "AlphaLeaks",
+      "score": 0.107503
+    }
+  ]
+}

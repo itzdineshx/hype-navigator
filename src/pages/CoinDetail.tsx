@@ -7,8 +7,41 @@ import { AreaChart, Area, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianG
 
 const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "http://127.0.0.1:8000/api/v1";
 
+let realtimeSupportPromise: Promise<boolean> | null = null;
+
+const supportsRealtimeEndpoint = async (): Promise<boolean> => {
+  if (!realtimeSupportPromise) {
+    const apiPrefix = new URL(API_BASE_URL).pathname;
+    const realtimePath = `${apiPrefix}/coins/{symbol}/realtime`;
+    const openapiUrl = new URL("/openapi.json", API_BASE_URL).toString();
+
+    realtimeSupportPromise = fetch(openapiUrl)
+      .then(async (response) => {
+        if (!response.ok) return false;
+        const spec = (await response.json()) as { paths?: Record<string, unknown> };
+        return Boolean(spec.paths && spec.paths[realtimePath]);
+      })
+      .catch(() => false);
+  }
+
+  return realtimeSupportPromise;
+};
+
 type DexPair = {
   url?: string | null;
+};
+
+type DexLink = {
+  type: string;
+  label: string;
+  url: string;
+};
+
+type DexProfile = {
+  icon?: string | null;
+  header?: string | null;
+  description?: string | null;
+  links?: DexLink[];
 };
 
 type CoinDetailResponse = {
@@ -25,6 +58,9 @@ type CoinDetailResponse = {
   prediction_confidence: number;
   risk_level: string;
   dex_pair?: DexPair | null;
+  dex_profile?: DexProfile | null;
+  emoji?: string;
+  market_emoji?: string;
   price_source?: string;
 };
 
@@ -56,6 +92,8 @@ const fallbackCoin: CoinDetailResponse = {
   prediction: "Up",
   prediction_confidence: 73,
   risk_level: "Medium",
+  emoji: "\ud83d\udc36",
+  market_emoji: "\ud83d\udcc8",
   dex_pair: null,
   price_source: "local_db",
 };
@@ -175,8 +213,19 @@ const CoinDetail = () => {
       setErrorMessage(null);
 
       try {
+        const detailsRequest = async () => {
+          const canUseRealtime = await supportsRealtimeEndpoint();
+          if (canUseRealtime) {
+            const realtimeResponse = await fetch(`${API_BASE_URL}/coins/${symbol}/realtime`);
+            if (realtimeResponse.ok || realtimeResponse.status !== 404) {
+              return realtimeResponse;
+            }
+          }
+          return fetch(`${API_BASE_URL}/coins/${symbol}`);
+        };
+
         const [detailsRes, influencersRes, alertsRes] = await Promise.all([
-          fetch(`${API_BASE_URL}/coins/${symbol}`),
+          detailsRequest(),
           fetch(`${API_BASE_URL}/coins/${symbol}/influencers`),
           fetch(`${API_BASE_URL}/coins/${symbol}/alerts`),
         ]);
@@ -255,6 +304,9 @@ const CoinDetail = () => {
       marketCap: `$${formatCompactNumber(activeCoin.market_cap)}`,
       sentiment: activeCoin.sentiment_score,
       dexUrl: activeCoin.dex_pair?.url || null,
+      emoji: activeCoin.emoji || "\ud83e\ude99",
+      moodEmoji: activeCoin.market_emoji || "\ud83e\udded",
+      dexProfile: activeCoin.dex_profile || null,
       source: activeCoin.price_source || "local_db",
     }),
     [activeCoin]
@@ -272,13 +324,14 @@ const CoinDetail = () => {
         </Link>
         <div className="flex items-center gap-3">
           <div className="w-8 h-8 rounded-full gradient-primary flex items-center justify-center glow-primary">
-            <span className="text-xs font-bold text-foreground">{symbol.charAt(0)}</span>
+            <span className="text-base leading-none">{coin.emoji}</span>
           </div>
           <div>
             <h1 className="text-sm font-bold text-foreground">{coin.name} <span className="text-muted-foreground font-normal">{coin.symbol}</span></h1>
             <div className="flex items-center gap-2 text-xs">
               <span className="font-mono text-foreground">{coin.price}</span>
               <span className={isUp ? "text-success" : "text-destructive"}>{coin.change}</span>
+              <span>{coin.moodEmoji}</span>
             </div>
           </div>
         </div>
@@ -304,6 +357,12 @@ const CoinDetail = () => {
         {(isLoading || errorMessage) && (
           <div className={`rounded-xl border px-4 py-3 text-xs ${errorMessage ? "border-warning/30 bg-warning/10 text-warning" : "border-primary/30 bg-primary/10 text-primary"}`}>
             {isLoading ? `Loading real-time ${symbol} data...` : `${errorMessage}. Showing fallback values.`}
+          </div>
+        )}
+
+        {coin.dexProfile?.description && (
+          <div className="rounded-xl border border-border/70 bg-card/40 px-4 py-3 text-xs text-muted-foreground">
+            {coin.dexProfile.description}
           </div>
         )}
 

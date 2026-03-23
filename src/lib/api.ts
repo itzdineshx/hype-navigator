@@ -9,6 +9,22 @@ export async function fetchJson<T>(path: string): Promise<T> {
   return (await response.json()) as T;
 }
 
+export async function postJson<TResponse, TPayload>(path: string, payload: TPayload): Promise<TResponse> {
+  const response = await fetch(`${API_BASE_URL}${path}`, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify(payload),
+  });
+
+  if (!response.ok) {
+    throw new Error(`Request failed: ${path}`);
+  }
+
+  return (await response.json()) as TResponse;
+}
+
 export function formatCompactNumber(value: number): string {
   return new Intl.NumberFormat("en-US", {
     notation: "compact",

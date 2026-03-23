@@ -3,6 +3,7 @@ import Hero from "@/components/landing/Hero";
 import Features from "@/components/landing/Features";
 import WowFeatures from "@/components/landing/WowFeatures";
 import About from "@/components/landing/About";
+import CTASection from "@/components/landing/CTASection";
 import Footer from "@/components/landing/Footer";
 
 const Index = () => (
@@ -12,6 +13,7 @@ const Index = () => (
     <Features />
     <WowFeatures />
     <About />
+    <CTASection />
     <Footer />
   </div>
 );

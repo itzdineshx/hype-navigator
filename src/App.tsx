@@ -6,6 +6,10 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import Index from "./pages/Index.tsx";
 import Dashboard from "./pages/Dashboard.tsx";
 import CoinDetail from "./pages/CoinDetail.tsx";
+import Trends from "./pages/Trends.tsx";
+import Alerts from "./pages/Alerts.tsx";
+import Replay from "./pages/Replay.tsx";
+import Influence from "./pages/Influence.tsx";
 import NotFound from "./pages/NotFound.tsx";
 
 const queryClient = new QueryClient();
@@ -19,6 +23,10 @@ const App = () => (
         <Routes>
           <Route path="/" element={<Index />} />
           <Route path="/dashboard" element={<Dashboard />} />
+          <Route path="/trends" element={<Trends />} />
+          <Route path="/alerts" element={<Alerts />} />
+          <Route path="/replay" element={<Replay />} />
+          <Route path="/influence" element={<Influence />} />
           <Route path="/coin/:coinId" element={<CoinDetail />} />
           <Route path="*" element={<NotFound />} />
         </Routes>

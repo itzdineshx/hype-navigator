@@ -40,7 +40,7 @@ const DashboardSidebar = ({ collapsed, onToggle }: Props) => {
       {/* Nav */}
       <nav className="flex-1 py-4 px-2 space-y-1">
         {navItems.map((item) => {
-          const active = location.pathname === item.path && item.label === "Dashboard";
+          const active = location.pathname === item.path;
           return (
             <Link
               key={item.label}

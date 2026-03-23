@@ -65,6 +65,7 @@ API docs:
 - `GET /dashboard/trend-chart?symbol=DOGE&limit=40`
 - `GET /coins`
 - `GET /coins/{symbol}`
+- `GET /coins/{symbol}/realtime`
 - `GET /coins/{symbol}/alerts`
 - `GET /coins/{symbol}/influencers`
 - `GET /alerts?severity=critical&status=active`
@@ -82,5 +83,6 @@ API docs:
 - Default DB file is `backend/hype_navigator.db`.
 - CORS is enabled for Vite dev hosts on port 8080.
 - `GET /coins/{symbol}` now enriches coin details with live DexScreener market data.
+- `GET /coins/{symbol}/realtime` returns live DexScreener top pairs, matched token profile data, and market/coin emojis.
 - If DexScreener is unavailable, the endpoint falls back to local database values.
 - `POST /models/train-all` trains VADER calibration, trend detector, price predictor, trust score regressor, anomaly detector, and influencer graph ranking, then saves artifacts to `backend/ml_artifacts`.

@@ -37,10 +37,33 @@ class DexPairOut(BaseModel):
     labels: list[str] = []
 
 
+class DexLinkOut(BaseModel):
+    type: str
+    label: str
+    url: str
+
+
+class DexTokenProfileOut(BaseModel):
+    chain_id: str | None = None
+    token_address: str | None = None
+    icon: str | None = None
+    header: str | None = None
+    description: str | None = None
+    links: list[DexLinkOut] = []
+
+
 class CoinDetailOut(CoinOut):
     dex_pair: DexPairOut | None = None
+    dex_profile: DexTokenProfileOut | None = None
+    emoji: str
+    market_emoji: str
     price_source: str
     last_updated: datetime
+
+
+class CoinRealtimeOut(CoinDetailOut):
+    top_pairs: list[DexPairOut] = []
+    data_provider: str = "dexscreener"
 
 
 class DashboardSummary(BaseModel):

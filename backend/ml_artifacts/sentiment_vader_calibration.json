@@ -1,0 +1,7 @@
+{
+  "model": "vader",
+  "artifact": "D:\\Projects\\Hackathon\\hype-navigator\\backend\\ml_artifacts\\sentiment_vader_calibration.json",
+  "sample_size": 248,
+  "negative_threshold": 0.0,
+  "positive_threshold": 0.6106090000000002
+}

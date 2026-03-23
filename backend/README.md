@@ -39,6 +39,15 @@ Edit `.env` if needed.
 uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 ```
 
+## 5) Train and store all ML models
+
+```powershell
+cd backend
+python train_all_models.py
+```
+
+This writes model artifacts to `backend/ml_artifacts`.
+
 API docs:
 
 - Swagger UI: http://localhost:8000/docs
@@ -64,6 +73,7 @@ API docs:
 - `GET /influence/top`
 - `GET /influence/metrics`
 - `GET /influence/radar`
+- `POST /models/train-all`
 - `GET /replay/events?symbol=PEPE`
 
 ## Notes
@@ -73,3 +83,4 @@ API docs:
 - CORS is enabled for Vite dev hosts on port 8080.
 - `GET /coins/{symbol}` now enriches coin details with live DexScreener market data.
 - If DexScreener is unavailable, the endpoint falls back to local database values.
+- `POST /models/train-all` trains VADER calibration, trend detector, price predictor, trust score regressor, anomaly detector, and influencer graph ranking, then saves artifacts to `backend/ml_artifacts`.

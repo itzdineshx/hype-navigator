@@ -1,4 +1,3 @@
-import { Zap } from "lucide-react";
 import { Link } from "react-router-dom";
 
 const Footer = () => (
@@ -8,9 +7,7 @@ const Footer = () => (
         {/* Brand */}
         <div className="md:col-span-1">
           <div className="flex items-center gap-2 mb-4">
-            <div className="w-7 h-7 rounded-lg gradient-primary flex items-center justify-center">
-              <Zap className="w-3.5 h-3.5 text-foreground" />
-            </div>
+            <img src="/hypex_logo.png" alt="Hypex AI logo" className="w-7 h-7 rounded-lg object-contain" />
             <span className="text-sm font-bold text-foreground">Hypex AI</span>
           </div>
           <p className="text-xs text-muted-foreground leading-relaxed">

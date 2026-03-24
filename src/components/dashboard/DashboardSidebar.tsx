@@ -1,5 +1,5 @@
 import { Link, useLocation } from "react-router-dom";
-import { LayoutDashboard, TrendingUp, Bell, History, Radio, FileText, FlaskConical, Zap, ChevronLeft } from "lucide-react";
+import { LayoutDashboard, TrendingUp, Bell, History, Radio, FileText, FlaskConical, ChevronLeft } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 const navItems = [
@@ -30,9 +30,11 @@ const DashboardSidebar = ({ collapsed, onToggle }: Props) => {
       {/* Logo */}
       <div className="h-14 flex items-center px-4 border-b border-border">
         <Link to="/" className="flex items-center gap-2 overflow-hidden">
-          <div className="w-8 h-8 rounded-lg gradient-primary flex-shrink-0 flex items-center justify-center glow-primary">
-            <Zap className="w-4 h-4 text-foreground" />
-          </div>
+          <img
+            src="/hypex_logo.png"
+            alt="Hypex AI logo"
+            className="w-8 h-8 rounded-lg object-contain flex-shrink-0 glow-primary"
+          />
           {!collapsed && (
             <span className="text-sm font-bold text-foreground whitespace-nowrap">Hypex AI</span>
           )}

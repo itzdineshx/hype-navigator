@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
-import { Zap, Menu, X } from "lucide-react";
+import { Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const Navbar = () => {
@@ -31,9 +31,11 @@ const Navbar = () => {
     >
       <div className="container mx-auto flex items-center justify-between h-16 px-6">
         <Link to="/" className="flex items-center gap-2 group">
-          <div className="w-8 h-8 rounded-lg gradient-primary flex items-center justify-center glow-primary group-hover:scale-110 transition-transform">
-            <Zap className="w-4 h-4 text-foreground" />
-          </div>
+          <img
+            src="/hypex_logo.png"
+            alt="Hypex AI logo"
+            className="w-8 h-8 rounded-lg object-contain glow-primary group-hover:scale-110 transition-transform"
+          />
           <span className="text-lg font-bold text-foreground tracking-tight">
             Hypex <span className="gradient-text">AI</span>
           </span>

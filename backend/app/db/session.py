@@ -1,13 +1,21 @@
 from collections.abc import Generator
+import logging
 
 from pymongo import ASCENDING, MongoClient, ReturnDocument
 from pymongo.database import Database
+from pymongo.errors import PyMongoError
 
 from app.core.config import get_settings
 
 settings = get_settings()
+logger = logging.getLogger(__name__)
 
-mongo_client = MongoClient(settings.mongodb_uri)
+mongo_client = MongoClient(
+    settings.mongodb_uri,
+    serverSelectionTimeoutMS=10000,
+    connectTimeoutMS=10000,
+    socketTimeoutMS=10000,
+)
 mongo_db = mongo_client[settings.mongodb_db_name]
 
 
@@ -19,8 +27,15 @@ def get_db() -> Generator[Database, None, None]:
     yield mongo_db
 
 
-def ping_db() -> None:
-    mongo_client.admin.command("ping")
+def ping_db(*, raise_on_error: bool = True) -> bool:
+    try:
+        mongo_client.admin.command("ping")
+        return True
+    except PyMongoError as exc:
+        logger.warning("MongoDB ping failed: %s", exc)
+        if raise_on_error:
+            raise
+        return False
 
 
 def close_mongo_client() -> None:

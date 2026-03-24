@@ -1,4 +1,5 @@
 from contextlib import asynccontextmanager
+import logging
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
@@ -9,14 +10,18 @@ from app.db.init_db import seed_database
 from app.db.session import SessionLocal, ensure_indexes, ping_db
 
 settings = get_settings()
+logger = logging.getLogger(__name__)
 
 
 @asynccontextmanager
 async def lifespan(_: FastAPI):
-    ping_db()
-    db = SessionLocal()
-    ensure_indexes(db)
-    seed_database(db)
+    db_ready = ping_db(raise_on_error=False)
+    if db_ready:
+        db = SessionLocal()
+        ensure_indexes(db)
+        seed_database(db)
+    else:
+        logger.warning("Starting API without MongoDB initialization because database is unreachable at startup")
     yield
 
 

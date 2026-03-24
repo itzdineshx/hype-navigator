@@ -28,12 +28,12 @@ const DashboardSidebar = ({ collapsed, onToggle }: Props) => {
       )}
     >
       {/* Logo */}
-      <div className="h-14 flex items-center px-4 border-b border-border">
+      <div className="h-16 flex items-center px-4 border-b border-border">
         <Link to="/" className="flex items-center gap-2 overflow-hidden">
           <img
             src="/hypex_logo.png"
             alt="Hypex AI logo"
-            className="w-8 h-8 rounded-lg object-contain flex-shrink-0 glow-primary"
+            className="w-10 h-10 rounded-lg object-contain flex-shrink-0 glow-primary"
           />
           {!collapsed && (
             <span className="text-sm font-bold text-foreground whitespace-nowrap">Hypex AI</span>

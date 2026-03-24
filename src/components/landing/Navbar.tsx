@@ -34,7 +34,7 @@ const Navbar = () => {
           <img
             src="/hypex_logo.png"
             alt="Hypex AI logo"
-            className="w-8 h-8 rounded-lg object-contain glow-primary group-hover:scale-110 transition-transform"
+            className="w-10 h-10 rounded-lg object-contain glow-primary group-hover:scale-110 transition-transform"
           />
           <span className="text-lg font-bold text-foreground tracking-tight">
             Hypex <span className="gradient-text">AI</span>

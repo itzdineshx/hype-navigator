@@ -2,6 +2,7 @@ import json
 from functools import lru_cache
 from pathlib import Path
 from typing import Annotated
+from urllib.parse import urlparse
 
 from pydantic import field_validator
 from pydantic_settings import BaseSettings, NoDecode, SettingsConfigDict
@@ -47,9 +48,20 @@ class Settings(BaseSettings):
             raw = value.strip()
             if not raw:
                 return []
+            parsed: list[str]
             if raw.startswith("["):
-                return json.loads(raw)
-            return [item.strip() for item in raw.split(",") if item.strip()]
+                try:
+                    loaded = json.loads(raw)
+                    parsed = [str(item).strip() for item in loaded if str(item).strip()]
+                except json.JSONDecodeError:
+                    # Fallback for malformed JSON from hosting provider env var UIs.
+                    stripped = raw.strip("[]")
+                    parsed = [item.strip().strip('"').strip("'") for item in stripped.split(",") if item.strip()]
+            else:
+                parsed = [item.strip() for item in raw.split(",") if item.strip()]
+
+            valid_origins = [origin for origin in parsed if urlparse(origin).scheme in {"http", "https"} and urlparse(origin).netloc]
+            return valid_origins
         return value
 
     @field_validator("reddit_subreddits", "twitter_queries", mode="before")
